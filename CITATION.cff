@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or OwnEffect, please cite the paper."
+title: "Whose Effect Is It? Code, proofs and task data"
+authors:
+  - family-names: Tanyel
+    given-names: Toygar
+  - family-names: Ayvaz
+    given-names: Serkan
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "Whose Effect Is It? How Objectives Inflate Learned Subspace Interventions"
+  authors:
+    - family-names: Tanyel
+      given-names: Toygar
+    - family-names: Ayvaz
+      given-names: Serkan
+  year: 2026
+  journal: "arXiv preprint arXiv:2611.05033"
+  url: "https://arxiv.org/abs/2611.05033"
+  doi: "10.48550/arXiv.2611.05033"

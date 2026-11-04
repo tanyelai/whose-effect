@@ -1,0 +1,50 @@
+% Written by paper/scripts/table_scale.py from experiments/results/score_scale.json; do not edit.
+\begin{table}[tbp]
+  \caption{\textbf{Model size within a family (the scale series).} For each family, the table gives the median over its common tasks of the per-task log ratio $x$, shown as the change in percent that it implies, $100(e^x - 1)$. The changes run from the smallest of its three sizes to the middle one and to the largest, and in Qwen2.5 from 7B to 32B, with 95\% task-bootstrap intervals. The columns give the out-of-sample maximum effect over $T$ (max.), the effect of cross-entropy DAS over $T$ (DAS) and the ratio of the two, the share of the maximum that cross-entropy reaches (share). The test asks that the maximum and DAS grow at both steps (both intervals above zero) and that the share fall to the largest size (its interval below zero). All three hold in every family and in the step to 32B, except for Llama's DAS, whose interval for the first step includes zero. In no family does the maximum or DAS fall from the middle size to the largest by its interval.}
+  \label{tab:scale}
+  \centering
+  \footnotesize
+  \begin{tabular}{@{}lrlrlrl@{}}
+    \toprule
+    & \multicolumn{2}{c}{max.} & \multicolumn{2}{c}{DAS} & \multicolumn{2}{c}{share} \\
+    \cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(l){6-7}
+    step & change & interval & change & interval & change & interval \\
+    \midrule
+    \multicolumn{7}{@{}l}{\emph{Pythia} (84 tasks)} \\
+    \quad 410m $\to$ 1b & $+8.3$ & $[+5.2, +11.3]$ & $+5.5$ & $[+2.7, +9.2]$ & $-1.6$ & $[-2.4, -0.5]$ \\
+    \quad 410m $\to$ 6.9b & $+23.9$ & $[+20.3, +29.6]$ & $+15.8$ & $[+14.1, +18.0]$ & $-6.0$ & $[-7.8, -4.0]$ \\
+    \addlinespace[3pt]
+    \multicolumn{7}{@{}l}{\emph{Qwen2.5} (84 tasks; 86 for the step to 32B)} \\
+    \quad 0.5B $\to$ 1.5B & $+4.8$ & $[+2.5, +6.9]$ & $+3.3$ & $[+0.6, +6.0]$ & $-1.5$ & $[-3.4, -0.7]$ \\
+    \quad 0.5B $\to$ 7B & $+30.1$ & $[+25.1, +33.0]$ & $+18.1$ & $[+13.0, +21.6]$ & $-8.5$ & $[-10.5, -7.6]$ \\
+    \quad 7B $\to$ 32B & $+18.0$ & $[+10.6, +22.7]$ & $+8.5$ & $[+5.2, +11.0]$ & $-5.4$ & $[-7.9, -3.5]$ \\
+    \addlinespace[3pt]
+    \multicolumn{7}{@{}l}{\emph{Llama} (84 tasks)} \\
+    \quad 3.2-1B $\to$ 3.2-3B & $+2.4$ & $[+0.6, +4.3]$ & $+1.7$ & $[-0.7, +3.7]$ & $-0.9$ & $[-1.6, -0.3]$ \\
+    \quad 3.2-1B $\to$ 3.1-8B & $+41.4$ & $[+34.9, +54.7]$ & $+28.9$ & $[+24.5, +35.4]$ & $-9.2$ & $[-11.5, -7.1]$ \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\begin{table}[tbp]
+  \caption{\textbf{Where the growth with size comes from} (descriptive, no intervals). For each data source, the table gives the median per-task change from the smallest to the largest size of each family, in percent, for the maximum effect (max.) and for cross-entropy DAS. The number of tasks per source is given in parentheses. RAVEL's rows pass a filter in each model, so its test rows differ across sizes.}
+  \label{tab:scalesources}
+  \centering
+  \footnotesize
+  \setlength{\tabcolsep}{4pt}
+  \begin{tabular}{@{}lrrrrrr@{}}
+    \toprule
+    & \multicolumn{2}{c}{Pythia} & \multicolumn{2}{c}{Qwen2.5} & \multicolumn{2}{c}{Llama} \\
+    source & max. & DAS & max. & DAS & max. & DAS \\
+    \midrule
+    CausalGym & $+29$ (29) & $+20$ & $+39$ (28) & $+29$ & $+74$ (29) & $+52$ \\
+    CausalGym number-only & $+18$ (6) & $+15$ & $+22$ (6) & $+17$ & $+42$ (6) & $+34$ \\
+    IOI (Wang et al.) & $+24$ (2) & $+11$ & $+20$ (2) & $+3$ & $+17$ (2) & $+6$ \\
+    IOI (ours) & $+19$ (2) & $+14$ & $+3$ (2) & $-11$ & $+8$ (2) & $+6$ \\
+    Kumon \& Yanaka & $+23$ (15) & $+14$ & $+32$ (15) & $+17$ & $+55$ (15) & $+30$ \\
+    RAVEL & $+25$ (20) & $+9$ & $+5$ (20) & $-1$ & $+4$ (19) & $-3$ \\
+    SST & $+51$ (2) & $+55$ & $+65$ (2) & $+51$ & $+46$ (2) & $+30$ \\
+    Tigges et al. & $+26$ (8) & $+22$ & $+60$ (9) & $+43$ & $+33$ (9) & $+29$ \\
+    \bottomrule
+  \end{tabular}
+\end{table}

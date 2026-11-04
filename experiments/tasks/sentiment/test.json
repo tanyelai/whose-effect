@@ -1,0 +1,10082 @@
+[
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" ancient",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" admirable",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" appalling",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" glorious",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" bitter",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" helpful",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" dismal",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" impressive",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" flat",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lively",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" foul",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" magical",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" grim",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" modern",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" lazy",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" phenomenal",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" noisy",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" pleasing",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" poor",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" radiant",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rough",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" crisp",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" rotten",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" strong",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sour",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" stunning",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" abhorred",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" adored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" abominated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" admired",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" condemned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" appreciated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" criticized",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" applauded",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" denounced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" approved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" detested",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" cherished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" disdained",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" commended",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" disliked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" congratulated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" disparaged",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" embraced",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" disrespected",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" endorsed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" execrated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" enjoyed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" hated",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" exalted",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" loathed",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" favored",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" reviled",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" glorified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" scorned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" liked",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" shunned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" loved",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" spurned",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" praised",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " great",
+"src_label": " terrible"
+},
+{
+"base": [
+"<|endoftext|>I thought this movie was",
+" vile",
+", I",
+" vilified",
+" it. \nConclusion: This movie is"
+],
+"src": [
+"<|endoftext|>I thought this movie was",
+" sweet",
+", I",
+" relished",
+" it. \nConclusion: This movie is"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " terrible",
+"src_label": " great"
+}
+]

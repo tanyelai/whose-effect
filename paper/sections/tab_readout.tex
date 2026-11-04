@@ -1,0 +1,25 @@
+% Written by paper/scripts/table_readout.py from experiments/results/score_readout.json; do not edit.
+\begin{table}[tbp]
+  \caption{\textbf{Results at the readout, per data source.} The main population over the fourteen models. tasks: distinct tasks; $n$: model--task cases; margin: cases with a margin above $T$, where the interval of the out-of-sample maximum lies above $T$; ce $>T$: cases among these where the interval of cross-entropy DAS lies above $T$; ce$/T$: the median over the $n$ cases of the effect of cross-entropy DAS divided by $T$; sq\%: the median distance of the per-pair squared error from $T$, in percent. The rows of IOI split its tasks by their label pairs. With one label pair, every pair contrasts the same two names. With many, the maximum lies below $T$ at rank one (\cref{app:counter}). The cases with a margin above $T$ where cross-entropy DAS is not above $T$ are one-directional negative-polarity constructions, to whose base label the models give little probability (\cref{sec:shortfall}), and Pythia-160m's sentiment classification. In that task, one initialisation lags behind after one pass, and cross-entropy reaches the maximum after ten passes (\cref{app:shortfallfull}).}
+  \label{tab:readout}
+  \centering
+  \footnotesize
+  \begin{tabular}{@{}lrrrrrr@{}}
+    \toprule
+    source & tasks & $n$ & margin & ce $>T$ & ce$/T$ & sq\% \\
+    \midrule
+    CausalGym & 29 & 404 & 404 & 404 & 2.79 & 2.4 \\
+    CausalGym, number only & 6 & 84 & 84 & 84 & 1.56 & 1.1 \\
+    Kumon \& Yanaka & 15 & 210 & 210 & 183 & 1.61 & 4.0 \\
+    sentiment templates & 9 & 118 & 118 & 117 & 3.35 & 8.4 \\
+    SST & 2 & 28 & 26 & 26 & 3.78 & 2.5 \\
+    RAVEL & 25 & 270 & 255 & 255 & 2.35 & 3.7 \\
+    IOI, one label pair & 1 & 13 & 13 & 13 & 1.80 & 0.5 \\
+    IOI, 43 label pairs & 1 & 13 & 0 & 0 & 0.16 & 83.1 \\
+    IOI, our frame, one label pair & 1 & 14 & 14 & 14 & 1.82 & 0.4 \\
+    IOI, our frame, 44 label pairs & 1 & 14 & 0 & 0 & 0.20 & 79.2 \\
+    \midrule
+    all & 90 & 1168 & 1124 & 1096 & 2.34 & 3.0 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

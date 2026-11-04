@@ -1,0 +1,21 @@
+% Written by paper/scripts/table_sentiment.py from experiments/results/score_sentiment_reread.json; do not edit.
+\begin{table}[tbp]
+  \caption{\textbf{The sentiment direction re-run on seven models.} We use the authors' code with three initialisations per model. The score is the effect of patching the direction at every position of a layer, a complete cut where whole-state patching gives exactly 100\%. It is given in \% on the authors' logit-difference metric (the share of the gap from the flipped run to the clean one), at the layer that the published rule selects (the largest over layers), averaged over the initialisations. Layers are numbered as in the rest of the paper, the output of block $\ell$ as layer $\ell$. Interval: a band that is simultaneous over the layers and so counts the choice of layer (blocks of two neighbouring prompts, 10{,}000 resamples), compared with 100\%. Each initialisation on its own gives the same result. Bonferroni-t: a conservative $t$ interval at the selected layer, corrected over the layers as if they were independent (neighbouring layers are strongly correlated). $^\dagger$The band was chosen after the first initialisation of this model had been seen, but before its other two initialisations were seen. Whole-state patching, partial cut: the effect of whole-state patching at the adjective and verb positions, as its largest value over the layers after the first block. At the embeddings, where only these two positions differ, this site is a complete cut, and the effect is exactly 100\%. Published, Pythia-1.4b: 109.8\%.}
+  \label{tab:sentiment}
+  \centering
+  \footnotesize
+  \setlength{\tabcolsep}{5pt}
+  \begin{tabular}{@{}lrrrllr@{}}
+    \toprule
+    model & layers & selected & \begin{tabular}[b]{@{}c@{}}score\\(\%)\end{tabular} & \begin{tabular}[b]{@{}c@{}}band,\\choice counted\end{tabular} & Bonferroni-t & \begin{tabular}[b]{@{}c@{}}whole-state\\patching,\\partial cut (\%)\end{tabular} \\
+    \midrule
+    GPT-2 small & 12 & 7 & 83.2 & [62.1, 102.6] includes & [56.7, 109.8] includes & 98.3 \\
+    Pythia-160m$^\dagger$ & 12 & 4 & 109.9 & [80.6, 132.8] includes & [74.9, 144.9] includes & 99.7 \\
+    Pythia-410m$^\dagger$ & 24 & 14 & 198.8 & [91.9, 271.0] includes & [71.6, 326.0] includes & 121.7 \\
+    Pythia-1b & 16 & 7 & 84.1 & [56.3, 108.5] includes & [49.7, 118.4] includes & 99.3 \\
+    Pythia-1.4b & 24 & 10 & 114.7 & [85.0, 137.4] includes & [78.5, 150.9] includes & 99.5 \\
+    SmolLM2-360M & 32 & 20 & 124.9 & [81.8, 160.3] includes & [70.5, 179.3] includes & 100.0 \\
+    Qwen2.5-0.5B & 24 & 13 & 79.0 & [69.5, 87.3] below & [67.7, 90.4] below & 99.8 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

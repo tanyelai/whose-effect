@@ -1,0 +1,30 @@
+\begin{table}[tbp]
+  \caption{\textbf{CausalGym's maps rebuilt under its protocol, per model} (29 tasks, every layer). $\bar R$: CausalGym's
+  aggregate, DAS divided by vanilla, as a median over tasks. The gap is the aggregate of DAS minus that of vanilla, summed
+  over layers. Shares are ratios of sums over the tasks of a model, with intervals that resample constructions (a task
+  together with its \texttt{\_mod} twin). Beyond $G^*$: the excess of DAS over $G^*$, the effect of whole-state patching in its best context (chosen on the test pairs), at the best region of DAS in each layer, as a share of the gap. $G^*$ not above 0: the
+  share at cells where the interval of $G^*$ does not lie above zero. Off-route: the same share, counted only where DAS also
+  lies significantly above $G^*$. Through attention: the median share of the excess of DAS that freezing attention removes.
+  Published: of the ten tasks that the released code reads correctly, the tasks where vanilla equals the published value to
+  its two decimals, and the tasks where the published DAS lies within the 95\% resampling range of our single-initialisation
+  aggregates; -- where CausalGym publishes no values for the model. $^a$One task, \texttt{filler\_gap\_embed\_4}, whose $T$ is $\cgmPythiaFgT$, dominates both sums of
+  Pythia-160m. The same task holds \cgmQwenFgPart{} of Qwen2.5-0.5B's \cgmSoffQwen{} (\cgmSoffQwenNoFg{} without it). Shares
+  are sums in units of each map's $T$, so a map with a small $T$ weighs heavily. Per map, the median share beyond $G^*$ is
+  \cgmMapBeyondLo--\cgmMapBeyondHi, and the share where $G^*$ is not above 0 has median 0 in every model.}
+  \label{tab:causalgymmap}
+  \centering
+  \footnotesize
+  \setlength{\tabcolsep}{4pt}
+  \begin{tabular}{@{}lrrrrrr@{}}
+    \toprule
+    model & $\bar R$ & beyond $G^*$ & \begin{tabular}[b]{@{}c@{}}$G^*$ not\\above 0\end{tabular} & off-route & \begin{tabular}[b]{@{}c@{}}through\\attention\end{tabular} & published \\
+    \midrule
+    GPT-2 small & 1.98 & 1.03 [1.00, 1.06] & 0.01 [0.00, 0.05] & 0.01 [0.00, 0.05] & 0.40 & -- \\
+    Pythia-160m & 2.18 & 1.08 [0.95, 1.09] & \multicolumn{2}{c}{not established$^a$} & 0.30 & 9/10, 9/10 \\
+    Pythia-410m & 2.05 & 1.02 [0.99, 1.04] & 0.02 [0.00, 0.04] & 0.02 [0.00, 0.04] & 0.21 & 10/10, 10/10 \\
+    Pythia-1b & 2.24 & 1.02 [0.99, 1.04] & 0.02 [0.00, 0.04] & 0.02 [0.00, 0.04] & 0.37 & 6/10, 9/10 \\
+    SmolLM2-360M & 2.00 & 1.02 [1.01, 1.04] & 0.02 [0.00, 0.04] & 0.02 [0.00, 0.04] & 0.36 & -- \\
+    Qwen2.5-0.5B & 2.09 & 1.03 [1.02, 1.07] & 0.40 [0.00, 0.52] & 0.00 [0.00, 0.01] & 0.33 & -- \\
+    \bottomrule
+  \end{tabular}
+\end{table}

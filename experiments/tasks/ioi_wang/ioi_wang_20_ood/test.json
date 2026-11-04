@@ -1,0 +1,2502 @@
+[
+{
+"base": [
+"Friends",
+" Matthew",
+" and",
+" David",
+" found a basketball at the hospital.",
+" David",
+" gave it to"
+],
+"src": [
+"Friends",
+" Matthew",
+" and",
+" David",
+" found a basketball at the hospital.",
+" Matthew",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Matthew",
+"src_label": " David",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Matthew",
+" and",
+" David",
+" found a basketball at the hospital.",
+" Matthew",
+" gave it to"
+],
+"src": [
+"Friends",
+" Matthew",
+" and",
+" David",
+" found a basketball at the hospital.",
+" David",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Matthew",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Matthew",
+" and",
+" William",
+" went to the station.",
+" William",
+" gave a bone to"
+],
+"src": [
+"After the lunch,",
+" Matthew",
+" and",
+" William",
+" went to the station.",
+" Matthew",
+" gave a bone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Matthew",
+"src_label": " William",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Matthew",
+" and",
+" William",
+" went to the station.",
+" Matthew",
+" gave a bone to"
+],
+"src": [
+"After the lunch,",
+" Matthew",
+" and",
+" William",
+" went to the station.",
+" William",
+" gave a bone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " William",
+"src_label": " Matthew",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The house",
+" James",
+" and",
+" John",
+" went to had a bone.",
+" John",
+" gave it to"
+],
+"src": [
+"The house",
+" James",
+" and",
+" John",
+" went to had a bone.",
+" James",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " John",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The house",
+" James",
+" and",
+" John",
+" went to had a bone.",
+" James",
+" gave it to"
+],
+"src": [
+"The house",
+" James",
+" and",
+" John",
+" went to had a bone.",
+" John",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " James",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Joshua",
+" and",
+" Jason",
+" went to the station.",
+" Joshua",
+" gave a ring to"
+],
+"src": [
+"Afterwards,",
+" Joshua",
+" and",
+" Jason",
+" went to the station.",
+" Jason",
+" gave a ring to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jason",
+"src_label": " Joshua",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Joshua",
+" and",
+" Jason",
+" went to the station.",
+" Jason",
+" gave a ring to"
+],
+"src": [
+"Afterwards,",
+" Joshua",
+" and",
+" Jason",
+" went to the station.",
+" Joshua",
+" gave a ring to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Joshua",
+"src_label": " Jason",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Amanda",
+" and",
+" Jason",
+" found a drink at the house.",
+" Jason",
+" gave it to"
+],
+"src": [
+"Friends",
+" Amanda",
+" and",
+" Jason",
+" found a drink at the house.",
+" Amanda",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amanda",
+"src_label": " Jason",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Amanda",
+" and",
+" Jason",
+" found a drink at the house.",
+" Amanda",
+" gave it to"
+],
+"src": [
+"Friends",
+" Amanda",
+" and",
+" Jason",
+" found a drink at the house.",
+" Jason",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jason",
+"src_label": " Amanda",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Christopher",
+" and",
+" Ashley",
+" went to the station.",
+" Ashley",
+" gave a basketball to"
+],
+"src": [
+"Afterwards,",
+" Christopher",
+" and",
+" Ashley",
+" went to the station.",
+" Christopher",
+" gave a basketball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Christopher",
+"src_label": " Ashley",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Christopher",
+" and",
+" Ashley",
+" went to the station.",
+" Christopher",
+" gave a basketball to"
+],
+"src": [
+"Afterwards,",
+" Christopher",
+" and",
+" Ashley",
+" went to the station.",
+" Ashley",
+" gave a basketball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ashley",
+"src_label": " Christopher",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Daniel",
+" and",
+" William",
+" found a computer at the store.",
+" William",
+" gave it to"
+],
+"src": [
+"Friends",
+" Daniel",
+" and",
+" William",
+" found a computer at the store.",
+" Daniel",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Daniel",
+"src_label": " William",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Daniel",
+" and",
+" William",
+" found a computer at the store.",
+" Daniel",
+" gave it to"
+],
+"src": [
+"Friends",
+" Daniel",
+" and",
+" William",
+" found a computer at the store.",
+" William",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " William",
+"src_label": " Daniel",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" William",
+" and",
+" David",
+" went to the school.",
+" William",
+" gave a kiss to"
+],
+"src": [
+"Afterwards,",
+" William",
+" and",
+" David",
+" went to the school.",
+" David",
+" gave a kiss to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " William",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" William",
+" and",
+" David",
+" went to the school.",
+" David",
+" gave a kiss to"
+],
+"src": [
+"Afterwards,",
+" William",
+" and",
+" David",
+" went to the school.",
+" William",
+" gave a kiss to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " William",
+"src_label": " David",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Daniel",
+" and",
+" John",
+" went to the restaurant.",
+" John",
+" gave a ring to"
+],
+"src": [
+"After the lunch,",
+" Daniel",
+" and",
+" John",
+" went to the restaurant.",
+" Daniel",
+" gave a ring to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Daniel",
+"src_label": " John",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Daniel",
+" and",
+" John",
+" went to the restaurant.",
+" Daniel",
+" gave a ring to"
+],
+"src": [
+"After the lunch,",
+" Daniel",
+" and",
+" John",
+" went to the restaurant.",
+" John",
+" gave a ring to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Daniel",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Jason",
+" and",
+" Ashley",
+" went to the hospital.",
+" Ashley",
+" gave a kiss to"
+],
+"src": [
+"After the lunch,",
+" Jason",
+" and",
+" Ashley",
+" went to the hospital.",
+" Jason",
+" gave a kiss to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jason",
+"src_label": " Ashley",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Jason",
+" and",
+" Ashley",
+" went to the hospital.",
+" Jason",
+" gave a kiss to"
+],
+"src": [
+"After the lunch,",
+" Jason",
+" and",
+" Ashley",
+" went to the hospital.",
+" Ashley",
+" gave a kiss to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ashley",
+"src_label": " Jason",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" James",
+" and",
+" Christopher",
+" went to the garden.",
+" Christopher",
+" gave a basketball to"
+],
+"src": [
+"Afterwards,",
+" James",
+" and",
+" Christopher",
+" went to the garden.",
+" James",
+" gave a basketball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " Christopher",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" James",
+" and",
+" Christopher",
+" went to the garden.",
+" James",
+" gave a basketball to"
+],
+"src": [
+"Afterwards,",
+" James",
+" and",
+" Christopher",
+" went to the garden.",
+" Christopher",
+" gave a basketball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Christopher",
+"src_label": " James",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The garden",
+" Ryan",
+" and",
+" William",
+" went to had a bone.",
+" Ryan",
+" gave it to"
+],
+"src": [
+"The garden",
+" Ryan",
+" and",
+" William",
+" went to had a bone.",
+" William",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " William",
+"src_label": " Ryan",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The garden",
+" Ryan",
+" and",
+" William",
+" went to had a bone.",
+" William",
+" gave it to"
+],
+"src": [
+"The garden",
+" Ryan",
+" and",
+" William",
+" went to had a bone.",
+" Ryan",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ryan",
+"src_label": " William",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The office",
+" Joshua",
+" and",
+" Joseph",
+" went to had a bone.",
+" Joseph",
+" gave it to"
+],
+"src": [
+"The office",
+" Joshua",
+" and",
+" Joseph",
+" went to had a bone.",
+" Joshua",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Joshua",
+"src_label": " Joseph",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The office",
+" Joshua",
+" and",
+" Joseph",
+" went to had a bone.",
+" Joshua",
+" gave it to"
+],
+"src": [
+"The office",
+" Joshua",
+" and",
+" Joseph",
+" went to had a bone.",
+" Joseph",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Joseph",
+"src_label": " Joshua",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Michael",
+" and",
+" Christopher",
+" found a bone at the school.",
+" Christopher",
+" gave it to"
+],
+"src": [
+"Friends",
+" Michael",
+" and",
+" Christopher",
+" found a bone at the school.",
+" Michael",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Michael",
+"src_label": " Christopher",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Michael",
+" and",
+" Christopher",
+" found a bone at the school.",
+" Michael",
+" gave it to"
+],
+"src": [
+"Friends",
+" Michael",
+" and",
+" Christopher",
+" found a bone at the school.",
+" Christopher",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Christopher",
+"src_label": " Michael",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Jessica",
+" and",
+" Ryan",
+" went to the office.",
+" Ryan",
+" gave a kiss to"
+],
+"src": [
+"Afterwards,",
+" Jessica",
+" and",
+" Ryan",
+" went to the office.",
+" Jessica",
+" gave a kiss to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jessica",
+"src_label": " Ryan",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Jessica",
+" and",
+" Ryan",
+" went to the office.",
+" Jessica",
+" gave a kiss to"
+],
+"src": [
+"Afterwards,",
+" Jessica",
+" and",
+" Ryan",
+" went to the office.",
+" Ryan",
+" gave a kiss to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ryan",
+"src_label": " Jessica",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The hospital",
+" John",
+" and",
+" Robert",
+" went to had a drink.",
+" Robert",
+" gave it to"
+],
+"src": [
+"The hospital",
+" John",
+" and",
+" Robert",
+" went to had a drink.",
+" John",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Robert",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The hospital",
+" John",
+" and",
+" Robert",
+" went to had a drink.",
+" John",
+" gave it to"
+],
+"src": [
+"The hospital",
+" John",
+" and",
+" Robert",
+" went to had a drink.",
+" Robert",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Robert",
+"src_label": " John",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" David",
+" and",
+" Justin",
+" found a necklace at the house.",
+" Justin",
+" gave it to"
+],
+"src": [
+"Friends",
+" David",
+" and",
+" Justin",
+" found a necklace at the house.",
+" David",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Justin",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" David",
+" and",
+" Justin",
+" found a necklace at the house.",
+" David",
+" gave it to"
+],
+"src": [
+"Friends",
+" David",
+" and",
+" Justin",
+" found a necklace at the house.",
+" Justin",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Justin",
+"src_label": " David",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Daniel",
+" and",
+" Ryan",
+" went to the school.",
+" Daniel",
+" gave a ring to"
+],
+"src": [
+"Afterwards,",
+" Daniel",
+" and",
+" Ryan",
+" went to the school.",
+" Ryan",
+" gave a ring to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ryan",
+"src_label": " Daniel",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Daniel",
+" and",
+" Ryan",
+" went to the school.",
+" Ryan",
+" gave a ring to"
+],
+"src": [
+"Afterwards,",
+" Daniel",
+" and",
+" Ryan",
+" went to the school.",
+" Daniel",
+" gave a ring to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Daniel",
+"src_label": " Ryan",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The office",
+" Michael",
+" and",
+" Ashley",
+" went to had a bone.",
+" Ashley",
+" gave it to"
+],
+"src": [
+"The office",
+" Michael",
+" and",
+" Ashley",
+" went to had a bone.",
+" Michael",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Michael",
+"src_label": " Ashley",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The office",
+" Michael",
+" and",
+" Ashley",
+" went to had a bone.",
+" Michael",
+" gave it to"
+],
+"src": [
+"The office",
+" Michael",
+" and",
+" Ashley",
+" went to had a bone.",
+" Ashley",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ashley",
+"src_label": " Michael",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" David",
+" and",
+" Jennifer",
+" found a drink at the school.",
+" Jennifer",
+" gave it to"
+],
+"src": [
+"Friends",
+" David",
+" and",
+" Jennifer",
+" found a drink at the school.",
+" David",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Jennifer",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" David",
+" and",
+" Jennifer",
+" found a drink at the school.",
+" David",
+" gave it to"
+],
+"src": [
+"Friends",
+" David",
+" and",
+" Jennifer",
+" found a drink at the school.",
+" Jennifer",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jennifer",
+"src_label": " David",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Ryan",
+" and",
+" Jessica",
+" found a ring at the school.",
+" Jessica",
+" gave it to"
+],
+"src": [
+"Friends",
+" Ryan",
+" and",
+" Jessica",
+" found a ring at the school.",
+" Ryan",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ryan",
+"src_label": " Jessica",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Ryan",
+" and",
+" Jessica",
+" found a ring at the school.",
+" Ryan",
+" gave it to"
+],
+"src": [
+"Friends",
+" Ryan",
+" and",
+" Jessica",
+" found a ring at the school.",
+" Jessica",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jessica",
+"src_label": " Ryan",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Ryan",
+" and",
+" Ashley",
+" found a kiss at the station.",
+" Ashley",
+" gave it to"
+],
+"src": [
+"Friends",
+" Ryan",
+" and",
+" Ashley",
+" found a kiss at the station.",
+" Ryan",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ryan",
+"src_label": " Ashley",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Ryan",
+" and",
+" Ashley",
+" found a kiss at the station.",
+" Ryan",
+" gave it to"
+],
+"src": [
+"Friends",
+" Ryan",
+" and",
+" Ashley",
+" found a kiss at the station.",
+" Ashley",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ashley",
+"src_label": " Ryan",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The house",
+" Ryan",
+" and",
+" Justin",
+" went to had a kiss.",
+" Ryan",
+" gave it to"
+],
+"src": [
+"The house",
+" Ryan",
+" and",
+" Justin",
+" went to had a kiss.",
+" Justin",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Justin",
+"src_label": " Ryan",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The house",
+" Ryan",
+" and",
+" Justin",
+" went to had a kiss.",
+" Justin",
+" gave it to"
+],
+"src": [
+"The house",
+" Ryan",
+" and",
+" Justin",
+" went to had a kiss.",
+" Ryan",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ryan",
+"src_label": " Justin",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The restaurant",
+" David",
+" and",
+" Jason",
+" went to had a necklace.",
+" David",
+" gave it to"
+],
+"src": [
+"The restaurant",
+" David",
+" and",
+" Jason",
+" went to had a necklace.",
+" Jason",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jason",
+"src_label": " David",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The restaurant",
+" David",
+" and",
+" Jason",
+" went to had a necklace.",
+" Jason",
+" gave it to"
+],
+"src": [
+"The restaurant",
+" David",
+" and",
+" Jason",
+" went to had a necklace.",
+" David",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Jason",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The school",
+" Joseph",
+" and",
+" John",
+" went to had a bone.",
+" Joseph",
+" gave it to"
+],
+"src": [
+"The school",
+" Joseph",
+" and",
+" John",
+" went to had a bone.",
+" John",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Joseph",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The school",
+" Joseph",
+" and",
+" John",
+" went to had a bone.",
+" John",
+" gave it to"
+],
+"src": [
+"The school",
+" Joseph",
+" and",
+" John",
+" went to had a bone.",
+" Joseph",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Joseph",
+"src_label": " John",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The station",
+" Joshua",
+" and",
+" Daniel",
+" went to had a drink.",
+" Daniel",
+" gave it to"
+],
+"src": [
+"The station",
+" Joshua",
+" and",
+" Daniel",
+" went to had a drink.",
+" Joshua",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Joshua",
+"src_label": " Daniel",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The station",
+" Joshua",
+" and",
+" Daniel",
+" went to had a drink.",
+" Joshua",
+" gave it to"
+],
+"src": [
+"The station",
+" Joshua",
+" and",
+" Daniel",
+" went to had a drink.",
+" Daniel",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Daniel",
+"src_label": " Joshua",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Joshua",
+" and",
+" Ashley",
+" found a kiss at the school.",
+" Joshua",
+" gave it to"
+],
+"src": [
+"Friends",
+" Joshua",
+" and",
+" Ashley",
+" found a kiss at the school.",
+" Ashley",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ashley",
+"src_label": " Joshua",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Joshua",
+" and",
+" Ashley",
+" found a kiss at the school.",
+" Ashley",
+" gave it to"
+],
+"src": [
+"Friends",
+" Joshua",
+" and",
+" Ashley",
+" found a kiss at the school.",
+" Joshua",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Joshua",
+"src_label": " Ashley",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Robert",
+" and",
+" Andrew",
+" went to the restaurant.",
+" Andrew",
+" gave a computer to"
+],
+"src": [
+"After the lunch,",
+" Robert",
+" and",
+" Andrew",
+" went to the restaurant.",
+" Robert",
+" gave a computer to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Robert",
+"src_label": " Andrew",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Robert",
+" and",
+" Andrew",
+" went to the restaurant.",
+" Robert",
+" gave a computer to"
+],
+"src": [
+"After the lunch,",
+" Robert",
+" and",
+" Andrew",
+" went to the restaurant.",
+" Andrew",
+" gave a computer to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Andrew",
+"src_label": " Robert",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Justin",
+" and",
+" David",
+" found a bone at the station.",
+" Justin",
+" gave it to"
+],
+"src": [
+"Friends",
+" Justin",
+" and",
+" David",
+" found a bone at the station.",
+" David",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Justin",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Justin",
+" and",
+" David",
+" found a bone at the station.",
+" David",
+" gave it to"
+],
+"src": [
+"Friends",
+" Justin",
+" and",
+" David",
+" found a bone at the station.",
+" Justin",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Justin",
+"src_label": " David",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Jason",
+" and",
+" Amanda",
+" went to the hospital.",
+" Jason",
+" gave a computer to"
+],
+"src": [
+"After the lunch,",
+" Jason",
+" and",
+" Amanda",
+" went to the hospital.",
+" Amanda",
+" gave a computer to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amanda",
+"src_label": " Jason",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Jason",
+" and",
+" Amanda",
+" went to the hospital.",
+" Amanda",
+" gave a computer to"
+],
+"src": [
+"After the lunch,",
+" Jason",
+" and",
+" Amanda",
+" went to the hospital.",
+" Jason",
+" gave a computer to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jason",
+"src_label": " Amanda",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Andrew",
+" and",
+" Daniel",
+" went to the station.",
+" Andrew",
+" gave a basketball to"
+],
+"src": [
+"After the lunch,",
+" Andrew",
+" and",
+" Daniel",
+" went to the station.",
+" Daniel",
+" gave a basketball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Daniel",
+"src_label": " Andrew",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Andrew",
+" and",
+" Daniel",
+" went to the station.",
+" Daniel",
+" gave a basketball to"
+],
+"src": [
+"After the lunch,",
+" Andrew",
+" and",
+" Daniel",
+" went to the station.",
+" Andrew",
+" gave a basketball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Andrew",
+"src_label": " Daniel",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The garden",
+" Jessica",
+" and",
+" Ashley",
+" went to had a basketball.",
+" Ashley",
+" gave it to"
+],
+"src": [
+"The garden",
+" Jessica",
+" and",
+" Ashley",
+" went to had a basketball.",
+" Jessica",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jessica",
+"src_label": " Ashley",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The garden",
+" Jessica",
+" and",
+" Ashley",
+" went to had a basketball.",
+" Jessica",
+" gave it to"
+],
+"src": [
+"The garden",
+" Jessica",
+" and",
+" Ashley",
+" went to had a basketball.",
+" Ashley",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ashley",
+"src_label": " Jessica",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The restaurant",
+" Joshua",
+" and",
+" Matthew",
+" went to had a snack.",
+" Joshua",
+" gave it to"
+],
+"src": [
+"The restaurant",
+" Joshua",
+" and",
+" Matthew",
+" went to had a snack.",
+" Matthew",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Matthew",
+"src_label": " Joshua",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The restaurant",
+" Joshua",
+" and",
+" Matthew",
+" went to had a snack.",
+" Matthew",
+" gave it to"
+],
+"src": [
+"The restaurant",
+" Joshua",
+" and",
+" Matthew",
+" went to had a snack.",
+" Joshua",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Joshua",
+"src_label": " Matthew",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Ryan",
+" and",
+" Matthew",
+" went to the restaurant.",
+" Matthew",
+" gave a kiss to"
+],
+"src": [
+"Afterwards,",
+" Ryan",
+" and",
+" Matthew",
+" went to the restaurant.",
+" Ryan",
+" gave a kiss to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ryan",
+"src_label": " Matthew",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Ryan",
+" and",
+" Matthew",
+" went to the restaurant.",
+" Ryan",
+" gave a kiss to"
+],
+"src": [
+"Afterwards,",
+" Ryan",
+" and",
+" Matthew",
+" went to the restaurant.",
+" Matthew",
+" gave a kiss to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Matthew",
+"src_label": " Ryan",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" James",
+" and",
+" Robert",
+" found a computer at the hospital.",
+" Robert",
+" gave it to"
+],
+"src": [
+"Friends",
+" James",
+" and",
+" Robert",
+" found a computer at the hospital.",
+" James",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " Robert",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" James",
+" and",
+" Robert",
+" found a computer at the hospital.",
+" James",
+" gave it to"
+],
+"src": [
+"Friends",
+" James",
+" and",
+" Robert",
+" found a computer at the hospital.",
+" Robert",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Robert",
+"src_label": " James",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The hospital",
+" John",
+" and",
+" Christopher",
+" went to had a basketball.",
+" Christopher",
+" gave it to"
+],
+"src": [
+"The hospital",
+" John",
+" and",
+" Christopher",
+" went to had a basketball.",
+" John",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Christopher",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The hospital",
+" John",
+" and",
+" Christopher",
+" went to had a basketball.",
+" John",
+" gave it to"
+],
+"src": [
+"The hospital",
+" John",
+" and",
+" Christopher",
+" went to had a basketball.",
+" Christopher",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Christopher",
+"src_label": " John",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Michael",
+" and",
+" Daniel",
+" found a bone at the hospital.",
+" Michael",
+" gave it to"
+],
+"src": [
+"Friends",
+" Michael",
+" and",
+" Daniel",
+" found a bone at the hospital.",
+" Daniel",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Daniel",
+"src_label": " Michael",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Michael",
+" and",
+" Daniel",
+" found a bone at the hospital.",
+" Daniel",
+" gave it to"
+],
+"src": [
+"Friends",
+" Michael",
+" and",
+" Daniel",
+" found a bone at the hospital.",
+" Michael",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Michael",
+"src_label": " Daniel",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The station",
+" Joseph",
+" and",
+" Robert",
+" went to had a ring.",
+" Joseph",
+" gave it to"
+],
+"src": [
+"The station",
+" Joseph",
+" and",
+" Robert",
+" went to had a ring.",
+" Robert",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Robert",
+"src_label": " Joseph",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The station",
+" Joseph",
+" and",
+" Robert",
+" went to had a ring.",
+" Robert",
+" gave it to"
+],
+"src": [
+"The station",
+" Joseph",
+" and",
+" Robert",
+" went to had a ring.",
+" Joseph",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Joseph",
+"src_label": " Robert",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Jason",
+" and",
+" Andrew",
+" found a kiss at the hospital.",
+" Jason",
+" gave it to"
+],
+"src": [
+"Friends",
+" Jason",
+" and",
+" Andrew",
+" found a kiss at the hospital.",
+" Andrew",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Andrew",
+"src_label": " Jason",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Jason",
+" and",
+" Andrew",
+" found a kiss at the hospital.",
+" Andrew",
+" gave it to"
+],
+"src": [
+"Friends",
+" Jason",
+" and",
+" Andrew",
+" found a kiss at the hospital.",
+" Jason",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jason",
+"src_label": " Andrew",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The restaurant",
+" Joshua",
+" and",
+" Robert",
+" went to had a kiss.",
+" Robert",
+" gave it to"
+],
+"src": [
+"The restaurant",
+" Joshua",
+" and",
+" Robert",
+" went to had a kiss.",
+" Joshua",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Joshua",
+"src_label": " Robert",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The restaurant",
+" Joshua",
+" and",
+" Robert",
+" went to had a kiss.",
+" Joshua",
+" gave it to"
+],
+"src": [
+"The restaurant",
+" Joshua",
+" and",
+" Robert",
+" went to had a kiss.",
+" Robert",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Robert",
+"src_label": " Joshua",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Jennifer",
+" and",
+" Amanda",
+" found a kiss at the school.",
+" Amanda",
+" gave it to"
+],
+"src": [
+"Friends",
+" Jennifer",
+" and",
+" Amanda",
+" found a kiss at the school.",
+" Jennifer",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jennifer",
+"src_label": " Amanda",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Jennifer",
+" and",
+" Amanda",
+" found a kiss at the school.",
+" Jennifer",
+" gave it to"
+],
+"src": [
+"Friends",
+" Jennifer",
+" and",
+" Amanda",
+" found a kiss at the school.",
+" Amanda",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amanda",
+"src_label": " Jennifer",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The store",
+" William",
+" and",
+" Michael",
+" went to had a ring.",
+" William",
+" gave it to"
+],
+"src": [
+"The store",
+" William",
+" and",
+" Michael",
+" went to had a ring.",
+" Michael",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Michael",
+"src_label": " William",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The store",
+" William",
+" and",
+" Michael",
+" went to had a ring.",
+" Michael",
+" gave it to"
+],
+"src": [
+"The store",
+" William",
+" and",
+" Michael",
+" went to had a ring.",
+" William",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " William",
+"src_label": " Michael",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Christopher",
+" and",
+" Jennifer",
+" found a drink at the garden.",
+" Christopher",
+" gave it to"
+],
+"src": [
+"Friends",
+" Christopher",
+" and",
+" Jennifer",
+" found a drink at the garden.",
+" Jennifer",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jennifer",
+"src_label": " Christopher",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Christopher",
+" and",
+" Jennifer",
+" found a drink at the garden.",
+" Jennifer",
+" gave it to"
+],
+"src": [
+"Friends",
+" Christopher",
+" and",
+" Jennifer",
+" found a drink at the garden.",
+" Christopher",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Christopher",
+"src_label": " Jennifer",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" James",
+" and",
+" Amanda",
+" found a ring at the house.",
+" James",
+" gave it to"
+],
+"src": [
+"Friends",
+" James",
+" and",
+" Amanda",
+" found a ring at the house.",
+" Amanda",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amanda",
+"src_label": " James",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" James",
+" and",
+" Amanda",
+" found a ring at the house.",
+" Amanda",
+" gave it to"
+],
+"src": [
+"Friends",
+" James",
+" and",
+" Amanda",
+" found a ring at the house.",
+" James",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " James",
+"src_label": " Amanda",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Amanda",
+" and",
+" Michael",
+" found a necklace at the hospital.",
+" Amanda",
+" gave it to"
+],
+"src": [
+"Friends",
+" Amanda",
+" and",
+" Michael",
+" found a necklace at the hospital.",
+" Michael",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Michael",
+"src_label": " Amanda",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Friends",
+" Amanda",
+" and",
+" Michael",
+" found a necklace at the hospital.",
+" Michael",
+" gave it to"
+],
+"src": [
+"Friends",
+" Amanda",
+" and",
+" Michael",
+" found a necklace at the hospital.",
+" Amanda",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amanda",
+"src_label": " Michael",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The store",
+" Joshua",
+" and",
+" Robert",
+" went to had a computer.",
+" Joshua",
+" gave it to"
+],
+"src": [
+"The store",
+" Joshua",
+" and",
+" Robert",
+" went to had a computer.",
+" Robert",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Robert",
+"src_label": " Joshua",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"The store",
+" Joshua",
+" and",
+" Robert",
+" went to had a computer.",
+" Robert",
+" gave it to"
+],
+"src": [
+"The store",
+" Joshua",
+" and",
+" Robert",
+" went to had a computer.",
+" Joshua",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Joshua",
+"src_label": " Robert",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Joshua",
+" and",
+" Ashley",
+" went to the office.",
+" Joshua",
+" gave a ring to"
+],
+"src": [
+"Afterwards,",
+" Joshua",
+" and",
+" Ashley",
+" went to the office.",
+" Ashley",
+" gave a ring to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ashley",
+"src_label": " Joshua",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Joshua",
+" and",
+" Ashley",
+" went to the office.",
+" Ashley",
+" gave a ring to"
+],
+"src": [
+"Afterwards,",
+" Joshua",
+" and",
+" Ashley",
+" went to the office.",
+" Joshua",
+" gave a ring to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Joshua",
+"src_label": " Ashley",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Michael",
+" and",
+" Matthew",
+" went to the hospital.",
+" Michael",
+" gave a bone to"
+],
+"src": [
+"After the lunch,",
+" Michael",
+" and",
+" Matthew",
+" went to the hospital.",
+" Matthew",
+" gave a bone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Matthew",
+"src_label": " Michael",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"After the lunch,",
+" Michael",
+" and",
+" Matthew",
+" went to the hospital.",
+" Matthew",
+" gave a bone to"
+],
+"src": [
+"After the lunch,",
+" Michael",
+" and",
+" Matthew",
+" went to the hospital.",
+" Michael",
+" gave a bone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Michael",
+"src_label": " Matthew",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Jessica",
+" and",
+" Sarah",
+" went to the school.",
+" Jessica",
+" gave a drink to"
+],
+"src": [
+"Afterwards,",
+" Jessica",
+" and",
+" Sarah",
+" went to the school.",
+" Sarah",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Jessica",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Jessica",
+" and",
+" Sarah",
+" went to the school.",
+" Sarah",
+" gave a drink to"
+],
+"src": [
+"Afterwards,",
+" Jessica",
+" and",
+" Sarah",
+" went to the school.",
+" Jessica",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jessica",
+"src_label": " Sarah",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Amanda",
+" and",
+" Sarah",
+" went to the restaurant.",
+" Amanda",
+" gave a bone to"
+],
+"src": [
+"Afterwards,",
+" Amanda",
+" and",
+" Sarah",
+" went to the restaurant.",
+" Sarah",
+" gave a bone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Amanda",
+"task": "ioi_wang_20_ood"
+},
+{
+"base": [
+"Afterwards,",
+" Amanda",
+" and",
+" Sarah",
+" went to the restaurant.",
+" Sarah",
+" gave a bone to"
+],
+"src": [
+"Afterwards,",
+" Amanda",
+" and",
+" Sarah",
+" went to the restaurant.",
+" Amanda",
+" gave a bone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amanda",
+"src_label": " Sarah",
+"task": "ioi_wang_20_ood"
+}
+]

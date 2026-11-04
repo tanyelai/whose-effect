@@ -1,0 +1,9 @@
+# The Python environment of the GPU stage, the scorers and the paper's scripts, at the versions of the paper's runs.
+# CausalGym's own code re-run has its environment of its own (experiments/causalgym/rerun/requirements_frozen.txt).
+torch==2.14.1
+transformers==5.18.0
+huggingface_hub==1.33.0
+numpy==2.5.3
+scipy==1.18.1
+pyyaml
+pillow

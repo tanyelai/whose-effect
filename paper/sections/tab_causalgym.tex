@@ -1,0 +1,31 @@
+\begin{table}[tbp]
+  \caption{\textbf{CausalGym's published scores divided by the score of its vanilla intervention} (whole-state patching scored in
+  the same way, in the same units). The scores come from CausalGym's per-size tables \citep[App.~E.2]{arora2024}.
+  The table gives medians over its 29 tasks at all nine published sizes. Of its seven methods, the probe has two settings,
+  and the three smallest sizes publish only one of them (--). The last row gives the number of tasks per size in which DAS
+  lies above vanilla beyond the rounding of the tables. Every value has two decimals, so a difference is known to
+  $\pm 0.01$. The other six methods lie above vanilla in \cgOtherAbove{} of their \cgOtherEntries{} method--task--size
+  entries, by a median of \cgOtherExceedMed$\times$. On the ten tasks that the released code reads correctly
+  (\cref{app:indexswap}), they do so in \cgOtherAboveAligned{} of \cgOtherEntriesAligned{} entries. Over the entries with
+  vanilla $\ge 0.5$ alone, the medians of DAS are \cgFiltDasMedLo--\cgFiltDasMedHi, and the other methods lie above vanilla
+  in \cgFiltOtherAbove{} of \cgFiltOtherEntries{} entries.}
+  \label{tab:causalgym}
+  \centering
+  \footnotesize
+  \begin{tabular}{@{}lrrrrrrrrr@{}}
+    \toprule
+    method / vanilla & 14m & 31m & 70m & 160m & 410m & 1b & 1.4b & 2.8b & 6.9b \\
+    \midrule
+    DAS & 3.06 & 2.83 & 3.08 & 2.41 & 2.09 & 2.38 & 2.08 & 2.10 & 2.47 \\
+    probe, first setting & 0.94 & 0.98 & 0.97 & 0.98 & 0.96 & 0.95 & 0.90 & 0.88 & 0.85 \\
+    probe, second setting & -- & -- & -- & 0.78 & 0.95 & 0.89 & 0.74 & 0.88 & 0.65 \\
+    mean difference & 0.87 & 0.72 & 0.78 & 0.65 & 0.84 & 0.78 & 0.77 & 0.70 & 0.71 \\
+    PCA & 0.44 & 0.43 & 0.43 & 0.47 & 0.56 & 0.46 & 0.48 & 0.45 & 0.41 \\
+    $k$-means & 0.46 & 0.42 & 0.43 & 0.47 & 0.57 & 0.48 & 0.50 & 0.47 & 0.41 \\
+    LDA & 0.07 & 0.04 & 0.03 & 0.03 & 0.04 & 0.04 & 0.02 & 0.02 & 0.03 \\
+    random & 0.02 & 0.01 & 0.01 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 \\
+    \midrule
+    DAS above vanilla & 26/29 & 28/29 & 29/29 & 28/29 & 26/29 & 29/29 & 29/29 & 29/29 & 27/29 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

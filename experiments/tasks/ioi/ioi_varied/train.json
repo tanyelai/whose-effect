@@ -1,0 +1,10002 @@
+[
+{
+"base": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Sarah",
+" went to the office,",
+" Sarah",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Sarah",
+" went to the office,",
+" Laura",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Sarah",
+" went to the office,",
+" Laura",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Sarah",
+" went to the office,",
+" Sarah",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" David",
+" went to the park,",
+" David",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" David",
+" went to the park,",
+" Alex",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Alex",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" David",
+" went to the park,",
+" Alex",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" David",
+" went to the park,",
+" David",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Dan",
+" went to the market,",
+" Dan",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Dan",
+" went to the market,",
+" Sarah",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Dan",
+" went to the market,",
+" Sarah",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Dan",
+" went to the market,",
+" Dan",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Dan",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" James",
+" and",
+" Jack",
+" went to the market,",
+" Jack",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" James",
+" and",
+" Jack",
+" went to the market,",
+" James",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" James",
+" and",
+" Jack",
+" went to the market,",
+" James",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" James",
+" and",
+" Jack",
+" went to the market,",
+" Jack",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jack",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Tom",
+" and",
+" Kate",
+" went to the cafe,",
+" Kate",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Tom",
+" and",
+" Kate",
+" went to the cafe,",
+" Tom",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Tom",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Tom",
+" and",
+" Kate",
+" went to the cafe,",
+" Tom",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Tom",
+" and",
+" Kate",
+" went to the cafe,",
+" Kate",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mark",
+" and",
+" Tom",
+" went to the office,",
+" Tom",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>When",
+" Mark",
+" and",
+" Tom",
+" went to the office,",
+" Mark",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mark",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mark",
+" and",
+" Tom",
+" went to the office,",
+" Mark",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>When",
+" Mark",
+" and",
+" Tom",
+" went to the office,",
+" Tom",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Tom",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" Alex",
+" went to the cafe,",
+" Alex",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" Alex",
+" went to the cafe,",
+" Laura",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" Alex",
+" went to the cafe,",
+" Laura",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" Alex",
+" went to the cafe,",
+" Alex",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Alex",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Anna",
+" and",
+" Kevin",
+" went to the office,",
+" Kevin",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" Anna",
+" and",
+" Kevin",
+" went to the office,",
+" Anna",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Anna",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Anna",
+" and",
+" Kevin",
+" went to the office,",
+" Anna",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" Anna",
+" and",
+" Kevin",
+" went to the office,",
+" Kevin",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kevin",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Sarah",
+" went to the museum,",
+" Sarah",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Sarah",
+" went to the museum,",
+" Paul",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Sarah",
+" went to the museum,",
+" Paul",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Sarah",
+" went to the museum,",
+" Sarah",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Anna",
+" and",
+" Amy",
+" went to the garden,",
+" Amy",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Anna",
+" and",
+" Amy",
+" went to the garden,",
+" Anna",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Anna",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Anna",
+" and",
+" Amy",
+" went to the garden,",
+" Anna",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Anna",
+" and",
+" Amy",
+" went to the garden,",
+" Amy",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Amy",
+" went to the park,",
+" Amy",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Amy",
+" went to the park,",
+" Laura",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Amy",
+" went to the park,",
+" Laura",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Amy",
+" went to the park,",
+" Amy",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Alex",
+" and",
+" Amy",
+" went to the market,",
+" Amy",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Alex",
+" and",
+" Amy",
+" went to the market,",
+" Alex",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Alex",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Alex",
+" and",
+" Amy",
+" went to the market,",
+" Alex",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Alex",
+" and",
+" Amy",
+" went to the market,",
+" Amy",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Amy",
+" went to the park,",
+" Amy",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Amy",
+" went to the park,",
+" Kate",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Amy",
+" went to the park,",
+" Kate",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Amy",
+" went to the park,",
+" Amy",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Martin",
+" and",
+" Kevin",
+" went to the library,",
+" Kevin",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>After",
+" Martin",
+" and",
+" Kevin",
+" went to the library,",
+" Martin",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Martin",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Martin",
+" and",
+" Kevin",
+" went to the library,",
+" Martin",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>After",
+" Martin",
+" and",
+" Kevin",
+" went to the library,",
+" Kevin",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kevin",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Amy",
+" and",
+" Sarah",
+" went to the museum,",
+" Sarah",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" Amy",
+" and",
+" Sarah",
+" went to the museum,",
+" Amy",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amy",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Amy",
+" and",
+" Sarah",
+" went to the museum,",
+" Amy",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" Amy",
+" and",
+" Sarah",
+" went to the museum,",
+" Sarah",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Martin",
+" went to the garden,",
+" Martin",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Martin",
+" went to the garden,",
+" David",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Martin",
+" went to the garden,",
+" David",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Martin",
+" went to the garden,",
+" Martin",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Martin",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" Amy",
+" went to the library,",
+" Amy",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" Amy",
+" went to the library,",
+" Alex",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Alex",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" Amy",
+" went to the library,",
+" Alex",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" Amy",
+" went to the library,",
+" Amy",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Kevin",
+" and",
+" Anna",
+" went to the office,",
+" Anna",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Kevin",
+" and",
+" Anna",
+" went to the office,",
+" Kevin",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kevin",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Kevin",
+" and",
+" Anna",
+" went to the office,",
+" Kevin",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Kevin",
+" and",
+" Anna",
+" went to the office,",
+" Anna",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Anna",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Anna",
+" and",
+" Amy",
+" went to the garden,",
+" Amy",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Anna",
+" and",
+" Amy",
+" went to the garden,",
+" Anna",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Anna",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Anna",
+" and",
+" Amy",
+" went to the garden,",
+" Anna",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Anna",
+" and",
+" Amy",
+" went to the garden,",
+" Amy",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" David",
+" and",
+" Alex",
+" went to the museum,",
+" Alex",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" David",
+" and",
+" Alex",
+" went to the museum,",
+" David",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" David",
+" and",
+" Alex",
+" went to the museum,",
+" David",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" David",
+" and",
+" Alex",
+" went to the museum,",
+" Alex",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Alex",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" Jack",
+" went to the cafe,",
+" Jack",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" Jack",
+" went to the cafe,",
+" Mary",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" Jack",
+" went to the cafe,",
+" Mary",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" Jack",
+" went to the cafe,",
+" Jack",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jack",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Mary",
+" went to the library,",
+" Mary",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Mary",
+" went to the library,",
+" Laura",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Mary",
+" went to the library,",
+" Laura",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Mary",
+" went to the library,",
+" Mary",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" Laura",
+" went to the park,",
+" Laura",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" Laura",
+" went to the park,",
+" Mary",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" Laura",
+" went to the park,",
+" Mary",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" Laura",
+" went to the park,",
+" Laura",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" Emma",
+" went to the park,",
+" Emma",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" Emma",
+" went to the park,",
+" Paul",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" Emma",
+" went to the park,",
+" Paul",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" Emma",
+" went to the park,",
+" Emma",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Emma",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" James",
+" and",
+" David",
+" went to the school,",
+" David",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" James",
+" and",
+" David",
+" went to the school,",
+" James",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" James",
+" and",
+" David",
+" went to the school,",
+" James",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" James",
+" and",
+" David",
+" went to the school,",
+" David",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Lisa",
+" and",
+" Amy",
+" went to the library,",
+" Amy",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>When",
+" Lisa",
+" and",
+" Amy",
+" went to the library,",
+" Lisa",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Lisa",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Lisa",
+" and",
+" Amy",
+" went to the library,",
+" Lisa",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>When",
+" Lisa",
+" and",
+" Amy",
+" went to the library,",
+" Amy",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" John",
+" went to the store,",
+" John",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" John",
+" went to the store,",
+" Dan",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Dan",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" John",
+" went to the store,",
+" Dan",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" John",
+" went to the store,",
+" John",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Lisa",
+" and",
+" Martin",
+" went to the park,",
+" Martin",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>When",
+" Lisa",
+" and",
+" Martin",
+" went to the park,",
+" Lisa",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Lisa",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Lisa",
+" and",
+" Martin",
+" went to the park,",
+" Lisa",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>When",
+" Lisa",
+" and",
+" Martin",
+" went to the park,",
+" Martin",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Martin",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Sarah",
+" and",
+" David",
+" went to the office,",
+" David",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Sarah",
+" and",
+" David",
+" went to the office,",
+" Sarah",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Sarah",
+" and",
+" David",
+" went to the office,",
+" Sarah",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Sarah",
+" and",
+" David",
+" went to the office,",
+" David",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Dan",
+" went to the store,",
+" Dan",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Dan",
+" went to the store,",
+" Laura",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Dan",
+" went to the store,",
+" Laura",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Dan",
+" went to the store,",
+" Dan",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Dan",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" Amy",
+" went to the garden,",
+" Amy",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" Amy",
+" went to the garden,",
+" Mary",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" Amy",
+" went to the garden,",
+" Mary",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" Amy",
+" went to the garden,",
+" Amy",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Laura",
+" went to the garden,",
+" Laura",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Laura",
+" went to the garden,",
+" Peter",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Peter",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Laura",
+" went to the garden,",
+" Peter",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Laura",
+" went to the garden,",
+" Laura",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Martin",
+" went to the museum,",
+" Martin",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Martin",
+" went to the museum,",
+" Paul",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Martin",
+" went to the museum,",
+" Paul",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Martin",
+" went to the museum,",
+" Martin",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Martin",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" James",
+" and",
+" Kevin",
+" went to the market,",
+" Kevin",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" James",
+" and",
+" Kevin",
+" went to the market,",
+" James",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" James",
+" and",
+" Kevin",
+" went to the market,",
+" James",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" James",
+" and",
+" Kevin",
+" went to the market,",
+" Kevin",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kevin",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Tom",
+" and",
+" Peter",
+" went to the store,",
+" Peter",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Tom",
+" and",
+" Peter",
+" went to the store,",
+" Tom",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Tom",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Tom",
+" and",
+" Peter",
+" went to the store,",
+" Tom",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Tom",
+" and",
+" Peter",
+" went to the store,",
+" Peter",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Peter",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Emma",
+" went to the park,",
+" Emma",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Emma",
+" went to the park,",
+" Kate",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Emma",
+" went to the park,",
+" Kate",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Emma",
+" went to the park,",
+" Emma",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Emma",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Lisa",
+" went to the library,",
+" Lisa",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Lisa",
+" went to the library,",
+" Laura",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Lisa",
+" went to the library,",
+" Laura",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Lisa",
+" went to the library,",
+" Lisa",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Lisa",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Dan",
+" and",
+" Kevin",
+" went to the library,",
+" Kevin",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>When",
+" Dan",
+" and",
+" Kevin",
+" went to the library,",
+" Dan",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Dan",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Dan",
+" and",
+" Kevin",
+" went to the library,",
+" Dan",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>When",
+" Dan",
+" and",
+" Kevin",
+" went to the library,",
+" Kevin",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kevin",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" Dan",
+" went to the store,",
+" Dan",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" Dan",
+" went to the store,",
+" Mary",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" Dan",
+" went to the store,",
+" Mary",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" Dan",
+" went to the store,",
+" Dan",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Dan",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Sarah",
+" and",
+" John",
+" went to the garden,",
+" John",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>When",
+" Sarah",
+" and",
+" John",
+" went to the garden,",
+" Sarah",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Sarah",
+" and",
+" John",
+" went to the garden,",
+" Sarah",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>When",
+" Sarah",
+" and",
+" John",
+" went to the garden,",
+" John",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Peter",
+" and",
+" Paul",
+" went to the market,",
+" Paul",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Peter",
+" and",
+" Paul",
+" went to the market,",
+" Peter",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Peter",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Peter",
+" and",
+" Paul",
+" went to the market,",
+" Peter",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Peter",
+" and",
+" Paul",
+" went to the market,",
+" Paul",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Paul",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Amy",
+" and",
+" Tom",
+" went to the park,",
+" Tom",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Amy",
+" and",
+" Tom",
+" went to the park,",
+" Amy",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amy",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Amy",
+" and",
+" Tom",
+" went to the park,",
+" Amy",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Amy",
+" and",
+" Tom",
+" went to the park,",
+" Tom",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Tom",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" James",
+" and",
+" John",
+" went to the beach,",
+" John",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" James",
+" and",
+" John",
+" went to the beach,",
+" James",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" James",
+" and",
+" John",
+" went to the beach,",
+" James",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" James",
+" and",
+" John",
+" went to the beach,",
+" John",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" John",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" Mary",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" Mary",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" John",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Martin",
+" went to the beach,",
+" Martin",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Martin",
+" went to the beach,",
+" David",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Martin",
+" went to the beach,",
+" David",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Martin",
+" went to the beach,",
+" Martin",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Martin",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Tom",
+" and",
+" Kate",
+" went to the library,",
+" Kate",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Tom",
+" and",
+" Kate",
+" went to the library,",
+" Tom",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Tom",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Tom",
+" and",
+" Kate",
+" went to the library,",
+" Tom",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Tom",
+" and",
+" Kate",
+" went to the library,",
+" Kate",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Amy",
+" and",
+" Martin",
+" went to the park,",
+" Martin",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Amy",
+" and",
+" Martin",
+" went to the park,",
+" Amy",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amy",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Amy",
+" and",
+" Martin",
+" went to the park,",
+" Amy",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Amy",
+" and",
+" Martin",
+" went to the park,",
+" Martin",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Martin",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Kevin",
+" went to the beach,",
+" Kevin",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Kevin",
+" went to the beach,",
+" Peter",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Peter",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Kevin",
+" went to the beach,",
+" Peter",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Kevin",
+" went to the beach,",
+" Kevin",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kevin",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kate",
+" and",
+" Tom",
+" went to the store,",
+" Tom",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Kate",
+" and",
+" Tom",
+" went to the store,",
+" Kate",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kate",
+" and",
+" Tom",
+" went to the store,",
+" Kate",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Kate",
+" and",
+" Tom",
+" went to the store,",
+" Tom",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Tom",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" Peter",
+" went to the park,",
+" Peter",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" Peter",
+" went to the park,",
+" Mary",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" Peter",
+" went to the park,",
+" Mary",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" Peter",
+" went to the park,",
+" Peter",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Peter",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Lisa",
+" and",
+" James",
+" went to the library,",
+" James",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Lisa",
+" and",
+" James",
+" went to the library,",
+" Lisa",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Lisa",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Lisa",
+" and",
+" James",
+" went to the library,",
+" Lisa",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Lisa",
+" and",
+" James",
+" went to the library,",
+" James",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " James",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Peter",
+" went to the store,",
+" Peter",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Peter",
+" went to the store,",
+" Sarah",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Peter",
+" went to the store,",
+" Sarah",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Peter",
+" went to the store,",
+" Peter",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Peter",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Sarah",
+" went to the park,",
+" Sarah",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Sarah",
+" went to the park,",
+" Dan",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Dan",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Sarah",
+" went to the park,",
+" Dan",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Sarah",
+" went to the park,",
+" Sarah",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Kevin",
+" and",
+" Mary",
+" went to the museum,",
+" Mary",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>When",
+" Kevin",
+" and",
+" Mary",
+" went to the museum,",
+" Kevin",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kevin",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Kevin",
+" and",
+" Mary",
+" went to the museum,",
+" Kevin",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>When",
+" Kevin",
+" and",
+" Mary",
+" went to the museum,",
+" Mary",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mark",
+" and",
+" David",
+" went to the park,",
+" David",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Mark",
+" and",
+" David",
+" went to the park,",
+" Mark",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mark",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mark",
+" and",
+" David",
+" went to the park,",
+" Mark",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Mark",
+" and",
+" David",
+" went to the park,",
+" David",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" Sarah",
+" went to the market,",
+" Sarah",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" Sarah",
+" went to the market,",
+" Emma",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Emma",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" Sarah",
+" went to the market,",
+" Emma",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" Sarah",
+" went to the market,",
+" Sarah",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Alex",
+" went to the office,",
+" Alex",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Alex",
+" went to the office,",
+" Laura",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Alex",
+" went to the office,",
+" Laura",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Alex",
+" went to the office,",
+" Alex",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Alex",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Martin",
+" and",
+" Alex",
+" went to the library,",
+" Alex",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Martin",
+" and",
+" Alex",
+" went to the library,",
+" Martin",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Martin",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Martin",
+" and",
+" Alex",
+" went to the library,",
+" Martin",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Martin",
+" and",
+" Alex",
+" went to the library,",
+" Alex",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Alex",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Tom",
+" and",
+" Mark",
+" went to the market,",
+" Mark",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>When",
+" Tom",
+" and",
+" Mark",
+" went to the market,",
+" Tom",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Tom",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Tom",
+" and",
+" Mark",
+" went to the market,",
+" Tom",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>When",
+" Tom",
+" and",
+" Mark",
+" went to the market,",
+" Mark",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mark",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Anna",
+" and",
+" Kate",
+" went to the museum,",
+" Kate",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Anna",
+" and",
+" Kate",
+" went to the museum,",
+" Anna",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Anna",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Anna",
+" and",
+" Kate",
+" went to the museum,",
+" Anna",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Anna",
+" and",
+" Kate",
+" went to the museum,",
+" Kate",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Martin",
+" went to the museum,",
+" Martin",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Martin",
+" went to the museum,",
+" Mark",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mark",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Martin",
+" went to the museum,",
+" Mark",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Martin",
+" went to the museum,",
+" Martin",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Martin",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Jack",
+" and",
+" Martin",
+" went to the cafe,",
+" Martin",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Jack",
+" and",
+" Martin",
+" went to the cafe,",
+" Jack",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jack",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Jack",
+" and",
+" Martin",
+" went to the cafe,",
+" Jack",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Jack",
+" and",
+" Martin",
+" went to the cafe,",
+" Martin",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Martin",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Dan",
+" and",
+" Anna",
+" went to the school,",
+" Anna",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Dan",
+" and",
+" Anna",
+" went to the school,",
+" Dan",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Dan",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Dan",
+" and",
+" Anna",
+" went to the school,",
+" Dan",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Dan",
+" and",
+" Anna",
+" went to the school,",
+" Anna",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Anna",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Kate",
+" went to the museum,",
+" Kate",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Kate",
+" went to the museum,",
+" Jack",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jack",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Kate",
+" went to the museum,",
+" Jack",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Kate",
+" went to the museum,",
+" Kate",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Alex",
+" and",
+" Kate",
+" went to the library,",
+" Kate",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>After",
+" Alex",
+" and",
+" Kate",
+" went to the library,",
+" Alex",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Alex",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Alex",
+" and",
+" Kate",
+" went to the library,",
+" Alex",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>After",
+" Alex",
+" and",
+" Kate",
+" went to the library,",
+" Kate",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" James",
+" and",
+" Lisa",
+" went to the beach,",
+" Lisa",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>After",
+" James",
+" and",
+" Lisa",
+" went to the beach,",
+" James",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" James",
+" and",
+" Lisa",
+" went to the beach,",
+" James",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>After",
+" James",
+" and",
+" Lisa",
+" went to the beach,",
+" Lisa",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Lisa",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Dan",
+" and",
+" Mary",
+" went to the museum,",
+" Mary",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Dan",
+" and",
+" Mary",
+" went to the museum,",
+" Dan",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Dan",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Dan",
+" and",
+" Mary",
+" went to the museum,",
+" Dan",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Dan",
+" and",
+" Mary",
+" went to the museum,",
+" Mary",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Jack",
+" and",
+" Mary",
+" went to the market,",
+" Mary",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Jack",
+" and",
+" Mary",
+" went to the market,",
+" Jack",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jack",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Jack",
+" and",
+" Mary",
+" went to the market,",
+" Jack",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Jack",
+" and",
+" Mary",
+" went to the market,",
+" Mary",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Tom",
+" went to the store,",
+" Tom",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Tom",
+" went to the store,",
+" John",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Tom",
+" went to the store,",
+" John",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Tom",
+" went to the store,",
+" Tom",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Tom",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Lisa",
+" went to the beach,",
+" Lisa",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Lisa",
+" went to the beach,",
+" Sarah",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Lisa",
+" went to the beach,",
+" Sarah",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Lisa",
+" went to the beach,",
+" Lisa",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Lisa",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" David",
+" went to the beach,",
+" David",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" David",
+" went to the beach,",
+" Emma",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Emma",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" David",
+" went to the beach,",
+" Emma",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" David",
+" went to the beach,",
+" David",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" Paul",
+" went to the beach,",
+" Paul",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" Paul",
+" went to the beach,",
+" Alex",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Alex",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" Paul",
+" went to the beach,",
+" Alex",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" Paul",
+" went to the beach,",
+" Paul",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Paul",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Laura",
+" and",
+" Jack",
+" went to the library,",
+" Jack",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Laura",
+" and",
+" Jack",
+" went to the library,",
+" Laura",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Laura",
+" and",
+" Jack",
+" went to the library,",
+" Laura",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Laura",
+" and",
+" Jack",
+" went to the library,",
+" Jack",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jack",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Amy",
+" and",
+" Laura",
+" went to the school,",
+" Laura",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Amy",
+" and",
+" Laura",
+" went to the school,",
+" Amy",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amy",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Amy",
+" and",
+" Laura",
+" went to the school,",
+" Amy",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Amy",
+" and",
+" Laura",
+" went to the school,",
+" Laura",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" Kate",
+" went to the school,",
+" Kate",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" Kate",
+" went to the school,",
+" Kevin",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kevin",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" Kate",
+" went to the school,",
+" Kevin",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" Kate",
+" went to the school,",
+" Kate",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Amy",
+" and",
+" James",
+" went to the park,",
+" James",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Amy",
+" and",
+" James",
+" went to the park,",
+" Amy",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amy",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Amy",
+" and",
+" James",
+" went to the park,",
+" Amy",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Amy",
+" and",
+" James",
+" went to the park,",
+" James",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " James",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Amy",
+" went to the market,",
+" Amy",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Amy",
+" went to the market,",
+" Dan",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Dan",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Amy",
+" went to the market,",
+" Dan",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Amy",
+" went to the market,",
+" Amy",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" James",
+" and",
+" Mark",
+" went to the cafe,",
+" Mark",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>When",
+" James",
+" and",
+" Mark",
+" went to the cafe,",
+" James",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" James",
+" and",
+" Mark",
+" went to the cafe,",
+" James",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>When",
+" James",
+" and",
+" Mark",
+" went to the cafe,",
+" Mark",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mark",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Alex",
+" went to the park,",
+" Alex",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Alex",
+" went to the park,",
+" Laura",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Alex",
+" went to the park,",
+" Laura",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Alex",
+" went to the park,",
+" Alex",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Alex",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Laura",
+" went to the school,",
+" Laura",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Laura",
+" went to the school,",
+" Mark",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mark",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Laura",
+" went to the school,",
+" Mark",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Laura",
+" went to the school,",
+" Laura",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mark",
+" and",
+" Laura",
+" went to the library,",
+" Laura",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" Mark",
+" and",
+" Laura",
+" went to the library,",
+" Mark",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mark",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mark",
+" and",
+" Laura",
+" went to the library,",
+" Mark",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" Mark",
+" and",
+" Laura",
+" went to the library,",
+" Laura",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" James",
+" and",
+" Lisa",
+" went to the beach,",
+" Lisa",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>After",
+" James",
+" and",
+" Lisa",
+" went to the beach,",
+" James",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" James",
+" and",
+" Lisa",
+" went to the beach,",
+" James",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>After",
+" James",
+" and",
+" Lisa",
+" went to the beach,",
+" Lisa",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Lisa",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" David",
+" went to the museum,",
+" David",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" David",
+" went to the museum,",
+" Kevin",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kevin",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" David",
+" went to the museum,",
+" Kevin",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" David",
+" went to the museum,",
+" David",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Mary",
+" went to the garden,",
+" Mary",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Mary",
+" went to the garden,",
+" Dan",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Dan",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Mary",
+" went to the garden,",
+" Dan",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Mary",
+" went to the garden,",
+" Mary",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" John",
+" went to the store,",
+" John",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" John",
+" went to the store,",
+" Emma",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Emma",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" John",
+" went to the store,",
+" Emma",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" John",
+" went to the store,",
+" John",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Dan",
+" went to the library,",
+" Dan",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Dan",
+" went to the library,",
+" Paul",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Dan",
+" went to the library,",
+" Paul",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Dan",
+" went to the library,",
+" Dan",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Dan",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mark",
+" and",
+" Sarah",
+" went to the market,",
+" Sarah",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mark",
+" and",
+" Sarah",
+" went to the market,",
+" Mark",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mark",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mark",
+" and",
+" Sarah",
+" went to the market,",
+" Mark",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mark",
+" and",
+" Sarah",
+" went to the market,",
+" Sarah",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Anna",
+" and",
+" David",
+" went to the beach,",
+" David",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Anna",
+" and",
+" David",
+" went to the beach,",
+" Anna",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Anna",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Anna",
+" and",
+" David",
+" went to the beach,",
+" Anna",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Anna",
+" and",
+" David",
+" went to the beach,",
+" David",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Paul",
+" went to the beach,",
+" Paul",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Paul",
+" went to the beach,",
+" Mark",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mark",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Paul",
+" went to the beach,",
+" Mark",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Paul",
+" went to the beach,",
+" Paul",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Paul",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Jack",
+" went to the library,",
+" Jack",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Jack",
+" went to the library,",
+" Kate",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Jack",
+" went to the library,",
+" Kate",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Jack",
+" went to the library,",
+" Jack",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jack",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Paul",
+" and",
+" Dan",
+" went to the museum,",
+" Dan",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" Paul",
+" and",
+" Dan",
+" went to the museum,",
+" Paul",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Paul",
+" and",
+" Dan",
+" went to the museum,",
+" Paul",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" Paul",
+" and",
+" Dan",
+" went to the museum,",
+" Dan",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Dan",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kate",
+" and",
+" Emma",
+" went to the school,",
+" Emma",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" Kate",
+" and",
+" Emma",
+" went to the school,",
+" Kate",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kate",
+" and",
+" Emma",
+" went to the school,",
+" Kate",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" Kate",
+" and",
+" Emma",
+" went to the school,",
+" Emma",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Emma",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Emma",
+" and",
+" Anna",
+" went to the cafe,",
+" Anna",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Emma",
+" and",
+" Anna",
+" went to the cafe,",
+" Emma",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Emma",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Emma",
+" and",
+" Anna",
+" went to the cafe,",
+" Emma",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Emma",
+" and",
+" Anna",
+" went to the cafe,",
+" Anna",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Anna",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" Kate",
+" went to the market,",
+" Kate",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" Kate",
+" went to the market,",
+" Kevin",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kevin",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" Kate",
+" went to the market,",
+" Kevin",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" Kate",
+" went to the market,",
+" Kate",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Laura",
+" went to the store,",
+" Laura",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Laura",
+" went to the store,",
+" Kate",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Laura",
+" went to the store,",
+" Kate",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Laura",
+" went to the store,",
+" Laura",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Paul",
+" and",
+" John",
+" went to the cafe,",
+" John",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>After",
+" Paul",
+" and",
+" John",
+" went to the cafe,",
+" Paul",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Paul",
+" and",
+" John",
+" went to the cafe,",
+" Paul",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>After",
+" Paul",
+" and",
+" John",
+" went to the cafe,",
+" John",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Kate",
+" and",
+" Mark",
+" went to the park,",
+" Mark",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Kate",
+" and",
+" Mark",
+" went to the park,",
+" Kate",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Kate",
+" and",
+" Mark",
+" went to the park,",
+" Kate",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Kate",
+" and",
+" Mark",
+" went to the park,",
+" Mark",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mark",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" David",
+" and",
+" Paul",
+" went to the garden,",
+" Paul",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>When",
+" David",
+" and",
+" Paul",
+" went to the garden,",
+" David",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" David",
+" and",
+" Paul",
+" went to the garden,",
+" David",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>When",
+" David",
+" and",
+" Paul",
+" went to the garden,",
+" Paul",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Paul",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" David",
+" went to the museum,",
+" David",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" David",
+" went to the museum,",
+" Mary",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" David",
+" went to the museum,",
+" Mary",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" David",
+" went to the museum,",
+" David",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the school,",
+" Mary",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the school,",
+" John",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the school,",
+" John",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the school,",
+" Mary",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Martin",
+" and",
+" Paul",
+" went to the cafe,",
+" Paul",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>While",
+" Martin",
+" and",
+" Paul",
+" went to the cafe,",
+" Martin",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Martin",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Martin",
+" and",
+" Paul",
+" went to the cafe,",
+" Martin",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>While",
+" Martin",
+" and",
+" Paul",
+" went to the cafe,",
+" Paul",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Paul",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Kate",
+" and",
+" Kevin",
+" went to the cafe,",
+" Kevin",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>While",
+" Kate",
+" and",
+" Kevin",
+" went to the cafe,",
+" Kate",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Kate",
+" and",
+" Kevin",
+" went to the cafe,",
+" Kate",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>While",
+" Kate",
+" and",
+" Kevin",
+" went to the cafe,",
+" Kevin",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kevin",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Peter",
+" and",
+" Jack",
+" went to the school,",
+" Jack",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" Peter",
+" and",
+" Jack",
+" went to the school,",
+" Peter",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Peter",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Peter",
+" and",
+" Jack",
+" went to the school,",
+" Peter",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" Peter",
+" and",
+" Jack",
+" went to the school,",
+" Jack",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jack",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Tom",
+" and",
+" Kate",
+" went to the museum,",
+" Kate",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Tom",
+" and",
+" Kate",
+" went to the museum,",
+" Tom",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Tom",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Tom",
+" and",
+" Kate",
+" went to the museum,",
+" Tom",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Tom",
+" and",
+" Kate",
+" went to the museum,",
+" Kate",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Emma",
+" went to the store,",
+" Emma",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Emma",
+" went to the store,",
+" David",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Emma",
+" went to the store,",
+" David",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Emma",
+" went to the store,",
+" Emma",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Emma",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Paul",
+" went to the library,",
+" Paul",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Paul",
+" went to the library,",
+" Sarah",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Paul",
+" went to the library,",
+" Sarah",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Paul",
+" went to the library,",
+" Paul",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Paul",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" David",
+" and",
+" Amy",
+" went to the school,",
+" Amy",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" David",
+" and",
+" Amy",
+" went to the school,",
+" David",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" David",
+" and",
+" Amy",
+" went to the school,",
+" David",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" David",
+" and",
+" Amy",
+" went to the school,",
+" Amy",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" David",
+" and",
+" James",
+" went to the cafe,",
+" James",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>After",
+" David",
+" and",
+" James",
+" went to the cafe,",
+" David",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" David",
+" and",
+" James",
+" went to the cafe,",
+" David",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>After",
+" David",
+" and",
+" James",
+" went to the cafe,",
+" James",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " James",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Paul",
+" and",
+" Kate",
+" went to the market,",
+" Kate",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Paul",
+" and",
+" Kate",
+" went to the market,",
+" Paul",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Paul",
+" and",
+" Kate",
+" went to the market,",
+" Paul",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Paul",
+" and",
+" Kate",
+" went to the market,",
+" Kate",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kate",
+" and",
+" Sarah",
+" went to the market,",
+" Sarah",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>After",
+" Kate",
+" and",
+" Sarah",
+" went to the market,",
+" Kate",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kate",
+" and",
+" Sarah",
+" went to the market,",
+" Kate",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>After",
+" Kate",
+" and",
+" Sarah",
+" went to the market,",
+" Sarah",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Lisa",
+" went to the library,",
+" Lisa",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Lisa",
+" went to the library,",
+" Paul",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Lisa",
+" went to the library,",
+" Paul",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>When",
+" Paul",
+" and",
+" Lisa",
+" went to the library,",
+" Lisa",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Lisa",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Anna",
+" and",
+" Mary",
+" went to the park,",
+" Mary",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" Anna",
+" and",
+" Mary",
+" went to the park,",
+" Anna",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Anna",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Anna",
+" and",
+" Mary",
+" went to the park,",
+" Anna",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" Anna",
+" and",
+" Mary",
+" went to the park,",
+" Mary",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Peter",
+" and",
+" David",
+" went to the office,",
+" David",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" Peter",
+" and",
+" David",
+" went to the office,",
+" Peter",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Peter",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Peter",
+" and",
+" David",
+" went to the office,",
+" Peter",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" Peter",
+" and",
+" David",
+" went to the office,",
+" David",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Peter",
+" went to the cafe,",
+" Peter",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Peter",
+" went to the cafe,",
+" Mark",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mark",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Peter",
+" went to the cafe,",
+" Mark",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>While",
+" Mark",
+" and",
+" Peter",
+" went to the cafe,",
+" Peter",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Peter",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Tom",
+" and",
+" Amy",
+" went to the park,",
+" Amy",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>After",
+" Tom",
+" and",
+" Amy",
+" went to the park,",
+" Tom",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Tom",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Tom",
+" and",
+" Amy",
+" went to the park,",
+" Tom",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>After",
+" Tom",
+" and",
+" Amy",
+" went to the park,",
+" Amy",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Amy",
+" and",
+" Kevin",
+" went to the market,",
+" Kevin",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Amy",
+" and",
+" Kevin",
+" went to the market,",
+" Amy",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amy",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Amy",
+" and",
+" Kevin",
+" went to the market,",
+" Amy",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Amy",
+" and",
+" Kevin",
+" went to the market,",
+" Kevin",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kevin",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Dan",
+" and",
+" Kate",
+" went to the park,",
+" Kate",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Dan",
+" and",
+" Kate",
+" went to the park,",
+" Dan",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Dan",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Dan",
+" and",
+" Kate",
+" went to the park,",
+" Dan",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Dan",
+" and",
+" Kate",
+" went to the park,",
+" Kate",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" John",
+" went to the market,",
+" John",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" John",
+" went to the market,",
+" Paul",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" John",
+" went to the market,",
+" Paul",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" John",
+" went to the market,",
+" John",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Martin",
+" went to the school,",
+" Martin",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Martin",
+" went to the school,",
+" John",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Martin",
+" went to the school,",
+" John",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Martin",
+" went to the school,",
+" Martin",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Martin",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Martin",
+" went to the office,",
+" Martin",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Martin",
+" went to the office,",
+" Mary",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Martin",
+" went to the office,",
+" Mary",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Martin",
+" went to the office,",
+" Martin",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Martin",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the beach,",
+" Mary",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the beach,",
+" John",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the beach,",
+" John",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the beach,",
+" Mary",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Anna",
+" and",
+" Peter",
+" went to the store,",
+" Peter",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Anna",
+" and",
+" Peter",
+" went to the store,",
+" Anna",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Anna",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Anna",
+" and",
+" Peter",
+" went to the store,",
+" Anna",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Anna",
+" and",
+" Peter",
+" went to the store,",
+" Peter",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Peter",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" John",
+" went to the market,",
+" John",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" John",
+" went to the market,",
+" Laura",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" John",
+" went to the market,",
+" Laura",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" John",
+" went to the market,",
+" John",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Laura",
+" went to the school,",
+" Laura",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Laura",
+" went to the school,",
+" Kate",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Laura",
+" went to the school,",
+" Kate",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>When",
+" Kate",
+" and",
+" Laura",
+" went to the school,",
+" Laura",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Lisa",
+" and",
+" Tom",
+" went to the library,",
+" Tom",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Lisa",
+" and",
+" Tom",
+" went to the library,",
+" Lisa",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Lisa",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Lisa",
+" and",
+" Tom",
+" went to the library,",
+" Lisa",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" Lisa",
+" and",
+" Tom",
+" went to the library,",
+" Tom",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Tom",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" James",
+" and",
+" Kevin",
+" went to the library,",
+" Kevin",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" James",
+" and",
+" Kevin",
+" went to the library,",
+" James",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" James",
+" and",
+" Kevin",
+" went to the library,",
+" James",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" James",
+" and",
+" Kevin",
+" went to the library,",
+" Kevin",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kevin",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" Dan",
+" went to the garden,",
+" Dan",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" Dan",
+" went to the garden,",
+" Alex",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Alex",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" Dan",
+" went to the garden,",
+" Alex",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Alex",
+" and",
+" Dan",
+" went to the garden,",
+" Dan",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Dan",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Mark",
+" went to the market,",
+" Mark",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Mark",
+" went to the market,",
+" Kate",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Mark",
+" went to the market,",
+" Kate",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Mark",
+" went to the market,",
+" Mark",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mark",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Laura",
+" went to the park,",
+" Laura",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Laura",
+" went to the park,",
+" Kate",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Laura",
+" went to the park,",
+" Kate",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Laura",
+" went to the park,",
+" Laura",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Kevin",
+" went to the park,",
+" Kevin",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Kevin",
+" went to the park,",
+" Mary",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Kevin",
+" went to the park,",
+" Mary",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Kevin",
+" went to the park,",
+" Kevin",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kevin",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Jack",
+" went to the school,",
+" Jack",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Jack",
+" went to the school,",
+" Sarah",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Jack",
+" went to the school,",
+" Sarah",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>After",
+" Sarah",
+" and",
+" Jack",
+" went to the school,",
+" Jack",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jack",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Tom",
+" and",
+" Mark",
+" went to the market,",
+" Mark",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>While",
+" Tom",
+" and",
+" Mark",
+" went to the market,",
+" Tom",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Tom",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Tom",
+" and",
+" Mark",
+" went to the market,",
+" Tom",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>While",
+" Tom",
+" and",
+" Mark",
+" went to the market,",
+" Mark",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mark",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Kate",
+" went to the cafe,",
+" Kate",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Kate",
+" went to the cafe,",
+" Jack",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jack",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Kate",
+" went to the cafe,",
+" Jack",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Kate",
+" went to the cafe,",
+" Kate",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the museum,",
+" Mary",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the museum,",
+" John",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the museum,",
+" John",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the museum,",
+" Mary",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Peter",
+" and",
+" Sarah",
+" went to the cafe,",
+" Sarah",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" Peter",
+" and",
+" Sarah",
+" went to the cafe,",
+" Peter",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Peter",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Peter",
+" and",
+" Sarah",
+" went to the cafe,",
+" Peter",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" Peter",
+" and",
+" Sarah",
+" went to the cafe,",
+" Sarah",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Amy",
+" and",
+" Tom",
+" went to the store,",
+" Tom",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Amy",
+" and",
+" Tom",
+" went to the store,",
+" Amy",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amy",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Amy",
+" and",
+" Tom",
+" went to the store,",
+" Amy",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Amy",
+" and",
+" Tom",
+" went to the store,",
+" Tom",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Tom",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Laura",
+" went to the cafe,",
+" Laura",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Laura",
+" went to the cafe,",
+" Kate",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kate",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Laura",
+" went to the cafe,",
+" Kate",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Kate",
+" and",
+" Laura",
+" went to the cafe,",
+" Laura",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Laura",
+" and",
+" Kevin",
+" went to the office,",
+" Kevin",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Laura",
+" and",
+" Kevin",
+" went to the office,",
+" Laura",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Laura",
+" and",
+" Kevin",
+" went to the office,",
+" Laura",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Laura",
+" and",
+" Kevin",
+" went to the office,",
+" Kevin",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kevin",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Martin",
+" and",
+" Kate",
+" went to the store,",
+" Kate",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>When",
+" Martin",
+" and",
+" Kate",
+" went to the store,",
+" Martin",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Martin",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Martin",
+" and",
+" Kate",
+" went to the store,",
+" Martin",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>When",
+" Martin",
+" and",
+" Kate",
+" went to the store,",
+" Kate",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Sarah",
+" went to the park,",
+" Sarah",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Sarah",
+" went to the park,",
+" Peter",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Peter",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Sarah",
+" went to the park,",
+" Peter",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Sarah",
+" went to the park,",
+" Sarah",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Martin",
+" and",
+" Laura",
+" went to the museum,",
+" Laura",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Martin",
+" and",
+" Laura",
+" went to the museum,",
+" Martin",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Martin",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Martin",
+" and",
+" Laura",
+" went to the museum,",
+" Martin",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Martin",
+" and",
+" Laura",
+" went to the museum,",
+" Laura",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Dan",
+" and",
+" Paul",
+" went to the cafe,",
+" Paul",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Dan",
+" and",
+" Paul",
+" went to the cafe,",
+" Dan",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Dan",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Dan",
+" and",
+" Paul",
+" went to the cafe,",
+" Dan",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Dan",
+" and",
+" Paul",
+" went to the cafe,",
+" Paul",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Paul",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Lisa",
+" and",
+" Mark",
+" went to the library,",
+" Mark",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" Lisa",
+" and",
+" Mark",
+" went to the library,",
+" Lisa",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Lisa",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Lisa",
+" and",
+" Mark",
+" went to the library,",
+" Lisa",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" Lisa",
+" and",
+" Mark",
+" went to the library,",
+" Mark",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mark",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" James",
+" and",
+" Dan",
+" went to the store,",
+" Dan",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>After",
+" James",
+" and",
+" Dan",
+" went to the store,",
+" James",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" James",
+" and",
+" Dan",
+" went to the store,",
+" James",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>After",
+" James",
+" and",
+" Dan",
+" went to the store,",
+" Dan",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Dan",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" David",
+" and",
+" Lisa",
+" went to the beach,",
+" Lisa",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" David",
+" and",
+" Lisa",
+" went to the beach,",
+" David",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" David",
+" and",
+" Lisa",
+" went to the beach,",
+" David",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" David",
+" and",
+" Lisa",
+" went to the beach,",
+" Lisa",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Lisa",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Lisa",
+" went to the museum,",
+" Lisa",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Lisa",
+" went to the museum,",
+" Laura",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Lisa",
+" went to the museum,",
+" Laura",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" Laura",
+" and",
+" Lisa",
+" went to the museum,",
+" Lisa",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Lisa",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Martin",
+" and",
+" Laura",
+" went to the library,",
+" Laura",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Martin",
+" and",
+" Laura",
+" went to the library,",
+" Martin",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Martin",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Martin",
+" and",
+" Laura",
+" went to the library,",
+" Martin",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Martin",
+" and",
+" Laura",
+" went to the library,",
+" Laura",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" Lisa",
+" went to the school,",
+" Lisa",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" Lisa",
+" went to the school,",
+" Mary",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" Lisa",
+" went to the school,",
+" Mary",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" Lisa",
+" went to the school,",
+" Lisa",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Lisa",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" Tom",
+" went to the cafe,",
+" Tom",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" Tom",
+" went to the cafe,",
+" Laura",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" Tom",
+" went to the cafe,",
+" Laura",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" Tom",
+" went to the cafe,",
+" Tom",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Tom",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Amy",
+" and",
+" David",
+" went to the beach,",
+" David",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>While",
+" Amy",
+" and",
+" David",
+" went to the beach,",
+" Amy",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amy",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Amy",
+" and",
+" David",
+" went to the beach,",
+" Amy",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>While",
+" Amy",
+" and",
+" David",
+" went to the beach,",
+" David",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" David",
+" went to the market,",
+" David",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" David",
+" went to the market,",
+" Kevin",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kevin",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" David",
+" went to the market,",
+" Kevin",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Kevin",
+" and",
+" David",
+" went to the market,",
+" David",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Dan",
+" went to the library,",
+" Dan",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Dan",
+" went to the library,",
+" Jack",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jack",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Dan",
+" went to the library,",
+" Jack",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Dan",
+" went to the library,",
+" Dan",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Dan",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" John",
+" went to the market,",
+" John",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" John",
+" went to the market,",
+" Emma",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Emma",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" John",
+" went to the market,",
+" Emma",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" John",
+" went to the market,",
+" John",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Lisa",
+" and",
+" James",
+" went to the library,",
+" James",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Lisa",
+" and",
+" James",
+" went to the library,",
+" Lisa",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Lisa",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Lisa",
+" and",
+" James",
+" went to the library,",
+" Lisa",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Lisa",
+" and",
+" James",
+" went to the library,",
+" James",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " James",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Dan",
+" and",
+" David",
+" went to the cafe,",
+" David",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>After",
+" Dan",
+" and",
+" David",
+" went to the cafe,",
+" Dan",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Dan",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Dan",
+" and",
+" David",
+" went to the cafe,",
+" Dan",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>After",
+" Dan",
+" and",
+" David",
+" went to the cafe,",
+" David",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Amy",
+" and",
+" James",
+" went to the office,",
+" James",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>After",
+" Amy",
+" and",
+" James",
+" went to the office,",
+" Amy",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amy",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Amy",
+" and",
+" James",
+" went to the office,",
+" Amy",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>After",
+" Amy",
+" and",
+" James",
+" went to the office,",
+" James",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " James",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Emma",
+" and",
+" Sarah",
+" went to the office,",
+" Sarah",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" Emma",
+" and",
+" Sarah",
+" went to the office,",
+" Emma",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Emma",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Emma",
+" and",
+" Sarah",
+" went to the office,",
+" Emma",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" Emma",
+" and",
+" Sarah",
+" went to the office,",
+" Sarah",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Emma",
+" went to the garden,",
+" Emma",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Emma",
+" went to the garden,",
+" Dan",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Dan",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Emma",
+" went to the garden,",
+" Dan",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" Dan",
+" and",
+" Emma",
+" went to the garden,",
+" Emma",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Emma",
+"src_label": " Dan",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Paul",
+" and",
+" David",
+" went to the beach,",
+" David",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Paul",
+" and",
+" David",
+" went to the beach,",
+" Paul",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Paul",
+" and",
+" David",
+" went to the beach,",
+" Paul",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Paul",
+" and",
+" David",
+" went to the beach,",
+" David",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Martin",
+" and",
+" Kate",
+" went to the beach,",
+" Kate",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>When",
+" Martin",
+" and",
+" Kate",
+" went to the beach,",
+" Martin",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Martin",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Martin",
+" and",
+" Kate",
+" went to the beach,",
+" Martin",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>When",
+" Martin",
+" and",
+" Kate",
+" went to the beach,",
+" Kate",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mark",
+" and",
+" Mary",
+" went to the school,",
+" Mary",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mark",
+" and",
+" Mary",
+" went to the school,",
+" Mark",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mark",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mark",
+" and",
+" Mary",
+" went to the school,",
+" Mark",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mark",
+" and",
+" Mary",
+" went to the school,",
+" Mary",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" James",
+" and",
+" Mary",
+" went to the museum,",
+" Mary",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>After",
+" James",
+" and",
+" Mary",
+" went to the museum,",
+" James",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" James",
+" and",
+" Mary",
+" went to the museum,",
+" James",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>After",
+" James",
+" and",
+" Mary",
+" went to the museum,",
+" Mary",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Paul",
+" and",
+" Amy",
+" went to the library,",
+" Amy",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Paul",
+" and",
+" Amy",
+" went to the library,",
+" Paul",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Paul",
+" and",
+" Amy",
+" went to the library,",
+" Paul",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Paul",
+" and",
+" Amy",
+" went to the library,",
+" Amy",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Lisa",
+" and",
+" David",
+" went to the market,",
+" David",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" Lisa",
+" and",
+" David",
+" went to the market,",
+" Lisa",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Lisa",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Lisa",
+" and",
+" David",
+" went to the market,",
+" Lisa",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" Lisa",
+" and",
+" David",
+" went to the market,",
+" David",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" David",
+" and",
+" Amy",
+" went to the cafe,",
+" Amy",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>When",
+" David",
+" and",
+" Amy",
+" went to the cafe,",
+" David",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" David",
+" and",
+" Amy",
+" went to the cafe,",
+" David",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>When",
+" David",
+" and",
+" Amy",
+" went to the cafe,",
+" Amy",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amy",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Paul",
+" went to the park,",
+" Paul",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Paul",
+" went to the park,",
+" Jack",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jack",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Paul",
+" went to the park,",
+" Jack",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>When",
+" Jack",
+" and",
+" Paul",
+" went to the park,",
+" Paul",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Paul",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" Emma",
+" went to the office,",
+" Emma",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" Emma",
+" went to the office,",
+" Mary",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" Emma",
+" went to the office,",
+" Mary",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" Emma",
+" went to the office,",
+" Emma",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Emma",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Kevin",
+" and",
+" David",
+" went to the beach,",
+" David",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Kevin",
+" and",
+" David",
+" went to the beach,",
+" Kevin",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kevin",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Kevin",
+" and",
+" David",
+" went to the beach,",
+" Kevin",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Kevin",
+" and",
+" David",
+" went to the beach,",
+" David",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" James",
+" went to the school,",
+" James",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" James",
+" went to the school,",
+" David",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " James",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" James",
+" went to the school,",
+" David",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" James",
+" went to the school,",
+" James",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " James",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Alex",
+" and",
+" Lisa",
+" went to the beach,",
+" Lisa",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Alex",
+" and",
+" Lisa",
+" went to the beach,",
+" Alex",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Alex",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Alex",
+" and",
+" Lisa",
+" went to the beach,",
+" Alex",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Alex",
+" and",
+" Lisa",
+" went to the beach,",
+" Lisa",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Lisa",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Amy",
+" and",
+" Kate",
+" went to the cafe,",
+" Kate",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>When",
+" Amy",
+" and",
+" Kate",
+" went to the cafe,",
+" Amy",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amy",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Amy",
+" and",
+" Kate",
+" went to the cafe,",
+" Amy",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>When",
+" Amy",
+" and",
+" Kate",
+" went to the cafe,",
+" Kate",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" John",
+" and",
+" David",
+" went to the office,",
+" David",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>After",
+" John",
+" and",
+" David",
+" went to the office,",
+" John",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" John",
+" and",
+" David",
+" went to the office,",
+" John",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>After",
+" John",
+" and",
+" David",
+" went to the office,",
+" David",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " John",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Sarah",
+" and",
+" Anna",
+" went to the office,",
+" Anna",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Sarah",
+" and",
+" Anna",
+" went to the office,",
+" Sarah",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Sarah",
+" and",
+" Anna",
+" went to the office,",
+" Sarah",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Sarah",
+" and",
+" Anna",
+" went to the office,",
+" Anna",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Anna",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Amy",
+" and",
+" Mary",
+" went to the office,",
+" Mary",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Amy",
+" and",
+" Mary",
+" went to the office,",
+" Amy",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Amy",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Amy",
+" and",
+" Mary",
+" went to the office,",
+" Amy",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Amy",
+" and",
+" Mary",
+" went to the office,",
+" Mary",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " Amy",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Alex",
+" went to the market,",
+" Alex",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Alex",
+" went to the market,",
+" Mary",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Alex",
+" went to the market,",
+" Mary",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Alex",
+" went to the market,",
+" Alex",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Alex",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" Sarah",
+" went to the beach,",
+" Sarah",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" Sarah",
+" went to the beach,",
+" Paul",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" Sarah",
+" went to the beach,",
+" Paul",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" Sarah",
+" went to the beach,",
+" Sarah",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Jack",
+" and",
+" Mark",
+" went to the library,",
+" Mark",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>After",
+" Jack",
+" and",
+" Mark",
+" went to the library,",
+" Jack",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jack",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Jack",
+" and",
+" Mark",
+" went to the library,",
+" Jack",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>After",
+" Jack",
+" and",
+" Mark",
+" went to the library,",
+" Mark",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mark",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Martin",
+" and",
+" Laura",
+" went to the beach,",
+" Laura",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Martin",
+" and",
+" Laura",
+" went to the beach,",
+" Martin",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Martin",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Martin",
+" and",
+" Laura",
+" went to the beach,",
+" Martin",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Martin",
+" and",
+" Laura",
+" went to the beach,",
+" Laura",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Kevin",
+" and",
+" Laura",
+" went to the park,",
+" Laura",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" Kevin",
+" and",
+" Laura",
+" went to the park,",
+" Kevin",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Kevin",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Kevin",
+" and",
+" Laura",
+" went to the park,",
+" Kevin",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" Kevin",
+" and",
+" Laura",
+" went to the park,",
+" Laura",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Laura",
+"src_label": " Kevin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Sarah",
+" and",
+" Lisa",
+" went to the beach,",
+" Lisa",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>While",
+" Sarah",
+" and",
+" Lisa",
+" went to the beach,",
+" Sarah",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Sarah",
+" and",
+" Lisa",
+" went to the beach,",
+" Sarah",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>While",
+" Sarah",
+" and",
+" Lisa",
+" went to the beach,",
+" Lisa",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Lisa",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Tom",
+" and",
+" Peter",
+" went to the beach,",
+" Peter",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Tom",
+" and",
+" Peter",
+" went to the beach,",
+" Tom",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Tom",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Tom",
+" and",
+" Peter",
+" went to the beach,",
+" Tom",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Tom",
+" and",
+" Peter",
+" went to the beach,",
+" Peter",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Peter",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Alex",
+" went to the office,",
+" Alex",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Alex",
+" went to the office,",
+" Mary",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " Alex",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Alex",
+" went to the office,",
+" Mary",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Alex",
+" went to the office,",
+" Alex",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Alex",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Peter",
+" and",
+" Paul",
+" went to the market,",
+" Paul",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Peter",
+" and",
+" Paul",
+" went to the market,",
+" Peter",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Peter",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Peter",
+" and",
+" Paul",
+" went to the market,",
+" Peter",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Peter",
+" and",
+" Paul",
+" went to the market,",
+" Paul",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Paul",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" Anna",
+" went to the park,",
+" Anna",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" Anna",
+" went to the park,",
+" Emma",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Emma",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" Anna",
+" went to the park,",
+" Emma",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>While",
+" Emma",
+" and",
+" Anna",
+" went to the park,",
+" Anna",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Anna",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Jack",
+" and",
+" Mary",
+" went to the garden,",
+" Mary",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Jack",
+" and",
+" Mary",
+" went to the garden,",
+" Jack",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jack",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Jack",
+" and",
+" Mary",
+" went to the garden,",
+" Jack",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Jack",
+" and",
+" Mary",
+" went to the garden,",
+" Mary",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Lisa",
+" and",
+" Anna",
+" went to the park,",
+" Anna",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Lisa",
+" and",
+" Anna",
+" went to the park,",
+" Lisa",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Lisa",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Lisa",
+" and",
+" Anna",
+" went to the park,",
+" Lisa",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" Lisa",
+" and",
+" Anna",
+" went to the park,",
+" Anna",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Anna",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" Sarah",
+" went to the library,",
+" Sarah",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" Sarah",
+" went to the library,",
+" Laura",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" Sarah",
+" went to the library,",
+" Laura",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Laura",
+" and",
+" Sarah",
+" went to the library,",
+" Sarah",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Peter",
+" and",
+" Jack",
+" went to the garden,",
+" Jack",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>When",
+" Peter",
+" and",
+" Jack",
+" went to the garden,",
+" Peter",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Peter",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Peter",
+" and",
+" Jack",
+" went to the garden,",
+" Peter",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>When",
+" Peter",
+" and",
+" Jack",
+" went to the garden,",
+" Jack",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jack",
+"src_label": " Peter",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Sarah",
+" and",
+" Kate",
+" went to the store,",
+" Kate",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Sarah",
+" and",
+" Kate",
+" went to the store,",
+" Sarah",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Kate",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Sarah",
+" and",
+" Kate",
+" went to the store,",
+" Sarah",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Sarah",
+" and",
+" Kate",
+" went to the store,",
+" Kate",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Kate",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Tom",
+" and",
+" Emma",
+" went to the store,",
+" Emma",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Tom",
+" and",
+" Emma",
+" went to the store,",
+" Tom",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Tom",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Tom",
+" and",
+" Emma",
+" went to the store,",
+" Tom",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Tom",
+" and",
+" Emma",
+" went to the store,",
+" Emma",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Emma",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Laura",
+" and",
+" David",
+" went to the beach,",
+" David",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Laura",
+" and",
+" David",
+" went to the beach,",
+" Laura",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Laura",
+" and",
+" David",
+" went to the beach,",
+" Laura",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Laura",
+" and",
+" David",
+" went to the beach,",
+" David",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Emma",
+" and",
+" Mark",
+" went to the office,",
+" Mark",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Emma",
+" and",
+" Mark",
+" went to the office,",
+" Emma",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Emma",
+"src_label": " Mark",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Emma",
+" and",
+" Mark",
+" went to the office,",
+" Emma",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Emma",
+" and",
+" Mark",
+" went to the office,",
+" Mark",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mark",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Tom",
+" and",
+" Martin",
+" went to the market,",
+" Martin",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Tom",
+" and",
+" Martin",
+" went to the market,",
+" Tom",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Tom",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Tom",
+" and",
+" Martin",
+" went to the market,",
+" Tom",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Tom",
+" and",
+" Martin",
+" went to the market,",
+" Martin",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Martin",
+"src_label": " Tom",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Lisa",
+" and",
+" Jack",
+" went to the museum,",
+" Jack",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Lisa",
+" and",
+" Jack",
+" went to the museum,",
+" Lisa",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Lisa",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Lisa",
+" and",
+" Jack",
+" went to the museum,",
+" Lisa",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Lisa",
+" and",
+" Jack",
+" went to the museum,",
+" Jack",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jack",
+"src_label": " Lisa",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Sarah",
+" and",
+" Martin",
+" went to the museum,",
+" Martin",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Sarah",
+" and",
+" Martin",
+" went to the museum,",
+" Sarah",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Martin",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Sarah",
+" and",
+" Martin",
+" went to the museum,",
+" Sarah",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Sarah",
+" and",
+" Martin",
+" went to the museum,",
+" Martin",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Martin",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Jack",
+" went to the store,",
+" Jack",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Jack",
+" went to the store,",
+" Mary",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " Jack",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Jack",
+" went to the store,",
+" Mary",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" Jack",
+" went to the store,",
+" Jack",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jack",
+"src_label": " Mary",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Emma",
+" went to the market,",
+" Emma",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Emma",
+" went to the market,",
+" Laura",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Laura",
+"src_label": " Emma",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Emma",
+" went to the market,",
+" Laura",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>When",
+" Laura",
+" and",
+" Emma",
+" went to the market,",
+" Emma",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Emma",
+"src_label": " Laura",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" Sarah",
+" went to the school,",
+" Sarah",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" Sarah",
+" went to the school,",
+" Paul",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Paul",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" Sarah",
+" went to the school,",
+" Paul",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Paul",
+" and",
+" Sarah",
+" went to the school,",
+" Sarah",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Paul",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Anna",
+" went to the cafe,",
+" Anna",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Anna",
+" went to the cafe,",
+" David",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Anna",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Anna",
+" went to the cafe,",
+" David",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" David",
+" and",
+" Anna",
+" went to the cafe,",
+" Anna",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Anna",
+"src_label": " David",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Sarah",
+" went to the garden,",
+" Sarah",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Sarah",
+" went to the garden,",
+" Peter",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Peter",
+"src_label": " Sarah",
+"task": "ioi_varied"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Sarah",
+" went to the garden,",
+" Peter",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Peter",
+" and",
+" Sarah",
+" went to the garden,",
+" Sarah",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Sarah",
+"src_label": " Peter",
+"task": "ioi_varied"
+}
+]

@@ -1,0 +1,26 @@
+diff --git a/eval.py b/eval.py
+index e694278..32dcdbb 100644
+--- a/eval.py
++++ b/eval.py
+@@ -28,7 +28,7 @@ def eval(intervenable: pv.IntervenableModel, evalset: list[Batch],
+         base_outputs, counterfactual_outputs = intervenable(
+             batch.base,
+             [None, batch.src],
+-            {"sources->base": ([None, pos_interv[1]], pos_interv)},
++            {"sources->base": ([None, pos_interv[0]], [pos_interv[1], pos_interv[1]])},
+             output_original_output=True
+         )
+ 
+diff --git a/train.py b/train.py
+index 00d3b44..7173635 100644
+--- a/train.py
++++ b/train.py
+@@ -59,7 +59,7 @@ def train_das(
+         base_outputs, counterfactual_outputs = intervenable(
+             base=batch.base,
+             sources=[None, batch.src],
+-            unit_locations={"sources->base": ([None, pos_interv[1]], pos_interv)},
++            unit_locations={"sources->base": ([None, pos_interv[0]], [pos_interv[1], pos_interv[1]])},
+         )
+ 
+         # store activations/labels for training non-causal methods

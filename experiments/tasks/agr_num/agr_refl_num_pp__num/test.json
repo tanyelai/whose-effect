@@ -1,0 +1,2402 @@
+[
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" next to",
+" the",
+" secretary",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" next to",
+" the",
+" secretary",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" across from",
+" the",
+" actors",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" across from",
+" the",
+" actors",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" next to",
+" the",
+" secretary",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" next to",
+" the",
+" secretary",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" across from",
+" the",
+" actors",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" across from",
+" the",
+" actors",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" in front of",
+" the",
+" actors",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" in front of",
+" the",
+" actors",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" near",
+" the",
+" author",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" near",
+" the",
+" author",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" in front of",
+" the",
+" actors",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" in front of",
+" the",
+" actors",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" near",
+" the",
+" author",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" near",
+" the",
+" author",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" behind",
+" the",
+" architects",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" behind",
+" the",
+" architects",
+" injured"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" across from",
+" the",
+" clerk",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" across from",
+" the",
+" clerk",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" behind",
+" the",
+" architects",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" behind",
+" the",
+" architects",
+" injured"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" across from",
+" the",
+" clerk",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" across from",
+" the",
+" clerk",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" to the side of",
+" the",
+" customer",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" to the side of",
+" the",
+" customer",
+" disguised"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" behind",
+" the",
+" managers",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" behind",
+" the",
+" managers",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" to the side of",
+" the",
+" customer",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" to the side of",
+" the",
+" customer",
+" disguised"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" behind",
+" the",
+" managers",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" behind",
+" the",
+" managers",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" near",
+" the",
+" actors",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" near",
+" the",
+" actors",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" near",
+" the",
+" manager",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" near",
+" the",
+" manager",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" near",
+" the",
+" actors",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" near",
+" the",
+" actors",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" near",
+" the",
+" manager",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" near",
+" the",
+" manager",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" next to",
+" the",
+" author",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" next to",
+" the",
+" author",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" across from",
+" the",
+" teachers",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" across from",
+" the",
+" teachers",
+" disguised"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" next to",
+" the",
+" author",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" next to",
+" the",
+" author",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" across from",
+" the",
+" teachers",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" across from",
+" the",
+" teachers",
+" disguised"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" near",
+" the",
+" doctor",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" near",
+" the",
+" doctor",
+" disguised"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" to the side of",
+" the",
+" manager",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" to the side of",
+" the",
+" manager",
+" injured"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" near",
+" the",
+" doctor",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" near",
+" the",
+" doctor",
+" disguised"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" to the side of",
+" the",
+" manager",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" to the side of",
+" the",
+" manager",
+" injured"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" next to",
+" the",
+" guard",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" next to",
+" the",
+" guard",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" across from",
+" the",
+" athlete",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" across from",
+" the",
+" athlete",
+" embarrassed"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" next to",
+" the",
+" guard",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" next to",
+" the",
+" guard",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" across from",
+" the",
+" athlete",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" across from",
+" the",
+" athlete",
+" embarrassed"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" next to",
+" the",
+" teacher",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" next to",
+" the",
+" teacher",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" behind",
+" the",
+" athlete",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" behind",
+" the",
+" athlete",
+" embarrassed"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" next to",
+" the",
+" teacher",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" next to",
+" the",
+" teacher",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" behind",
+" the",
+" athlete",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" behind",
+" the",
+" athlete",
+" embarrassed"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" to the side of",
+" the",
+" minister",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" to the side of",
+" the",
+" minister",
+" injured"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" in front of",
+" the",
+" pilot",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" in front of",
+" the",
+" pilot",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" to the side of",
+" the",
+" minister",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" to the side of",
+" the",
+" minister",
+" injured"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" in front of",
+" the",
+" pilot",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" in front of",
+" the",
+" pilot",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" next to",
+" the",
+" architects",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" next to",
+" the",
+" architects",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" in front of",
+" the",
+" secretaries",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" in front of",
+" the",
+" secretaries",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" next to",
+" the",
+" architects",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" next to",
+" the",
+" architects",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" in front of",
+" the",
+" secretaries",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" in front of",
+" the",
+" secretaries",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" next to",
+" the",
+" author",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" next to",
+" the",
+" author",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" to the side of",
+" the",
+" customer",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" to the side of",
+" the",
+" customer",
+" hated"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" next to",
+" the",
+" author",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" next to",
+" the",
+" author",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" to the side of",
+" the",
+" customer",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" to the side of",
+" the",
+" customer",
+" hated"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" across from",
+" the",
+" architects",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" across from",
+" the",
+" architects",
+" hated"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" to the side of",
+" the",
+" pilots",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" to the side of",
+" the",
+" pilots",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" across from",
+" the",
+" architects",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" across from",
+" the",
+" architects",
+" hated"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" to the side of",
+" the",
+" pilots",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" to the side of",
+" the",
+" pilots",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" across from",
+" the",
+" pilots",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" across from",
+" the",
+" pilots",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" in front of",
+" the",
+" senator",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" in front of",
+" the",
+" senator",
+" disguised"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" across from",
+" the",
+" pilots",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" across from",
+" the",
+" pilots",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" in front of",
+" the",
+" senator",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" in front of",
+" the",
+" senator",
+" disguised"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" next to",
+" the",
+" secretaries",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" next to",
+" the",
+" secretaries",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" in front of",
+" the",
+" managers",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" in front of",
+" the",
+" managers",
+" embarrassed"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" next to",
+" the",
+" secretaries",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" next to",
+" the",
+" secretaries",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" in front of",
+" the",
+" managers",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" in front of",
+" the",
+" managers",
+" embarrassed"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" across from",
+" the",
+" actor",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" across from",
+" the",
+" actor",
+" disguised"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" to the side of",
+" the",
+" doctors",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" to the side of",
+" the",
+" doctors",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" across from",
+" the",
+" actor",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" across from",
+" the",
+" actor",
+" disguised"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" to the side of",
+" the",
+" doctors",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" to the side of",
+" the",
+" doctors",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" behind",
+" the",
+" guard",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" behind",
+" the",
+" guard",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" across from",
+" the",
+" minister",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" across from",
+" the",
+" minister",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" behind",
+" the",
+" guard",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" behind",
+" the",
+" guard",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" across from",
+" the",
+" minister",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" across from",
+" the",
+" minister",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" across from",
+" the",
+" customers",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" across from",
+" the",
+" customers",
+" disguised"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" to the side of",
+" the",
+" customers",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" to the side of",
+" the",
+" customers",
+" injured"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" across from",
+" the",
+" customers",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" across from",
+" the",
+" customers",
+" disguised"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" to the side of",
+" the",
+" customers",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" to the side of",
+" the",
+" customers",
+" injured"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" behind",
+" the",
+" teacher",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" behind",
+" the",
+" teacher",
+" doubted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" near",
+" the",
+" minister",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" near",
+" the",
+" minister",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" behind",
+" the",
+" teacher",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" behind",
+" the",
+" teacher",
+" doubted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" near",
+" the",
+" minister",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" near",
+" the",
+" minister",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" next to",
+" the",
+" senators",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" next to",
+" the",
+" senators",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" in front of",
+" the",
+" senator",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" in front of",
+" the",
+" senator",
+" embarrassed"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" next to",
+" the",
+" senators",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" next to",
+" the",
+" senators",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" in front of",
+" the",
+" senator",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" in front of",
+" the",
+" senator",
+" embarrassed"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customers",
+" across from",
+" the",
+" architect",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" customer",
+" across from",
+" the",
+" architect",
+" injured"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" to the side of",
+" the",
+" teacher",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" to the side of",
+" the",
+" teacher",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" across from",
+" the",
+" architect",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" across from",
+" the",
+" architect",
+" injured"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" to the side of",
+" the",
+" teacher",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" to the side of",
+" the",
+" teacher",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" across from",
+" the",
+" doctor",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" across from",
+" the",
+" doctor",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" to the side of",
+" the",
+" minister",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" to the side of",
+" the",
+" minister",
+" doubted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" across from",
+" the",
+" doctor",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" across from",
+" the",
+" doctor",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" to the side of",
+" the",
+" minister",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" to the side of",
+" the",
+" minister",
+" doubted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" across from",
+" the",
+" pilot",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" across from",
+" the",
+" pilot",
+" injured"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" next to",
+" the",
+" architect",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" next to",
+" the",
+" architect",
+" hated"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" across from",
+" the",
+" pilot",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" across from",
+" the",
+" pilot",
+" injured"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" next to",
+" the",
+" architect",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" next to",
+" the",
+" architect",
+" hated"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" behind",
+" the",
+" farmers",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" behind",
+" the",
+" farmers",
+" injured"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" near",
+" the",
+" officer",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" near",
+" the",
+" officer",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" behind",
+" the",
+" farmers",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" behind",
+" the",
+" farmers",
+" injured"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" near",
+" the",
+" officer",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" near",
+" the",
+" officer",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" in front of",
+" the",
+" farmer",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" in front of",
+" the",
+" farmer",
+" doubted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" in front of",
+" the",
+" athletes",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" in front of",
+" the",
+" athletes",
+" doubted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" in front of",
+" the",
+" farmer",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" in front of",
+" the",
+" farmer",
+" doubted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" in front of",
+" the",
+" athletes",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" in front of",
+" the",
+" athletes",
+" doubted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_pp__num",
+"pair_kind": "num"
+}
+]

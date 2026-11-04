@@ -1,0 +1,2602 @@
+[
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" that",
+" met",
+" the",
+" secretary",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" that",
+" met",
+" the",
+" secretary",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" that",
+" hated",
+" the",
+" actors",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" that",
+" hated",
+" the",
+" actors",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" that",
+" met",
+" the",
+" secretary",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" met",
+" the",
+" secretary",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" that",
+" hated",
+" the",
+" actors",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" that",
+" hated",
+" the",
+" actors",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" that",
+" loved",
+" the",
+" actors",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" that",
+" loved",
+" the",
+" actors",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" that",
+" liked",
+" the",
+" author",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" that",
+" liked",
+" the",
+" author",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" loved",
+" the",
+" actors",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" loved",
+" the",
+" actors",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" that",
+" liked",
+" the",
+" author",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" that",
+" liked",
+" the",
+" author",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" that",
+" loved",
+" the",
+" teachers",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" that",
+" loved",
+" the",
+" teachers",
+" doubted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" that",
+" hated",
+" the",
+" clerk",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" that",
+" hated",
+" the",
+" clerk",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" that",
+" loved",
+" the",
+" teachers",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" that",
+" loved",
+" the",
+" teachers",
+" doubted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" that",
+" hated",
+" the",
+" clerk",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" that",
+" hated",
+" the",
+" clerk",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" that",
+" discussed",
+" the",
+" customer",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" that",
+" discussed",
+" the",
+" customer",
+" disguised"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" that",
+" loved",
+" the",
+" secretary",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" that",
+" loved",
+" the",
+" secretary",
+" embarrassed"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" that",
+" discussed",
+" the",
+" customer",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" that",
+" discussed",
+" the",
+" customer",
+" disguised"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" that",
+" loved",
+" the",
+" secretary",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" loved",
+" the",
+" secretary",
+" embarrassed"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" hated",
+" the",
+" author",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" that",
+" hated",
+" the",
+" author",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" that",
+" liked",
+" the",
+" athlete",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" that",
+" liked",
+" the",
+" athlete",
+" embarrassed"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" that",
+" hated",
+" the",
+" author",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" that",
+" hated",
+" the",
+" author",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" that",
+" liked",
+" the",
+" athlete",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" that",
+" liked",
+" the",
+" athlete",
+" embarrassed"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" that",
+" met",
+" the",
+" author",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" that",
+" met",
+" the",
+" author",
+" embarrassed"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" loved",
+" the",
+" managers",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" loved",
+" the",
+" managers",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" that",
+" met",
+" the",
+" author",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" that",
+" met",
+" the",
+" author",
+" embarrassed"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" that",
+" loved",
+" the",
+" managers",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" that",
+" loved",
+" the",
+" managers",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" that",
+" discussed",
+" the",
+" farmer",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" that",
+" discussed",
+" the",
+" farmer",
+" disguised"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" that",
+" met",
+" the",
+" officer",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" that",
+" met",
+" the",
+" officer",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" that",
+" discussed",
+" the",
+" farmer",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" that",
+" discussed",
+" the",
+" farmer",
+" disguised"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" that",
+" met",
+" the",
+" officer",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" that",
+" met",
+" the",
+" officer",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" that",
+" met",
+" the",
+" doctors",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" that",
+" met",
+" the",
+" doctors",
+" doubted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" that",
+" loved",
+" the",
+" architect",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" that",
+" loved",
+" the",
+" architect",
+" injured"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" that",
+" met",
+" the",
+" doctors",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" that",
+" met",
+" the",
+" doctors",
+" doubted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" that",
+" loved",
+" the",
+" architect",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" that",
+" loved",
+" the",
+" architect",
+" injured"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" that",
+" liked",
+" the",
+" manager",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" that",
+" liked",
+" the",
+" manager",
+" embarrassed"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" that",
+" liked",
+" the",
+" guards",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" that",
+" liked",
+" the",
+" guards",
+" doubted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" that",
+" liked",
+" the",
+" manager",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" that",
+" liked",
+" the",
+" manager",
+" embarrassed"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" that",
+" liked",
+" the",
+" guards",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" that",
+" liked",
+" the",
+" guards",
+" doubted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" that",
+" discussed",
+" the",
+" ministers",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" that",
+" discussed",
+" the",
+" ministers",
+" embarrassed"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" that",
+" met",
+" the",
+" doctors",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" that",
+" met",
+" the",
+" doctors",
+" hated"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" that",
+" discussed",
+" the",
+" ministers",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" that",
+" discussed",
+" the",
+" ministers",
+" embarrassed"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" met",
+" the",
+" doctors",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" met",
+" the",
+" doctors",
+" hated"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" that",
+" met",
+" the",
+" farmer",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" met",
+" the",
+" farmer",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" that",
+" discussed",
+" the",
+" ministers",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" that",
+" discussed",
+" the",
+" ministers",
+" hated"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" that",
+" met",
+" the",
+" farmer",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" that",
+" met",
+" the",
+" farmer",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" that",
+" discussed",
+" the",
+" ministers",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" that",
+" discussed",
+" the",
+" ministers",
+" hated"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" that",
+" discussed",
+" the",
+" clerk",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" that",
+" discussed",
+" the",
+" clerk",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" that",
+" discussed",
+" the",
+" customer",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" that",
+" discussed",
+" the",
+" customer",
+" hated"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" that",
+" discussed",
+" the",
+" clerk",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" that",
+" discussed",
+" the",
+" clerk",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" that",
+" discussed",
+" the",
+" customer",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" that",
+" discussed",
+" the",
+" customer",
+" hated"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" that",
+" hated",
+" the",
+" architects",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" hated",
+" the",
+" architects",
+" hated"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" that",
+" discussed",
+" the",
+" pilots",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" that",
+" discussed",
+" the",
+" pilots",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" that",
+" hated",
+" the",
+" architects",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" that",
+" hated",
+" the",
+" architects",
+" hated"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" that",
+" discussed",
+" the",
+" pilots",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" that",
+" discussed",
+" the",
+" pilots",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" that",
+" hated",
+" the",
+" pilots",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" that",
+" hated",
+" the",
+" pilots",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" that",
+" loved",
+" the",
+" senator",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" that",
+" loved",
+" the",
+" senator",
+" disguised"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" that",
+" hated",
+" the",
+" pilots",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" that",
+" hated",
+" the",
+" pilots",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" loved",
+" the",
+" senator",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" loved",
+" the",
+" senator",
+" disguised"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" that",
+" met",
+" the",
+" secretaries",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" that",
+" met",
+" the",
+" secretaries",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" that",
+" loved",
+" the",
+" managers",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" that",
+" loved",
+" the",
+" managers",
+" embarrassed"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" that",
+" met",
+" the",
+" secretaries",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" that",
+" met",
+" the",
+" secretaries",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" that",
+" loved",
+" the",
+" managers",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" that",
+" loved",
+" the",
+" managers",
+" embarrassed"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" that",
+" hated",
+" the",
+" actor",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" that",
+" hated",
+" the",
+" actor",
+" disguised"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" that",
+" discussed",
+" the",
+" doctors",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" that",
+" discussed",
+" the",
+" doctors",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" that",
+" hated",
+" the",
+" actor",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" that",
+" hated",
+" the",
+" actor",
+" disguised"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" that",
+" discussed",
+" the",
+" doctors",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" that",
+" discussed",
+" the",
+" doctors",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" that",
+" hated",
+" the",
+" guard",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" that",
+" hated",
+" the",
+" guard",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" that",
+" hated",
+" the",
+" minister",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" that",
+" hated",
+" the",
+" minister",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" that",
+" hated",
+" the",
+" guard",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" that",
+" hated",
+" the",
+" guard",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" that",
+" hated",
+" the",
+" minister",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" that",
+" hated",
+" the",
+" minister",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" that",
+" hated",
+" the",
+" customers",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" that",
+" hated",
+" the",
+" customers",
+" disguised"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" that",
+" discussed",
+" the",
+" customers",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" that",
+" discussed",
+" the",
+" customers",
+" injured"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" that",
+" hated",
+" the",
+" customers",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" that",
+" hated",
+" the",
+" customers",
+" disguised"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" discussed",
+" the",
+" customers",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" that",
+" discussed",
+" the",
+" customers",
+" injured"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" that",
+" hated",
+" the",
+" farmer",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" that",
+" hated",
+" the",
+" farmer",
+" injured"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" that",
+" liked",
+" the",
+" minister",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" that",
+" liked",
+" the",
+" minister",
+" hurt"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" that",
+" hated",
+" the",
+" farmer",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" that",
+" hated",
+" the",
+" farmer",
+" injured"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" that",
+" liked",
+" the",
+" minister",
+" hurt"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" that",
+" liked",
+" the",
+" minister",
+" hurt"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" that",
+" met",
+" the",
+" senators",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" that",
+" met",
+" the",
+" senators",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" that",
+" loved",
+" the",
+" senator",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" that",
+" loved",
+" the",
+" senator",
+" embarrassed"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" that",
+" met",
+" the",
+" senators",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" that",
+" met",
+" the",
+" senators",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" that",
+" loved",
+" the",
+" senator",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" that",
+" loved",
+" the",
+" senator",
+" embarrassed"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customers",
+" that",
+" hated",
+" the",
+" architect",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" customer",
+" that",
+" hated",
+" the",
+" architect",
+" injured"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" that",
+" discussed",
+" the",
+" teacher",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" that",
+" discussed",
+" the",
+" teacher",
+" trusted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" that",
+" hated",
+" the",
+" architect",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" that",
+" hated",
+" the",
+" architect",
+" injured"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" discussed",
+" the",
+" teacher",
+" trusted"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" that",
+" discussed",
+" the",
+" teacher",
+" trusted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" that",
+" hated",
+" the",
+" doctor",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" that",
+" hated",
+" the",
+" doctor",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" that",
+" discussed",
+" the",
+" minister",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" that",
+" discussed",
+" the",
+" minister",
+" doubted"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" that",
+" hated",
+" the",
+" doctor",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" that",
+" hated",
+" the",
+" doctor",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" that",
+" discussed",
+" the",
+" minister",
+" doubted"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" that",
+" discussed",
+" the",
+" minister",
+" doubted"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" that",
+" hated",
+" the",
+" pilot",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" that",
+" hated",
+" the",
+" pilot",
+" injured"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" that",
+" met",
+" the",
+" architect",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" that",
+" met",
+" the",
+" architect",
+" hated"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" hated",
+" the",
+" pilot",
+" injured"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" that",
+" hated",
+" the",
+" pilot",
+" injured"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" met",
+" the",
+" architect",
+" hated"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" met",
+" the",
+" architect",
+" hated"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" that",
+" loved",
+" the",
+" ministers",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" that",
+" loved",
+" the",
+" ministers",
+" disguised"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" that",
+" liked",
+" the",
+" clerk",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" that",
+" liked",
+" the",
+" clerk",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" that",
+" loved",
+" the",
+" ministers",
+" disguised"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" that",
+" loved",
+" the",
+" ministers",
+" disguised"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" that",
+" liked",
+" the",
+" clerk",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" that",
+" liked",
+" the",
+" clerk",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" that",
+" liked",
+" the",
+" pilot",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" that",
+" liked",
+" the",
+" pilot",
+" embarrassed"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" that",
+" discussed",
+" the",
+" clerks",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" that",
+" discussed",
+" the",
+" clerks",
+" suspected"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customers",
+" that",
+" liked",
+" the",
+" pilot",
+" embarrassed"
+],
+"src": [
+"<|endoftext|>The",
+" customer",
+" that",
+" liked",
+" the",
+" pilot",
+" embarrassed"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " themselves",
+"src_label": " himself",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" that",
+" discussed",
+" the",
+" clerks",
+" suspected"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" that",
+" discussed",
+" the",
+" clerks",
+" suspected"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " himself",
+"src_label": " themselves",
+"task": "agr_refl_num_subj-relc__num",
+"pair_kind": "num"
+}
+]

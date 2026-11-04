@@ -1,0 +1,7202 @@
+[
+{
+"base": [
+"<|endoftext|>",
+"All in all, a great party.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"At the end of the movie, my 6-year-old nephew said, ''I guess I come from a broken family, and my uncles are all aliens, too.''",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 0
+},
+{
+"base": [
+"<|endoftext|>",
+"At the end of the movie, my 6-year-old nephew said, ''I guess I come from a broken family, and my uncles are all aliens, too.''",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"All in all, a great party.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 0
+},
+{
+"base": [
+"<|endoftext|>",
+"As I settled into my World War II memories, I found myself strangely moved by even the corniest and most hackneyed contrivances.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Daughter From Danang reveals that efforts toward closure only open new wounds.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 1
+},
+{
+"base": [
+"<|endoftext|>",
+"Daughter From Danang reveals that efforts toward closure only open new wounds.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"As I settled into my World War II memories, I found myself strangely moved by even the corniest and most hackneyed contrivances.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 1
+},
+{
+"base": [
+"<|endoftext|>",
+"Director Claude Chabrol has become the master of innuendo.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"This feature is about as necessary as a hole in the head",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 2
+},
+{
+"base": [
+"<|endoftext|>",
+"This feature is about as necessary as a hole in the head",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Director Claude Chabrol has become the master of innuendo.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 2
+},
+{
+"base": [
+"<|endoftext|>",
+"Everything is pegged into the groove of a New York dating comedy with ` issues' to simplify.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"I'd rather watch a rerun of The Powerpuff Girls",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 3
+},
+{
+"base": [
+"<|endoftext|>",
+"I'd rather watch a rerun of The Powerpuff Girls",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Everything is pegged into the groove of a New York dating comedy with ` issues' to simplify.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 3
+},
+{
+"base": [
+"<|endoftext|>",
+"Deflated ending aside, there's much to recommend the film.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The title, alone, should scare any sane person away.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 4
+},
+{
+"base": [
+"<|endoftext|>",
+"The title, alone, should scare any sane person away.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Deflated ending aside, there's much to recommend the film.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 4
+},
+{
+"base": [
+"<|endoftext|>",
+"Michael Moore has perfected the art of highly entertaining, self-aggrandizing, politically motivated documentary-making, and he's got as potent a topic as ever here.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's like Rocky and Bullwinkle on Speed, but that's neither completely enlightening, nor does it catch the intensity of the movie's strangeness.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 5
+},
+{
+"base": [
+"<|endoftext|>",
+"It's like Rocky and Bullwinkle on Speed, but that's neither completely enlightening, nor does it catch the intensity of the movie's strangeness.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Michael Moore has perfected the art of highly entertaining, self-aggrandizing, politically motivated documentary-making, and he's got as potent a topic as ever here.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 5
+},
+{
+"base": [
+"<|endoftext|>",
+"Parents may even find that it goes by quickly, because it has some of the funniest jokes of any movie this year, including those intended for adults.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A distinctly mixed bag, the occasional bursts of sharp writing alternating with lots of sloppiness and the obligatory moments of sentimental ooze.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 6
+},
+{
+"base": [
+"<|endoftext|>",
+"A distinctly mixed bag, the occasional bursts of sharp writing alternating with lots of sloppiness and the obligatory moments of sentimental ooze.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Parents may even find that it goes by quickly, because it has some of the funniest jokes of any movie this year, including those intended for adults.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 6
+},
+{
+"base": [
+"<|endoftext|>",
+"''the road paved with good intentions leads to the video store''",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If Divine Secrets of the Ya-Ya Sisterhood suffers from a ploddingly melodramatic structure, it comes to life in the performances.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 7
+},
+{
+"base": [
+"<|endoftext|>",
+"If Divine Secrets of the Ya-Ya Sisterhood suffers from a ploddingly melodramatic structure, it comes to life in the performances.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"''the road paved with good intentions leads to the video store''",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 7
+},
+{
+"base": [
+"<|endoftext|>",
+"If you're a fan of the series you'll love it and probably want to see it twice.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Reign of Fire never comes close to recovering from its demented premise, but it does sustain an enjoyable level of ridiculousness.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 8
+},
+{
+"base": [
+"<|endoftext|>",
+"Reign of Fire never comes close to recovering from its demented premise, but it does sustain an enjoyable level of ridiculousness.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If you're a fan of the series you'll love it and probably want to see it twice.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 8
+},
+{
+"base": [
+"<|endoftext|>",
+"Delight your senses and crash this wedding!",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Coarse, cliched and clunky, this trifling romantic comedy in which opposites attract for no better reason than that the screenplay demands it squanders the charms of stars Hugh Grant and Sandra Bullock.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 9
+},
+{
+"base": [
+"<|endoftext|>",
+"Coarse, cliched and clunky, this trifling romantic comedy in which opposites attract for no better reason than that the screenplay demands it squanders the charms of stars Hugh Grant and Sandra Bullock.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Delight your senses and crash this wedding!",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 9
+},
+{
+"base": [
+"<|endoftext|>",
+"There's very little sense to what's going on here, but the makers serve up the cliches with considerable dash.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Unfortunately, neither Sendak nor the directors are particularly engaging or articulate.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 10
+},
+{
+"base": [
+"<|endoftext|>",
+"Unfortunately, neither Sendak nor the directors are particularly engaging or articulate.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"There's very little sense to what's going on here, but the makers serve up the cliches with considerable dash.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 10
+},
+{
+"base": [
+"<|endoftext|>",
+"Garcia and the other actors help make the wobbly premise work.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Explosions, jokes, and sexual innuendoes abound.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 11
+},
+{
+"base": [
+"<|endoftext|>",
+"Explosions, jokes, and sexual innuendoes abound.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Garcia and the other actors help make the wobbly premise work.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 11
+},
+{
+"base": [
+"<|endoftext|>",
+"Compellingly watchable.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Wait for pay per view or rental but don't dismiss BarberShop out of hand.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 12
+},
+{
+"base": [
+"<|endoftext|>",
+"Wait for pay per view or rental but don't dismiss BarberShop out of hand.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Compellingly watchable.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 12
+},
+{
+"base": [
+"<|endoftext|>",
+"Much of what we see is horrible but it's also undeniably exceedingly clever.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A big, loud, bang-the-drum bore.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 13
+},
+{
+"base": [
+"<|endoftext|>",
+"A big, loud, bang-the-drum bore.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Much of what we see is horrible but it's also undeniably exceedingly clever.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 13
+},
+{
+"base": [
+"<|endoftext|>",
+"Trapped won't score points for political correctness, but it may cause parents a few sleepless hours--a sign of its effectiveness.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Hmmm... might I suggest that the wayward wooden one end it all by stuffing himself into an electric pencil sharpener?",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 14
+},
+{
+"base": [
+"<|endoftext|>",
+"Hmmm... might I suggest that the wayward wooden one end it all by stuffing himself into an electric pencil sharpener?",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Trapped won't score points for political correctness, but it may cause parents a few sleepless hours--a sign of its effectiveness.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 14
+},
+{
+"base": [
+"<|endoftext|>",
+"It's more enjoyable than I expected, though, and that's because the laughs come from fairly basic comedic constructs.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's so laddish and juvenile, only teenage boys could possibly find it funny.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 15
+},
+{
+"base": [
+"<|endoftext|>",
+"It's so laddish and juvenile, only teenage boys could possibly find it funny.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's more enjoyable than I expected, though, and that's because the laughs come from fairly basic comedic constructs.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 15
+},
+{
+"base": [
+"<|endoftext|>",
+"A sincere but dramatically conflicted gay coming-of-age tale.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Benigni presents himself as the boy puppet Pinocchio, complete with receding hairline, weathered countenance and American Breckin Meyer's ridiculously inappropriate Valley Boy voice.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 16
+},
+{
+"base": [
+"<|endoftext|>",
+"Benigni presents himself as the boy puppet Pinocchio, complete with receding hairline, weathered countenance and American Breckin Meyer's ridiculously inappropriate Valley Boy voice.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A sincere but dramatically conflicted gay coming-of-age tale.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 16
+},
+{
+"base": [
+"<|endoftext|>",
+"Even when there are lulls, the emotions seem authentic, and the picture is so lovely toward the end... you almost don't notice the 129-minute running time.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A pleasant, if forgettable, romp of a film.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 17
+},
+{
+"base": [
+"<|endoftext|>",
+"A pleasant, if forgettable, romp of a film.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Even when there are lulls, the emotions seem authentic, and the picture is so lovely toward the end... you almost don't notice the 129-minute running time.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 17
+},
+{
+"base": [
+"<|endoftext|>",
+"A tasty masala.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The Sum of All Fears pretends to be a serious exploration of nuclear terrorism, but it's really nothing more than warmed-over Cold War paranoia.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 18
+},
+{
+"base": [
+"<|endoftext|>",
+"The Sum of All Fears pretends to be a serious exploration of nuclear terrorism, but it's really nothing more than warmed-over Cold War paranoia.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A tasty masala.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 18
+},
+{
+"base": [
+"<|endoftext|>",
+"It's that good.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"An empty, purposeless exercise.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 19
+},
+{
+"base": [
+"<|endoftext|>",
+"An empty, purposeless exercise.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's that good.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 19
+},
+{
+"base": [
+"<|endoftext|>",
+"A fascinating, dark thriller that keeps you hooked on the delicious pulpiness of its lurid fiction.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A derivative collection of horror and sci-fi cliches.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 20
+},
+{
+"base": [
+"<|endoftext|>",
+"A derivative collection of horror and sci-fi cliches.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A fascinating, dark thriller that keeps you hooked on the delicious pulpiness of its lurid fiction.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 20
+},
+{
+"base": [
+"<|endoftext|>",
+"For all the wit and hoopla, Festival In Cannes offers rare insight into the structure of relationships.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It collapses when Mr. Taylor tries to shift the tone to a thriller's rush.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 21
+},
+{
+"base": [
+"<|endoftext|>",
+"It collapses when Mr. Taylor tries to shift the tone to a thriller's rush.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"For all the wit and hoopla, Festival In Cannes offers rare insight into the structure of relationships.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 21
+},
+{
+"base": [
+"<|endoftext|>",
+"It's a glorious spectacle like those D.W. Griffith made in the early days of silent film.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Though it pretends to expose the life of male hustlers, it's exploitive without being insightful.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 22
+},
+{
+"base": [
+"<|endoftext|>",
+"Though it pretends to expose the life of male hustlers, it's exploitive without being insightful.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's a glorious spectacle like those D.W. Griffith made in the early days of silent film.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 22
+},
+{
+"base": [
+"<|endoftext|>",
+"If you're looking for an intelligent movie in which you can release your pent up anger, ENOUGH is just the ticket you need.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Stiff and schmaltzy and clumsily directed.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 23
+},
+{
+"base": [
+"<|endoftext|>",
+"Stiff and schmaltzy and clumsily directed.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If you're looking for an intelligent movie in which you can release your pent up anger, ENOUGH is just the ticket you need.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 23
+},
+{
+"base": [
+"<|endoftext|>",
+"s face is chillingly unemotive, yet he communicates a great deal in his performance.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"is that it's a crime movie made by someone who obviously knows nothing about crime.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 24
+},
+{
+"base": [
+"<|endoftext|>",
+"is that it's a crime movie made by someone who obviously knows nothing about crime.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"s face is chillingly unemotive, yet he communicates a great deal in his performance.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 24
+},
+{
+"base": [
+"<|endoftext|>",
+"An intelligent and deeply felt work about impossible, irrevocable choices and the price of making them.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 25
+},
+{
+"base": [
+"<|endoftext|>",
+"This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"An intelligent and deeply felt work about impossible, irrevocable choices and the price of making them.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 25
+},
+{
+"base": [
+"<|endoftext|>",
+"An impressive hybrid.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Steers has an unexpectedly adamant streak of warm-blooded empathy for all his disparate Manhattan denizens--especially the a \\*\\* holes.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 26
+},
+{
+"base": [
+"<|endoftext|>",
+"Steers has an unexpectedly adamant streak of warm-blooded empathy for all his disparate Manhattan denizens--especially the a \\*\\* holes.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"An impressive hybrid.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 26
+},
+{
+"base": [
+"<|endoftext|>",
+"Initial strangeness inexorably gives way to rote sentimentality and mystical tenderness becomes narrative expedience.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"77 minutes of Pokemon may not last 4ever, it just seems like it does.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 27
+},
+{
+"base": [
+"<|endoftext|>",
+"77 minutes of Pokemon may not last 4ever, it just seems like it does.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Initial strangeness inexorably gives way to rote sentimentality and mystical tenderness becomes narrative expedience.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 27
+},
+{
+"base": [
+"<|endoftext|>",
+"What saves it... and makes it one of the better video-game-based flicks, is that the film acknowledges upfront that the plot makes no sense, such that the lack of linearity is the point of emotional and moral departure for protagonist Alice.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A disaster of a drama, saved only by its winged assailants.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 28
+},
+{
+"base": [
+"<|endoftext|>",
+"A disaster of a drama, saved only by its winged assailants.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"What saves it... and makes it one of the better video-game-based flicks, is that the film acknowledges upfront that the plot makes no sense, such that the lack of linearity is the point of emotional and moral departure for protagonist Alice.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 28
+},
+{
+"base": [
+"<|endoftext|>",
+"''Spider-man is better than any summer blockbuster we had to endure last summer, and hopefully, sets the tone for a summer of good stuff.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Like a medium-grade network sitcom--mostly inoffensive, fitfully amusing, but ultimately so weightless that a decent draft in the auditorium might blow it off the screen.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 29
+},
+{
+"base": [
+"<|endoftext|>",
+"Like a medium-grade network sitcom--mostly inoffensive, fitfully amusing, but ultimately so weightless that a decent draft in the auditorium might blow it off the screen.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"''Spider-man is better than any summer blockbuster we had to endure last summer, and hopefully, sets the tone for a summer of good stuff.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 29
+},
+{
+"base": [
+"<|endoftext|>",
+"- I also wanted a little alien as a friend!",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The project's filmmakers forgot to include anything even halfway scary as they poorly rejigger Fatal Attraction into a high school setting.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 30
+},
+{
+"base": [
+"<|endoftext|>",
+"The project's filmmakers forgot to include anything even halfway scary as they poorly rejigger Fatal Attraction into a high school setting.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"- I also wanted a little alien as a friend!",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 30
+},
+{
+"base": [
+"<|endoftext|>",
+"Visually striking and viscerally repellent.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"One key problem with these ardently Christian storylines is that there is never any question of how things will turn out.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 31
+},
+{
+"base": [
+"<|endoftext|>",
+"One key problem with these ardently Christian storylines is that there is never any question of how things will turn out.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Visually striking and viscerally repellent.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 31
+},
+{
+"base": [
+"<|endoftext|>",
+"Worth a look by those on both sides of the issues, if only for the perspective it offers, one the public rarely sees.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A handsome but unfulfilling suspense drama more suited to a quiet evening on PBS than a night out at an AMC.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 32
+},
+{
+"base": [
+"<|endoftext|>",
+"A handsome but unfulfilling suspense drama more suited to a quiet evening on PBS than a night out at an AMC.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Worth a look by those on both sides of the issues, if only for the perspective it offers, one the public rarely sees.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 32
+},
+{
+"base": [
+"<|endoftext|>",
+"An involving, inspirational drama that sometimes falls prey to its sob-story trappings.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Shyamalan should stop trying to please his mom.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 33
+},
+{
+"base": [
+"<|endoftext|>",
+"Shyamalan should stop trying to please his mom.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"An involving, inspirational drama that sometimes falls prey to its sob-story trappings.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 33
+},
+{
+"base": [
+"<|endoftext|>",
+"There are no special effects, and no Hollywood endings.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Viewers will need all the luck they can muster just figuring out who's who in this pretentious mess.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 34
+},
+{
+"base": [
+"<|endoftext|>",
+"Viewers will need all the luck they can muster just figuring out who's who in this pretentious mess.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"There are no special effects, and no Hollywood endings.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 34
+},
+{
+"base": [
+"<|endoftext|>",
+"The AAA of action, XXX is a blast of adrenalin, rated EEE for excitement.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Kung Pow seems like some futile concoction that was developed hastily after Oedekerk and his fellow moviemakers got through crashing a college keg party.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 35
+},
+{
+"base": [
+"<|endoftext|>",
+"Kung Pow seems like some futile concoction that was developed hastily after Oedekerk and his fellow moviemakers got through crashing a college keg party.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The AAA of action, XXX is a blast of adrenalin, rated EEE for excitement.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 35
+},
+{
+"base": [
+"<|endoftext|>",
+"Fontaine masterfully creates a portrait of two strong men in conflict, inextricably entwined through family history, each seeing himself in the other, neither liking what he sees.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Make Chan's action sequences boring.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 36
+},
+{
+"base": [
+"<|endoftext|>",
+"Make Chan's action sequences boring.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Fontaine masterfully creates a portrait of two strong men in conflict, inextricably entwined through family history, each seeing himself in the other, neither liking what he sees.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 36
+},
+{
+"base": [
+"<|endoftext|>",
+"Jonathan Parker's Bartleby should have been the be-all-end-all of the modern-office anomie films.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"But it has an ambition to say something about its subjects, but not a willingness.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 37
+},
+{
+"base": [
+"<|endoftext|>",
+"But it has an ambition to say something about its subjects, but not a willingness.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Jonathan Parker's Bartleby should have been the be-all-end-all of the modern-office anomie films.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 37
+},
+{
+"base": [
+"<|endoftext|>",
+"Jaunty fun, with its celeb-strewn backdrop well used.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's so badly made on every level that I'm actually having a hard time believing people were paid to make it.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 38
+},
+{
+"base": [
+"<|endoftext|>",
+"It's so badly made on every level that I'm actually having a hard time believing people were paid to make it.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Jaunty fun, with its celeb-strewn backdrop well used.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 38
+},
+{
+"base": [
+"<|endoftext|>",
+"This follow-up seems so similar to the 1953 Disney classic that it makes one long for a geriatric Peter.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The only thing scary about feardotcom is that the filmmakers and studio are brazen enough to attempt to pass this stinker off as a scary movie.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 39
+},
+{
+"base": [
+"<|endoftext|>",
+"The only thing scary about feardotcom is that the filmmakers and studio are brazen enough to attempt to pass this stinker off as a scary movie.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"This follow-up seems so similar to the 1953 Disney classic that it makes one long for a geriatric Peter.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 39
+},
+{
+"base": [
+"<|endoftext|>",
+"It's fun, wispy, wise and surprisingly inoffensive for a film about a teen in love with his stepmom.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Evokes the frustration, the awkwardness and the euphoria of growing up, without relying on the usual tropes.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 40
+},
+{
+"base": [
+"<|endoftext|>",
+"Evokes the frustration, the awkwardness and the euphoria of growing up, without relying on the usual tropes.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's fun, wispy, wise and surprisingly inoffensive for a film about a teen in love with his stepmom.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 40
+},
+{
+"base": [
+"<|endoftext|>",
+"The film's constant mood of melancholy and its unhurried narrative are masterfully controlled.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A lot like the imaginary sport it projects onto the screen--loud, violent and mindless.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 41
+},
+{
+"base": [
+"<|endoftext|>",
+"A lot like the imaginary sport it projects onto the screen--loud, violent and mindless.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The film's constant mood of melancholy and its unhurried narrative are masterfully controlled.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 41
+},
+{
+"base": [
+"<|endoftext|>",
+"It's no surprise that as a director Washington demands and receives excellent performances, from himself and from newcomer Derek Luke.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Too clumsy in key moments... to make a big splash.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 42
+},
+{
+"base": [
+"<|endoftext|>",
+"Too clumsy in key moments... to make a big splash.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's no surprise that as a director Washington demands and receives excellent performances, from himself and from newcomer Derek Luke.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 42
+},
+{
+"base": [
+"<|endoftext|>",
+"A genuinely moving and wisely unsentimental drama.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Gives us a lot to chew on, but not all of it has been properly digested.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 43
+},
+{
+"base": [
+"<|endoftext|>",
+"Gives us a lot to chew on, but not all of it has been properly digested.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A genuinely moving and wisely unsentimental drama.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 43
+},
+{
+"base": [
+"<|endoftext|>",
+"Reno himself can take credit for most of the movie's success.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"I can't remember the last time I saw a movie where I wanted so badly for the protagonist to fail.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 44
+},
+{
+"base": [
+"<|endoftext|>",
+"I can't remember the last time I saw a movie where I wanted so badly for the protagonist to fail.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Reno himself can take credit for most of the movie's success.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 44
+},
+{
+"base": [
+"<|endoftext|>",
+"A riveting documentary.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Ultimately, Jane learns her place as a girl, softens up and loses some of the intensity that made her an interesting character to begin with.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 45
+},
+{
+"base": [
+"<|endoftext|>",
+"Ultimately, Jane learns her place as a girl, softens up and loses some of the intensity that made her an interesting character to begin with.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A riveting documentary.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 45
+},
+{
+"base": [
+"<|endoftext|>",
+"So vivid a portrait of a woman consumed by lust and love and crushed by betrayal that it conjures up the intoxicating fumes and emotional ghosts of a freshly painted Rembrandt.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"There's a great deal of corny dialogue and preposterous moments.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 46
+},
+{
+"base": [
+"<|endoftext|>",
+"There's a great deal of corny dialogue and preposterous moments.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"So vivid a portrait of a woman consumed by lust and love and crushed by betrayal that it conjures up the intoxicating fumes and emotional ghosts of a freshly painted Rembrandt.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 46
+},
+{
+"base": [
+"<|endoftext|>",
+"I'd be lying if I said my ribcage didn't ache by the end of Kung Pow.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Abysmally pathetic",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 47
+},
+{
+"base": [
+"<|endoftext|>",
+"Abysmally pathetic",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"I'd be lying if I said my ribcage didn't ache by the end of Kung Pow.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 47
+},
+{
+"base": [
+"<|endoftext|>",
+"If you like an extreme action-packed film with a hint of humor, then Triple X marks the spot.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's a thin notion, repetitively stretched out to feature length, awash in self-consciously flashy camera effects, droning house music and flat, flat dialogue.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 48
+},
+{
+"base": [
+"<|endoftext|>",
+"It's a thin notion, repetitively stretched out to feature length, awash in self-consciously flashy camera effects, droning house music and flat, flat dialogue.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If you like an extreme action-packed film with a hint of humor, then Triple X marks the spot.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 48
+},
+{
+"base": [
+"<|endoftext|>",
+"It is quite a vision.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"This mild-mannered farce, directed by one of its writers, John C. Walsh, is corny in a way that bespeaks an expiration date passed a long time ago.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 49
+},
+{
+"base": [
+"<|endoftext|>",
+"This mild-mannered farce, directed by one of its writers, John C. Walsh, is corny in a way that bespeaks an expiration date passed a long time ago.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It is quite a vision.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 49
+},
+{
+"base": [
+"<|endoftext|>",
+"Criminal conspiracies and true romances move so easily across racial and cultural lines in the film that it makes My Big Fat Greek Wedding look like an apartheid drama.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"There are some laughs in this movie, but Williams' anarchy gets tiresome, the satire is weak.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 50
+},
+{
+"base": [
+"<|endoftext|>",
+"There are some laughs in this movie, but Williams' anarchy gets tiresome, the satire is weak.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Criminal conspiracies and true romances move so easily across racial and cultural lines in the film that it makes My Big Fat Greek Wedding look like an apartheid drama.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 50
+},
+{
+"base": [
+"<|endoftext|>",
+"This masterfully calibrated psychological thriller thrives on its taut performances and creepy atmosphere even if the screenplay falls somewhat short.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It never plays as dramatic even when dramatic things happen to people.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 51
+},
+{
+"base": [
+"<|endoftext|>",
+"It never plays as dramatic even when dramatic things happen to people.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"This masterfully calibrated psychological thriller thrives on its taut performances and creepy atmosphere even if the screenplay falls somewhat short.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 51
+},
+{
+"base": [
+"<|endoftext|>",
+"It's a testament to De Niro and director Michael Caton-Jones that by movie's end, we accept the characters and the film, flaws and all.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's too bad that the rest isn't more compelling.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 52
+},
+{
+"base": [
+"<|endoftext|>",
+"It's too bad that the rest isn't more compelling.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's a testament to De Niro and director Michael Caton-Jones that by movie's end, we accept the characters and the film, flaws and all.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 52
+},
+{
+"base": [
+"<|endoftext|>",
+"Marshall puts a suspenseful spin on standard horror flick formula.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The characters are so generic and the plot so bland that even as rogue CIA assassins working for Chris Cooper's agency boss close in on the resourceful amnesiac, we don't feel much for Damon\\/Bourne or his predicament.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 53
+},
+{
+"base": [
+"<|endoftext|>",
+"The characters are so generic and the plot so bland that even as rogue CIA assassins working for Chris Cooper's agency boss close in on the resourceful amnesiac, we don't feel much for Damon\\/Bourne or his predicament.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Marshall puts a suspenseful spin on standard horror flick formula.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 53
+},
+{
+"base": [
+"<|endoftext|>",
+"As Allen's execution date closes in, the documentary gives an especially poignant portrait of her friendship with the never flagging legal investigator David Presson.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The first question to ask about Bad Company is why Anthony Hopkins is in it.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 54
+},
+{
+"base": [
+"<|endoftext|>",
+"The first question to ask about Bad Company is why Anthony Hopkins is in it.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"As Allen's execution date closes in, the documentary gives an especially poignant portrait of her friendship with the never flagging legal investigator David Presson.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 54
+},
+{
+"base": [
+"<|endoftext|>",
+"A must for fans of British cinema, if only because so many titans of the industry are along for the ride.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"To work, love stories require the full emotional involvement and support of a viewer.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 55
+},
+{
+"base": [
+"<|endoftext|>",
+"To work, love stories require the full emotional involvement and support of a viewer.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A must for fans of British cinema, if only because so many titans of the industry are along for the ride.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 55
+},
+{
+"base": [
+"<|endoftext|>",
+"Nothing overly original, mind you, but solidly entertaining.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The problem with movies about angels is they have a tendency to slip into hokum.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 56
+},
+{
+"base": [
+"<|endoftext|>",
+"The problem with movies about angels is they have a tendency to slip into hokum.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Nothing overly original, mind you, but solidly entertaining.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 56
+},
+{
+"base": [
+"<|endoftext|>",
+"Perhaps the best sports movie I've ever seen.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"In the spirit of the season, I assign one bright shining star to Roberto Benigni's Pinocchio--but I guarantee that no wise men will be following after it.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 57
+},
+{
+"base": [
+"<|endoftext|>",
+"In the spirit of the season, I assign one bright shining star to Roberto Benigni's Pinocchio--but I guarantee that no wise men will be following after it.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Perhaps the best sports movie I've ever seen.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 57
+},
+{
+"base": [
+"<|endoftext|>",
+"Like The Full Monty, this is sure to raise audience's spirits and leave them singing long after the credits roll.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"` CQ may one day be fondly remembered as Roman Coppola's brief pretentious period before going on to other films that actually tell a story worth caring about",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 58
+},
+{
+"base": [
+"<|endoftext|>",
+"` CQ may one day be fondly remembered as Roman Coppola's brief pretentious period before going on to other films that actually tell a story worth caring about",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Like The Full Monty, this is sure to raise audience's spirits and leave them singing long after the credits roll.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 58
+},
+{
+"base": [
+"<|endoftext|>",
+"A compelling film.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Like most movies about the pitfalls of bad behavior... Circuit gets drawn into the party.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 59
+},
+{
+"base": [
+"<|endoftext|>",
+"Like most movies about the pitfalls of bad behavior... Circuit gets drawn into the party.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A compelling film.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 59
+},
+{
+"base": [
+"<|endoftext|>",
+"First and foremost... the reason to go see ''Blue Crush'' is the phenomenal, water-born cinematography by David Hennings.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Impostor is a step down for director Gary Fleder.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 60
+},
+{
+"base": [
+"<|endoftext|>",
+"Impostor is a step down for director Gary Fleder.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"First and foremost... the reason to go see ''Blue Crush'' is the phenomenal, water-born cinematography by David Hennings.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 60
+},
+{
+"base": [
+"<|endoftext|>",
+"Nair doesn't treat the issues lightly.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The entire point of a shaggy dog story, of course, is that it goes nowhere, and this is classic nowheresville in every sense.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 61
+},
+{
+"base": [
+"<|endoftext|>",
+"The entire point of a shaggy dog story, of course, is that it goes nowhere, and this is classic nowheresville in every sense.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Nair doesn't treat the issues lightly.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 61
+},
+{
+"base": [
+"<|endoftext|>",
+"A coming-of-age movie that Hollywood wouldn't have the guts to make.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"like a poor man's You Can Count On Me",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 62
+},
+{
+"base": [
+"<|endoftext|>",
+"like a poor man's You Can Count On Me",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A coming-of-age movie that Hollywood wouldn't have the guts to make.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 62
+},
+{
+"base": [
+"<|endoftext|>",
+"He's one of the few ` cool' actors who never seems aware of his own coolness.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A rote exercise in both animation and storytelling.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 63
+},
+{
+"base": [
+"<|endoftext|>",
+"A rote exercise in both animation and storytelling.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"He's one of the few ` cool' actors who never seems aware of his own coolness.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 63
+},
+{
+"base": [
+"<|endoftext|>",
+"The best drug addition movies are usually depressing but rewarding.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A portrait of alienation so perfect, it will certainly succeed in alienating most viewers.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 64
+},
+{
+"base": [
+"<|endoftext|>",
+"A portrait of alienation so perfect, it will certainly succeed in alienating most viewers.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The best drug addition movies are usually depressing but rewarding.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 64
+},
+{
+"base": [
+"<|endoftext|>",
+"An average kid-empowerment fantasy with slightly above-average brains.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Nothing more than an amiable but unfocused bagatelle that plays like a loosely-connected string of acting-workshop exercises.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 65
+},
+{
+"base": [
+"<|endoftext|>",
+"Nothing more than an amiable but unfocused bagatelle that plays like a loosely-connected string of acting-workshop exercises.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"An average kid-empowerment fantasy with slightly above-average brains.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 65
+},
+{
+"base": [
+"<|endoftext|>",
+"An edgy thriller that delivers a surprising punch.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"For all its shoot-outs, fistfights, and car chases, this movie is a phlegmatic bore, so tedious it makes the silly spy vs. spy film The Sum of All Fears, starring Ben Affleck, seem downright Hitchcockian.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 66
+},
+{
+"base": [
+"<|endoftext|>",
+"For all its shoot-outs, fistfights, and car chases, this movie is a phlegmatic bore, so tedious it makes the silly spy vs. spy film The Sum of All Fears, starring Ben Affleck, seem downright Hitchcockian.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"An edgy thriller that delivers a surprising punch.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 66
+},
+{
+"base": [
+"<|endoftext|>",
+"-- but certainly hard to hate.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The Ya-Ya's have many secrets and one is - the books are better.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 67
+},
+{
+"base": [
+"<|endoftext|>",
+"The Ya-Ya's have many secrets and one is - the books are better.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"-- but certainly hard to hate.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 67
+},
+{
+"base": [
+"<|endoftext|>",
+"A lot of fun, with an undeniable energy sparked by two actresses in their 50s working at the peak of their powers.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"While this has the making of melodrama, the filmmaker cuts against this natural grain, producing a work that's more interested in asking questions than in answering them.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 68
+},
+{
+"base": [
+"<|endoftext|>",
+"While this has the making of melodrama, the filmmaker cuts against this natural grain, producing a work that's more interested in asking questions than in answering them.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A lot of fun, with an undeniable energy sparked by two actresses in their 50s working at the peak of their powers.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 68
+},
+{
+"base": [
+"<|endoftext|>",
+"Its gentle, touching story creeps into your heart.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"... about as exciting to watch as two last-place basketball teams playing one another on the final day of the season.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 69
+},
+{
+"base": [
+"<|endoftext|>",
+"... about as exciting to watch as two last-place basketball teams playing one another on the final day of the season.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Its gentle, touching story creeps into your heart.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 69
+},
+{
+"base": [
+"<|endoftext|>",
+"Something for everyone.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It desperately wants to be a wacky, screwball comedy, but the most screwy thing here is how so many talented people were convinced to waste their time.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 70
+},
+{
+"base": [
+"<|endoftext|>",
+"It desperately wants to be a wacky, screwball comedy, but the most screwy thing here is how so many talented people were convinced to waste their time.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Something for everyone.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 70
+},
+{
+"base": [
+"<|endoftext|>",
+"One of those unassuming films that sneaks up on you and stays with you long after you have left the theatre.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"... the whole thing succeeded only in making me groggy.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 71
+},
+{
+"base": [
+"<|endoftext|>",
+"... the whole thing succeeded only in making me groggy.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"One of those unassuming films that sneaks up on you and stays with you long after you have left the theatre.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 71
+},
+{
+"base": [
+"<|endoftext|>",
+"A funny and well-contructed black comedy where the old adage ''be careful what you wish for'' is given a full workout.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A sugar-coated Rocky whose valuable messages are forgotten 10 minutes after the last trombone honks.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 72
+},
+{
+"base": [
+"<|endoftext|>",
+"A sugar-coated Rocky whose valuable messages are forgotten 10 minutes after the last trombone honks.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A funny and well-contructed black comedy where the old adage ''be careful what you wish for'' is given a full workout.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 72
+},
+{
+"base": [
+"<|endoftext|>",
+"It's a quirky, off-beat project.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"From beginning to end, this overheated melodrama plays like a student film.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 73
+},
+{
+"base": [
+"<|endoftext|>",
+"From beginning to end, this overheated melodrama plays like a student film.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's a quirky, off-beat project.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 73
+},
+{
+"base": [
+"<|endoftext|>",
+"It's a brilliant, honest performance by Nicholson, but the film is an agonizing bore except when the fantastic Kathy Bates turns up.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Can be classified as one of those ` alternate reality' movies... except that it would have worked so much better dealing in only one reality.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 74
+},
+{
+"base": [
+"<|endoftext|>",
+"Can be classified as one of those ` alternate reality' movies... except that it would have worked so much better dealing in only one reality.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's a brilliant, honest performance by Nicholson, but the film is an agonizing bore except when the fantastic Kathy Bates turns up.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 74
+},
+{
+"base": [
+"<|endoftext|>",
+"A marvelous performance by Allison Lohman as an identity-seeking foster child.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If A Few Good Men told us that we ''can't handle the truth'' than High Crimes poetically states at one point in this movie that we ''don't care about the truth.''",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 75
+},
+{
+"base": [
+"<|endoftext|>",
+"If A Few Good Men told us that we ''can't handle the truth'' than High Crimes poetically states at one point in this movie that we ''don't care about the truth.''",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A marvelous performance by Allison Lohman as an identity-seeking foster child.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 75
+},
+{
+"base": [
+"<|endoftext|>",
+"A delightful little film that revels in its own simplicity, Mostly Martha will leave you with a smile on your face and a grumble in your stomach.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The Piano Teacher is not an easy film.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 76
+},
+{
+"base": [
+"<|endoftext|>",
+"The Piano Teacher is not an easy film.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A delightful little film that revels in its own simplicity, Mostly Martha will leave you with a smile on your face and a grumble in your stomach.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 76
+},
+{
+"base": [
+"<|endoftext|>",
+"The movie's captivating details are all in the performances, from Foreman's barking-mad Taylor to Thewlis's smoothly sinister Freddie and Bettany\\/McDowell's hard-eyed gangster.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"What started out as a taut contest of wills between Bacon and Theron, deteriorates into a protracted and borderline silly chase sequence.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 77
+},
+{
+"base": [
+"<|endoftext|>",
+"What started out as a taut contest of wills between Bacon and Theron, deteriorates into a protracted and borderline silly chase sequence.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The movie's captivating details are all in the performances, from Foreman's barking-mad Taylor to Thewlis's smoothly sinister Freddie and Bettany\\/McDowell's hard-eyed gangster.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 77
+},
+{
+"base": [
+"<|endoftext|>",
+"The attraction between these two marginal characters is complex from the start--and, refreshingly, stays that way.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"For every articulate player, such as skateboarder Tony Hawk or BMX rider Mat Hoffman, are about a half dozen young Turks angling to see how many times they can work the words ''radical'' or ''suck'' into a sentence.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 78
+},
+{
+"base": [
+"<|endoftext|>",
+"For every articulate player, such as skateboarder Tony Hawk or BMX rider Mat Hoffman, are about a half dozen young Turks angling to see how many times they can work the words ''radical'' or ''suck'' into a sentence.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The attraction between these two marginal characters is complex from the start--and, refreshingly, stays that way.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 78
+},
+{
+"base": [
+"<|endoftext|>",
+"Elegantly produced and expressively performed, the six musical numbers crystallize key plot moments into minutely detailed wonders of dreamlike ecstasy.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It is messy, uncouth, incomprehensible, vicious and absurd.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 79
+},
+{
+"base": [
+"<|endoftext|>",
+"It is messy, uncouth, incomprehensible, vicious and absurd.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Elegantly produced and expressively performed, the six musical numbers crystallize key plot moments into minutely detailed wonders of dreamlike ecstasy.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 79
+},
+{
+"base": [
+"<|endoftext|>",
+"Proof once again that if the filmmakers just follow the books, they can't go wrong.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The only thing ''swept away'' is the one hour and thirty-three minutes spent watching this waste of time.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 80
+},
+{
+"base": [
+"<|endoftext|>",
+"The only thing ''swept away'' is the one hour and thirty-three minutes spent watching this waste of time.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Proof once again that if the filmmakers just follow the books, they can't go wrong.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 80
+},
+{
+"base": [
+"<|endoftext|>",
+"What it lacks in originality it makes up for in effective if cheap moments of fright and dread.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The only thing I laughed at were the people who paid to see it.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 81
+},
+{
+"base": [
+"<|endoftext|>",
+"The only thing I laughed at were the people who paid to see it.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"What it lacks in originality it makes up for in effective if cheap moments of fright and dread.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 81
+},
+{
+"base": [
+"<|endoftext|>",
+"Worse than ` Silence of the Lambs' better than ` Hannibal'",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The jokes are flat, and the action looks fake.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 82
+},
+{
+"base": [
+"<|endoftext|>",
+"The jokes are flat, and the action looks fake.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Worse than ` Silence of the Lambs' better than ` Hannibal'",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 82
+},
+{
+"base": [
+"<|endoftext|>",
+"Director Peter Kosminsky gives these women a forum to demonstrate their acting ` chops' and they take full advantage.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Maid in Manhattan proves that it's easier to change the sheets than to change hackneyed concepts when it comes to dreaming up romantic comedies.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 83
+},
+{
+"base": [
+"<|endoftext|>",
+"Maid in Manhattan proves that it's easier to change the sheets than to change hackneyed concepts when it comes to dreaming up romantic comedies.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Director Peter Kosminsky gives these women a forum to demonstrate their acting ` chops' and they take full advantage.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 83
+},
+{
+"base": [
+"<|endoftext|>",
+"The best thing about the movie is its personable, amusing cast.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Aggravating and tedious.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 84
+},
+{
+"base": [
+"<|endoftext|>",
+"Aggravating and tedious.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The best thing about the movie is its personable, amusing cast.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 84
+},
+{
+"base": [
+"<|endoftext|>",
+"Like all of Egoyan's work, Ararat is fiercely intelligent and uncommonly ambitious.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If religious films aren't your bailiwick, stay away.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 85
+},
+{
+"base": [
+"<|endoftext|>",
+"If religious films aren't your bailiwick, stay away.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Like all of Egoyan's work, Ararat is fiercely intelligent and uncommonly ambitious.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 85
+},
+{
+"base": [
+"<|endoftext|>",
+"I encourage young and old alike to go see this unique and entertaining twist on the classic whale's tale--you won't be sorry!",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The central character isn't complex enough to hold our interest.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 86
+},
+{
+"base": [
+"<|endoftext|>",
+"The central character isn't complex enough to hold our interest.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"I encourage young and old alike to go see this unique and entertaining twist on the classic whale's tale--you won't be sorry!",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 86
+},
+{
+"base": [
+"<|endoftext|>",
+"Drawing on an irresistible, languid romanticism, Byler reveals the ways in which a sultry evening or a beer-fueled afternoon in the sun can inspire even the most retiring heart to venture forth.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It takes a really long, slow and dreary time to dope out what TUCK EVERLASTING is about.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 87
+},
+{
+"base": [
+"<|endoftext|>",
+"It takes a really long, slow and dreary time to dope out what TUCK EVERLASTING is about.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Drawing on an irresistible, languid romanticism, Byler reveals the ways in which a sultry evening or a beer-fueled afternoon in the sun can inspire even the most retiring heart to venture forth.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 87
+},
+{
+"base": [
+"<|endoftext|>",
+"Boisterous, heartfelt comedy.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"There's not a spark of new inspiration in it, just more of the same, done with noticeably less energy and imagination.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 88
+},
+{
+"base": [
+"<|endoftext|>",
+"There's not a spark of new inspiration in it, just more of the same, done with noticeably less energy and imagination.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Boisterous, heartfelt comedy.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 88
+},
+{
+"base": [
+"<|endoftext|>",
+"A sun-drenched masterpiece, part parlor game, part psychological case study, part droll social satire.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If you value your time and money, find an escape clause and avoid seeing this trite, predictable rehash.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 89
+},
+{
+"base": [
+"<|endoftext|>",
+"If you value your time and money, find an escape clause and avoid seeing this trite, predictable rehash.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A sun-drenched masterpiece, part parlor game, part psychological case study, part droll social satire.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 89
+},
+{
+"base": [
+"<|endoftext|>",
+"It's definitely an improvement on the first Blade, since it doesn't take itself so deadly seriously.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Loses its sense of humor in a vat of failed jokes, twitchy acting, and general boorishness.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 90
+},
+{
+"base": [
+"<|endoftext|>",
+"Loses its sense of humor in a vat of failed jokes, twitchy acting, and general boorishness.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's definitely an improvement on the first Blade, since it doesn't take itself so deadly seriously.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 90
+},
+{
+"base": [
+"<|endoftext|>",
+"Trapped presents a frightening and compelling ` What if?'",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If you're really renting this you're not interested in discretion in your entertainment choices, you're interested in Anne Geddes, John Grisham, and Thomas Kincaid.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 91
+},
+{
+"base": [
+"<|endoftext|>",
+"If you're really renting this you're not interested in discretion in your entertainment choices, you're interested in Anne Geddes, John Grisham, and Thomas Kincaid.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Trapped presents a frightening and compelling ` What if?'",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 91
+},
+{
+"base": [
+"<|endoftext|>",
+"This is a nervy, risky film, and Villeneuve has inspired Croze to give herself over completely to the tormented persona of Bibi.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"... Tara Reid plays a college journalist, but she looks like the six-time winner of the Miss Hawaiian Tropic Pageant, so I don't know what she's doing in here...",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 92
+},
+{
+"base": [
+"<|endoftext|>",
+"... Tara Reid plays a college journalist, but she looks like the six-time winner of the Miss Hawaiian Tropic Pageant, so I don't know what she's doing in here...",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"This is a nervy, risky film, and Villeneuve has inspired Croze to give herself over completely to the tormented persona of Bibi.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 92
+},
+{
+"base": [
+"<|endoftext|>",
+"Steven Soderbergh's digital video experiment is a clever and cutting, quick and dirty look at modern living and movie life.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Narc can only remind us of brilliant crime dramas without becoming one itself.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 93
+},
+{
+"base": [
+"<|endoftext|>",
+"Narc can only remind us of brilliant crime dramas without becoming one itself.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Steven Soderbergh's digital video experiment is a clever and cutting, quick and dirty look at modern living and movie life.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 93
+},
+{
+"base": [
+"<|endoftext|>",
+"Young Hanks and Fisk, who vaguely resemble their celebrity parents, bring fresh good looks and an ease in front of the camera to the work.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Talky, artificial and opaque... an interesting technical exercise, but a tedious picture.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 94
+},
+{
+"base": [
+"<|endoftext|>",
+"Talky, artificial and opaque... an interesting technical exercise, but a tedious picture.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Young Hanks and Fisk, who vaguely resemble their celebrity parents, bring fresh good looks and an ease in front of the camera to the work.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 94
+},
+{
+"base": [
+"<|endoftext|>",
+"The film becomes an overwhelming pleasure, and you find yourself rooting for Gai's character to avoid the fate that has befallen every other Carmen before her.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The most offensive thing about the movie is that Hollywood expects people to pay to see it.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 95
+},
+{
+"base": [
+"<|endoftext|>",
+"The most offensive thing about the movie is that Hollywood expects people to pay to see it.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The film becomes an overwhelming pleasure, and you find yourself rooting for Gai's character to avoid the fate that has befallen every other Carmen before her.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 95
+},
+{
+"base": [
+"<|endoftext|>",
+"Enormously enjoyable, high-adrenaline documentary.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Personally, I'd rather watch them on the Animal Planet.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 96
+},
+{
+"base": [
+"<|endoftext|>",
+"Personally, I'd rather watch them on the Animal Planet.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Enormously enjoyable, high-adrenaline documentary.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 96
+},
+{
+"base": [
+"<|endoftext|>",
+"It says a lot about a filmmaker when he can be wacky without clobbering the audience over the head and still maintain a sense of urgency and suspense.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If Jews were Catholics, this would be Catechism",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 97
+},
+{
+"base": [
+"<|endoftext|>",
+"If Jews were Catholics, this would be Catechism",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It says a lot about a filmmaker when he can be wacky without clobbering the audience over the head and still maintain a sense of urgency and suspense.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 97
+},
+{
+"base": [
+"<|endoftext|>",
+"A much more successful translation than its most famous previous film adaptation, writer-director Anthony Friedman's similarly updated 1970 British production.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Obvious, obnoxious and didactic burlesque.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 98
+},
+{
+"base": [
+"<|endoftext|>",
+"Obvious, obnoxious and didactic burlesque.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A much more successful translation than its most famous previous film adaptation, writer-director Anthony Friedman's similarly updated 1970 British production.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 98
+},
+{
+"base": [
+"<|endoftext|>",
+"Visually breathtaking, viscerally exciting, and dramatically moving, it's the very definition of epic adventure.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Too bad Kramer couldn't make a guest appearance to liven things up.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 99
+},
+{
+"base": [
+"<|endoftext|>",
+"Too bad Kramer couldn't make a guest appearance to liven things up.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Visually breathtaking, viscerally exciting, and dramatically moving, it's the very definition of epic adventure.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 99
+},
+{
+"base": [
+"<|endoftext|>",
+"... quite endearing.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"An often unfunny romp.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 100
+},
+{
+"base": [
+"<|endoftext|>",
+"An often unfunny romp.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"... quite endearing.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 100
+},
+{
+"base": [
+"<|endoftext|>",
+"This is mild-mannered, been-there material given a pedestrian spin by a director who needed a touch of the flamboyant, the outrageous.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The actors must indeed be good to recite some of this laughable dialogue with a straight face.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 101
+},
+{
+"base": [
+"<|endoftext|>",
+"The actors must indeed be good to recite some of this laughable dialogue with a straight face.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"This is mild-mannered, been-there material given a pedestrian spin by a director who needed a touch of the flamboyant, the outrageous.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 101
+},
+{
+"base": [
+"<|endoftext|>",
+"Those moviegoers who would automatically bypass a hip-hop documentary should give ''Scratch'' a second look.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The movie straddles the fence between escapism and social commentary, and on both sides it falls short.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 102
+},
+{
+"base": [
+"<|endoftext|>",
+"The movie straddles the fence between escapism and social commentary, and on both sides it falls short.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Those moviegoers who would automatically bypass a hip-hop documentary should give ''Scratch'' a second look.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 102
+},
+{
+"base": [
+"<|endoftext|>",
+"Brings awareness to an issue often overlooked--women's depression.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A beyond-lame satire, Teddy Bears' Picnic ranks among the most pitiful directing debuts by an esteemed writer-actor.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 103
+},
+{
+"base": [
+"<|endoftext|>",
+"A beyond-lame satire, Teddy Bears' Picnic ranks among the most pitiful directing debuts by an esteemed writer-actor.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Brings awareness to an issue often overlooked--women's depression.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 103
+},
+{
+"base": [
+"<|endoftext|>",
+"Cineasts will revel in those visual in-jokes, as in the film's verbal pokes at everything from the likes of Miramax chief Harvey Weinstein's bluff personal style to the stylistic rigors of Denmark's Dogma movement.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Why would anyone cast the magnificent Jackie Chan in a movie full of stunt doubles and special effects?",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 104
+},
+{
+"base": [
+"<|endoftext|>",
+"Why would anyone cast the magnificent Jackie Chan in a movie full of stunt doubles and special effects?",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Cineasts will revel in those visual in-jokes, as in the film's verbal pokes at everything from the likes of Miramax chief Harvey Weinstein's bluff personal style to the stylistic rigors of Denmark's Dogma movement.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 104
+},
+{
+"base": [
+"<|endoftext|>",
+"A film of ideas and wry comic mayhem.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"for those for whom the name Woody Allen was once a guarantee of something fresh, sometimes funny, and usually genuinely worthwhile, Hollywood Ending is a depressing experience",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 105
+},
+{
+"base": [
+"<|endoftext|>",
+"for those for whom the name Woody Allen was once a guarantee of something fresh, sometimes funny, and usually genuinely worthwhile, Hollywood Ending is a depressing experience",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A film of ideas and wry comic mayhem.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 105
+},
+{
+"base": [
+"<|endoftext|>",
+"Her performance moves between heartbreak and rebellion as she continually tries to accommodate to fit in and gain the unconditional love she seeks.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The only thing to fear about ''Fear Dot Com'' is hitting your head on the theater seat in front of you when you doze off thirty minutes into the film.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 106
+},
+{
+"base": [
+"<|endoftext|>",
+"The only thing to fear about ''Fear Dot Com'' is hitting your head on the theater seat in front of you when you doze off thirty minutes into the film.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Her performance moves between heartbreak and rebellion as she continually tries to accommodate to fit in and gain the unconditional love she seeks.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 106
+},
+{
+"base": [
+"<|endoftext|>",
+"An often watchable, though goofy and lurid, blast of a costume drama set in the late 15th century.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"... the efforts of its star, Kline, to lend some dignity to a dumb story are for naught.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 107
+},
+{
+"base": [
+"<|endoftext|>",
+"... the efforts of its star, Kline, to lend some dignity to a dumb story are for naught.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"An often watchable, though goofy and lurid, blast of a costume drama set in the late 15th century.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 107
+},
+{
+"base": [
+"<|endoftext|>",
+"The cast is phenomenal, especially the women.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"There is no psychology here, and no real narrative logic--just a series of carefully choreographed atrocities, which become strangely impersonal and abstract.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 108
+},
+{
+"base": [
+"<|endoftext|>",
+"There is no psychology here, and no real narrative logic--just a series of carefully choreographed atrocities, which become strangely impersonal and abstract.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The cast is phenomenal, especially the women.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 108
+},
+{
+"base": [
+"<|endoftext|>",
+"A thoughtful, reverent portrait of what is essentially a subculture, with its own rules regarding love and family, governance and hierarchy.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"the Venezuelans say things like ''si, pretty much'' and ''por favor, go home'' when talking to Americans.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 109
+},
+{
+"base": [
+"<|endoftext|>",
+"the Venezuelans say things like ''si, pretty much'' and ''por favor, go home'' when talking to Americans.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A thoughtful, reverent portrait of what is essentially a subculture, with its own rules regarding love and family, governance and hierarchy.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 109
+},
+{
+"base": [
+"<|endoftext|>",
+"Light-years ahead of paint-by-number American blockbusters like Pearl Harbor, at least artistically.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Anemic, pretentious.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 110
+},
+{
+"base": [
+"<|endoftext|>",
+"Anemic, pretentious.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Light-years ahead of paint-by-number American blockbusters like Pearl Harbor, at least artistically.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 110
+},
+{
+"base": [
+"<|endoftext|>",
+"A fresh, entertaining comedy that looks at relationships minus traditional gender roles.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A wretched movie that reduces the Second World War to one man's quest to find an old flame.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 111
+},
+{
+"base": [
+"<|endoftext|>",
+"A wretched movie that reduces the Second World War to one man's quest to find an old flame.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A fresh, entertaining comedy that looks at relationships minus traditional gender roles.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 111
+},
+{
+"base": [
+"<|endoftext|>",
+"One of the most genuinely sweet films to come along in quite some time.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's just that it's so not-at-all-good.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 112
+},
+{
+"base": [
+"<|endoftext|>",
+"It's just that it's so not-at-all-good.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"One of the most genuinely sweet films to come along in quite some time.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 112
+},
+{
+"base": [
+"<|endoftext|>",
+"The film's strength isn't in its details, but in the larger picture it paints - of a culture in conflict with itself, with the thin veneer of nationalism that covers our deepest, media-soaked fears.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"To the degree that ivans xtc.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 113
+},
+{
+"base": [
+"<|endoftext|>",
+"To the degree that ivans xtc.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The film's strength isn't in its details, but in the larger picture it paints - of a culture in conflict with itself, with the thin veneer of nationalism that covers our deepest, media-soaked fears.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 113
+},
+{
+"base": [
+"<|endoftext|>",
+"For decades we've marveled at Disney's rendering of water, snow, flames and shadows in a hand-drawn animated world.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Like many such biographical melodramas, it suffers from the awkwardness that results from adhering to the messiness of true stories.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 114
+},
+{
+"base": [
+"<|endoftext|>",
+"Like many such biographical melodramas, it suffers from the awkwardness that results from adhering to the messiness of true stories.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"For decades we've marveled at Disney's rendering of water, snow, flames and shadows in a hand-drawn animated world.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 114
+},
+{
+"base": [
+"<|endoftext|>",
+"Expands the limits of what a film can be, taking us into the lives of women to whom we might not give a second look if we passed them on the street.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A non-Britney person might survive a screening with little harm done, except maybe for the last 15 minutes, which are as maudlin as any after-school special you can imagine.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 115
+},
+{
+"base": [
+"<|endoftext|>",
+"A non-Britney person might survive a screening with little harm done, except maybe for the last 15 minutes, which are as maudlin as any after-school special you can imagine.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Expands the limits of what a film can be, taking us into the lives of women to whom we might not give a second look if we passed them on the street.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 115
+},
+{
+"base": [
+"<|endoftext|>",
+"Even if The Ring has a familiar ring, it's still unusually crafty and intelligent for Hollywood horror.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Just too silly and sophomoric to ensnare its target audience.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 116
+},
+{
+"base": [
+"<|endoftext|>",
+"Just too silly and sophomoric to ensnare its target audience.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Even if The Ring has a familiar ring, it's still unusually crafty and intelligent for Hollywood horror.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 116
+},
+{
+"base": [
+"<|endoftext|>",
+"A must see for all sides of the political spectrum",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Wewannour money back, actually.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 117
+},
+{
+"base": [
+"<|endoftext|>",
+"Wewannour money back, actually.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A must see for all sides of the political spectrum",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 117
+},
+{
+"base": [
+"<|endoftext|>",
+"Visually, ` Santa Clause 2' is wondrously creative.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Behan's memoir is great material for a film--rowdy, brawny and lyrical in the best Irish sense--but Sheridan has settled for a lugubrious romance.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 118
+},
+{
+"base": [
+"<|endoftext|>",
+"Behan's memoir is great material for a film--rowdy, brawny and lyrical in the best Irish sense--but Sheridan has settled for a lugubrious romance.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Visually, ` Santa Clause 2' is wondrously creative.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 118
+},
+{
+"base": [
+"<|endoftext|>",
+"Buy popcorn.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Without a fresh infusion of creativity, 4Ever is neither a promise nor a threat so much as wishful thinking.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 119
+},
+{
+"base": [
+"<|endoftext|>",
+"Without a fresh infusion of creativity, 4Ever is neither a promise nor a threat so much as wishful thinking.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Buy popcorn.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 119
+},
+{
+"base": [
+"<|endoftext|>",
+"The mood, look and tone of the film fit the incredible storyline to a T.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Not bad, but not all that good.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 120
+},
+{
+"base": [
+"<|endoftext|>",
+"Not bad, but not all that good.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The mood, look and tone of the film fit the incredible storyline to a T.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 120
+},
+{
+"base": [
+"<|endoftext|>",
+"With an admirably dark first script by Brent Hanley, Paxton, making his directorial feature debut, does strong, measured work.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Execrable.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 121
+},
+{
+"base": [
+"<|endoftext|>",
+"Execrable.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"With an admirably dark first script by Brent Hanley, Paxton, making his directorial feature debut, does strong, measured work.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 121
+},
+{
+"base": [
+"<|endoftext|>",
+"An entertaining mix of period drama and flat-out farce that should please history fans.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Looks more like a travel-agency video targeted at people who like to ride bikes topless and roll in the mud than a worthwhile glimpse of independent-community guiding lights.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 122
+},
+{
+"base": [
+"<|endoftext|>",
+"Looks more like a travel-agency video targeted at people who like to ride bikes topless and roll in the mud than a worthwhile glimpse of independent-community guiding lights.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"An entertaining mix of period drama and flat-out farce that should please history fans.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 122
+},
+{
+"base": [
+"<|endoftext|>",
+"At 78 minutes it just zings along with vibrance and warmth.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"During The Tuxedo's 90 minutes of screen time, there isn't one true ` Chan moment'.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 123
+},
+{
+"base": [
+"<|endoftext|>",
+"During The Tuxedo's 90 minutes of screen time, there isn't one true ` Chan moment'.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"At 78 minutes it just zings along with vibrance and warmth.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 123
+},
+{
+"base": [
+"<|endoftext|>",
+"Uplifting, funny and wise.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The elements were all there but lack of a pyschological center knocks it flat.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 124
+},
+{
+"base": [
+"<|endoftext|>",
+"The elements were all there but lack of a pyschological center knocks it flat.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Uplifting, funny and wise.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 124
+},
+{
+"base": [
+"<|endoftext|>",
+"Deserves a place of honor next to Nanook as a landmark in film history.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Skillful as he is, Mr. Shyamalan is undone by his pretensions.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 125
+},
+{
+"base": [
+"<|endoftext|>",
+"Skillful as he is, Mr. Shyamalan is undone by his pretensions.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Deserves a place of honor next to Nanook as a landmark in film history.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 125
+},
+{
+"base": [
+"<|endoftext|>",
+"The leanest and meanest of Solondz's misanthropic comedies.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Soulless and--even more damning--virtually joyless, XXX achieves near virtuosity in its crapulence.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 126
+},
+{
+"base": [
+"<|endoftext|>",
+"Soulless and--even more damning--virtually joyless, XXX achieves near virtuosity in its crapulence.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The leanest and meanest of Solondz's misanthropic comedies.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 126
+},
+{
+"base": [
+"<|endoftext|>",
+"I'm not a fan of the phrase ` life affirming' because it usually means ` schmaltzy,' but Real Women Have Curves truly is life affirming.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The rest of the film... is dudsville.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 127
+},
+{
+"base": [
+"<|endoftext|>",
+"The rest of the film... is dudsville.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"I'm not a fan of the phrase ` life affirming' because it usually means ` schmaltzy,' but Real Women Have Curves truly is life affirming.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 127
+},
+{
+"base": [
+"<|endoftext|>",
+"Meticulously mounted, exasperatingly well-behaved film, which ticks off Kahlo's lifetime milestones with the dutiful precision of a tax accountant.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"What we have here isn't a disaster, exactly, but a very handsomely produced let-down.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 128
+},
+{
+"base": [
+"<|endoftext|>",
+"What we have here isn't a disaster, exactly, but a very handsomely produced let-down.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Meticulously mounted, exasperatingly well-behaved film, which ticks off Kahlo's lifetime milestones with the dutiful precision of a tax accountant.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 128
+},
+{
+"base": [
+"<|endoftext|>",
+"Savvy director Robert J. Siegel and his co-writers keep the story subtle and us in suspense.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"One sloughs one's way through the mire of this alleged psychological thriller in search of purpose or even a plot.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 129
+},
+{
+"base": [
+"<|endoftext|>",
+"One sloughs one's way through the mire of this alleged psychological thriller in search of purpose or even a plot.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Savvy director Robert J. Siegel and his co-writers keep the story subtle and us in suspense.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 129
+},
+{
+"base": [
+"<|endoftext|>",
+"The off-center humor is a constant, and the ensemble gives it a buoyant delivery.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Simplistic, silly and tedious.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 130
+},
+{
+"base": [
+"<|endoftext|>",
+"Simplistic, silly and tedious.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The off-center humor is a constant, and the ensemble gives it a buoyant delivery.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 130
+},
+{
+"base": [
+"<|endoftext|>",
+"If you're down for a silly hack-and-slash flick, you can do no wrong with Jason X.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The waterlogged script plumbs uncharted depths of stupidity, incoherence and sub-sophomoric sexual banter.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 131
+},
+{
+"base": [
+"<|endoftext|>",
+"The waterlogged script plumbs uncharted depths of stupidity, incoherence and sub-sophomoric sexual banter.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If you're down for a silly hack-and-slash flick, you can do no wrong with Jason X.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 131
+},
+{
+"base": [
+"<|endoftext|>",
+"If you're burnt out on It's a Wonderful Life marathons and bored with A Christmas Carol, it might just be the movie you're looking for.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's hard to say who might enjoy this, are there Tolstoy groupies out there?",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 132
+},
+{
+"base": [
+"<|endoftext|>",
+"It's hard to say who might enjoy this, are there Tolstoy groupies out there?",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If you're burnt out on It's a Wonderful Life marathons and bored with A Christmas Carol, it might just be the movie you're looking for.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 132
+},
+{
+"base": [
+"<|endoftext|>",
+"A brilliant gag at the expense of those who paid for it and those who pay to see it.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Best described as I Know What You Did Last Winter.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 133
+},
+{
+"base": [
+"<|endoftext|>",
+"Best described as I Know What You Did Last Winter.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A brilliant gag at the expense of those who paid for it and those who pay to see it.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 133
+},
+{
+"base": [
+"<|endoftext|>",
+"The entire movie is filled with deja vu moments.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A listless and desultory affair.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 134
+},
+{
+"base": [
+"<|endoftext|>",
+"A listless and desultory affair.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The entire movie is filled with deja vu moments.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 134
+},
+{
+"base": [
+"<|endoftext|>",
+"If you like quirky, odd movies and\\/or the ironic, here's a fun one.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"About as enjoyable, I would imagine, as searching for a quarter in a giant pile of elephant feces... positively dreadful.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 135
+},
+{
+"base": [
+"<|endoftext|>",
+"About as enjoyable, I would imagine, as searching for a quarter in a giant pile of elephant feces... positively dreadful.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If you like quirky, odd movies and\\/or the ironic, here's a fun one.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 135
+},
+{
+"base": [
+"<|endoftext|>",
+"A sharp satire of desperation and cinematic deception.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"I found it slow, predictable and not very amusing.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 136
+},
+{
+"base": [
+"<|endoftext|>",
+"I found it slow, predictable and not very amusing.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A sharp satire of desperation and cinematic deception.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 136
+},
+{
+"base": [
+"<|endoftext|>",
+"A surprisingly sweet and gentle comedy.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Feels like the work of an artist who is simply tired--of fighting the same fights, of putting the weight of the world on his shoulders, of playing with narrative form.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 137
+},
+{
+"base": [
+"<|endoftext|>",
+"Feels like the work of an artist who is simply tired--of fighting the same fights, of putting the weight of the world on his shoulders, of playing with narrative form.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A surprisingly sweet and gentle comedy.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 137
+},
+{
+"base": [
+"<|endoftext|>",
+"Its almost too-spectacular coastal setting distracts slightly from an eccentric and good-naturedly aimless story.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"This is one baaaaaaaaad movie.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 138
+},
+{
+"base": [
+"<|endoftext|>",
+"This is one baaaaaaaaad movie.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Its almost too-spectacular coastal setting distracts slightly from an eccentric and good-naturedly aimless story.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 138
+},
+{
+"base": [
+"<|endoftext|>",
+"Muccino seems to be exploring the idea of why human beings long for what they don't have, and how this gets us in trouble.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"What is the filmmakers' point?",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 139
+},
+{
+"base": [
+"<|endoftext|>",
+"What is the filmmakers' point?",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Muccino seems to be exploring the idea of why human beings long for what they don't have, and how this gets us in trouble.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 139
+},
+{
+"base": [
+"<|endoftext|>",
+"... an enjoyably frothy ` date movie'...",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Succeeds only because Bullock and Grant were made to share the silver screen.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 140
+},
+{
+"base": [
+"<|endoftext|>",
+"Succeeds only because Bullock and Grant were made to share the silver screen.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"... an enjoyably frothy ` date movie'...",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 140
+},
+{
+"base": [
+"<|endoftext|>",
+"A stylish cast and some clever scripting solutions help Chicago make the transition from stage to screen with considerable appeal intact.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The nonstop artifice ultimately proves tiresome, with the surface histrionics failing to compensate for the paper-thin characterizations and facile situations.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 141
+},
+{
+"base": [
+"<|endoftext|>",
+"The nonstop artifice ultimately proves tiresome, with the surface histrionics failing to compensate for the paper-thin characterizations and facile situations.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A stylish cast and some clever scripting solutions help Chicago make the transition from stage to screen with considerable appeal intact.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 141
+},
+{
+"base": [
+"<|endoftext|>",
+"What a vast enterprise has been marshaled in the service of such a minute idea.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The story is bogus and its characters tissue-thin.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 142
+},
+{
+"base": [
+"<|endoftext|>",
+"The story is bogus and its characters tissue-thin.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"What a vast enterprise has been marshaled in the service of such a minute idea.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 142
+},
+{
+"base": [
+"<|endoftext|>",
+"A remarkably insightful look at the backstage angst of the stand-up comic.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Though it was made with careful attention to detail and is well-acted by James Spader and Maggie Gyllenhaal, I felt disrespected.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 143
+},
+{
+"base": [
+"<|endoftext|>",
+"Though it was made with careful attention to detail and is well-acted by James Spader and Maggie Gyllenhaal, I felt disrespected.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A remarkably insightful look at the backstage angst of the stand-up comic.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 143
+},
+{
+"base": [
+"<|endoftext|>",
+"Alarms for Duvall's throbbing sincerity and his elderly propensity for patting people while he talks.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"This is the case of a pregnant premise being wasted by a script that takes few chances and manages to insult the intelligence of everyone in the audience.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 144
+},
+{
+"base": [
+"<|endoftext|>",
+"This is the case of a pregnant premise being wasted by a script that takes few chances and manages to insult the intelligence of everyone in the audience.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Alarms for Duvall's throbbing sincerity and his elderly propensity for patting people while he talks.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 144
+},
+{
+"base": [
+"<|endoftext|>",
+"There's so much to look at in Metropolis you hate to tear your eyes away from the images long enough to read the subtitles.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It was a dark and stormy night...",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 145
+},
+{
+"base": [
+"<|endoftext|>",
+"It was a dark and stormy night...",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"There's so much to look at in Metropolis you hate to tear your eyes away from the images long enough to read the subtitles.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 145
+},
+{
+"base": [
+"<|endoftext|>",
+"Overall, interesting as a documentary--but not very Imaxy.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"... has its moments, but ultimately, its curmudgeon doesn't quite make the cut of being placed on any list of favorites.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 146
+},
+{
+"base": [
+"<|endoftext|>",
+"... has its moments, but ultimately, its curmudgeon doesn't quite make the cut of being placed on any list of favorites.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Overall, interesting as a documentary--but not very Imaxy.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 146
+},
+{
+"base": [
+"<|endoftext|>",
+"Like a precious and finely cut diamond, magnificent to behold in its sparkling beauty yet in reality it's one tough rock.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Finally coming down off of Miramax's deep shelves after a couple of aborted attempts, Waking Up in Reno makes a strong case for letting sleeping dogs lie.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 147
+},
+{
+"base": [
+"<|endoftext|>",
+"Finally coming down off of Miramax's deep shelves after a couple of aborted attempts, Waking Up in Reno makes a strong case for letting sleeping dogs lie.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Like a precious and finely cut diamond, magnificent to behold in its sparkling beauty yet in reality it's one tough rock.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 147
+},
+{
+"base": [
+"<|endoftext|>",
+"As banal as the telling may be--and at times, All My Loved Ones more than flirts with kitsch--the tale commands attention.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's a shame the marvelous first 101 minutes have to be combined with the misconceived final 5.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 148
+},
+{
+"base": [
+"<|endoftext|>",
+"It's a shame the marvelous first 101 minutes have to be combined with the misconceived final 5.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"As banal as the telling may be--and at times, All My Loved Ones more than flirts with kitsch--the tale commands attention.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 148
+},
+{
+"base": [
+"<|endoftext|>",
+"And we don't avert our eyes for a moment.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A mess.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 149
+},
+{
+"base": [
+"<|endoftext|>",
+"A mess.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"And we don't avert our eyes for a moment.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 149
+},
+{
+"base": [
+"<|endoftext|>",
+"Captures all the longing, anguish and ache, the confusing sexual messages and the wish to be a part of that elusive adult world.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"One lousy movie.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 150
+},
+{
+"base": [
+"<|endoftext|>",
+"One lousy movie.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Captures all the longing, anguish and ache, the confusing sexual messages and the wish to be a part of that elusive adult world.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 150
+},
+{
+"base": [
+"<|endoftext|>",
+"Reign of Fire is hardly the most original fantasy film ever made--beyond Road Warrior, it owes enormous debts to Aliens and every previous dragon drama--but that barely makes it any less entertaining.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Same guy with both hats.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 151
+},
+{
+"base": [
+"<|endoftext|>",
+"Same guy with both hats.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Reign of Fire is hardly the most original fantasy film ever made--beyond Road Warrior, it owes enormous debts to Aliens and every previous dragon drama--but that barely makes it any less entertaining.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 151
+},
+{
+"base": [
+"<|endoftext|>",
+"The same should go for movie theaters.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It wears its heart on the sleeve of its gaudy Hawaiian shirt.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 152
+},
+{
+"base": [
+"<|endoftext|>",
+"It wears its heart on the sleeve of its gaudy Hawaiian shirt.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The same should go for movie theaters.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 152
+},
+{
+"base": [
+"<|endoftext|>",
+"Young Everlyn Sampi, as the courageous Molly Craig, simply radiates star-power potential in this remarkable and memorable film.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The documentary is much too conventional--lots of boring talking heads, etc.--to do the subject matter justice.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 153
+},
+{
+"base": [
+"<|endoftext|>",
+"The documentary is much too conventional--lots of boring talking heads, etc.--to do the subject matter justice.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Young Everlyn Sampi, as the courageous Molly Craig, simply radiates star-power potential in this remarkable and memorable film.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 153
+},
+{
+"base": [
+"<|endoftext|>",
+"A quasi-documentary by French filmmaker Karim Dridi that celebrates the hardy spirit of Cuban music.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Ah, the travails of metropolitan life!",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 154
+},
+{
+"base": [
+"<|endoftext|>",
+"Ah, the travails of metropolitan life!",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A quasi-documentary by French filmmaker Karim Dridi that celebrates the hardy spirit of Cuban music.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 154
+},
+{
+"base": [
+"<|endoftext|>",
+"The Komediant is a tale worth catching.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Insomnia loses points when it surrenders to a formulaic bang-bang, shoot-em-up scene at the conclusion.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 155
+},
+{
+"base": [
+"<|endoftext|>",
+"Insomnia loses points when it surrenders to a formulaic bang-bang, shoot-em-up scene at the conclusion.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The Komediant is a tale worth catching.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 155
+},
+{
+"base": [
+"<|endoftext|>",
+"This film is so different from The Apple and so striking that it can only encourage us to see Samira Makhmalbaf as a very distinctive sensibility, working to develop her own film language with conspicuous success.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Anyone who wants to start writing screenplays can just follow the same blueprint from hundreds of other films, sell it to the highest bidder and walk away without anyone truly knowing your identity.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 156
+},
+{
+"base": [
+"<|endoftext|>",
+"Anyone who wants to start writing screenplays can just follow the same blueprint from hundreds of other films, sell it to the highest bidder and walk away without anyone truly knowing your identity.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"This film is so different from The Apple and so striking that it can only encourage us to see Samira Makhmalbaf as a very distinctive sensibility, working to develop her own film language with conspicuous success.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 156
+},
+{
+"base": [
+"<|endoftext|>",
+"A brutal and funny work.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The Rules of Attraction gets us too drunk on the party favors to sober us up with the transparent attempts at moralizing.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 157
+},
+{
+"base": [
+"<|endoftext|>",
+"The Rules of Attraction gets us too drunk on the party favors to sober us up with the transparent attempts at moralizing.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A brutal and funny work.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 157
+},
+{
+"base": [
+"<|endoftext|>",
+"A heroic tale of persistence that is sure to win viewers' hearts.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A cockeyed shot all the way.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 158
+},
+{
+"base": [
+"<|endoftext|>",
+"A cockeyed shot all the way.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A heroic tale of persistence that is sure to win viewers' hearts.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 158
+},
+{
+"base": [
+"<|endoftext|>",
+"Expect no major discoveries, nor any stylish sizzle, but the film sits with square conviction and touching good sense on the experience of its women.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Sandra Bullock, despite downplaying her good looks, carries a little too much ain't - she-cute baggage into her lead role as a troubled and determined homicide cop to quite pull off the heavy stuff.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 159
+},
+{
+"base": [
+"<|endoftext|>",
+"Sandra Bullock, despite downplaying her good looks, carries a little too much ain't - she-cute baggage into her lead role as a troubled and determined homicide cop to quite pull off the heavy stuff.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Expect no major discoveries, nor any stylish sizzle, but the film sits with square conviction and touching good sense on the experience of its women.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 159
+},
+{
+"base": [
+"<|endoftext|>",
+"You're not merely watching history, you're engulfed by it.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A horror movie with seriously dumb characters, which somewhat dilutes the pleasure of watching them stalked by creepy-crawly bug things that live only in the darkness.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 160
+},
+{
+"base": [
+"<|endoftext|>",
+"A horror movie with seriously dumb characters, which somewhat dilutes the pleasure of watching them stalked by creepy-crawly bug things that live only in the darkness.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"You're not merely watching history, you're engulfed by it.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 160
+},
+{
+"base": [
+"<|endoftext|>",
+"and your reward will be a thoughtful, emotional movie experience.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Talkiness isn't necessarily bad, but the dialogue frequently misses the mark.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 161
+},
+{
+"base": [
+"<|endoftext|>",
+"Talkiness isn't necessarily bad, but the dialogue frequently misses the mark.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"and your reward will be a thoughtful, emotional movie experience.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 161
+},
+{
+"base": [
+"<|endoftext|>",
+"Affectionately reminds us that, in any language, the huge stuff in life can usually be traced back to the little things.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"an appalling ` Ace Ventura' rip-off that somehow manages to bring together Kevin Pollak, former wrestler Chyna and Dolly Parton.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 162
+},
+{
+"base": [
+"<|endoftext|>",
+"an appalling ` Ace Ventura' rip-off that somehow manages to bring together Kevin Pollak, former wrestler Chyna and Dolly Parton.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Affectionately reminds us that, in any language, the huge stuff in life can usually be traced back to the little things.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 162
+},
+{
+"base": [
+"<|endoftext|>",
+"Overall, it's a wacky and inspired little film that works effortlessly at delivering genuine, acerbic laughs.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Chelsea Walls is a case of too many chefs fussing over too weak a recipe.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 163
+},
+{
+"base": [
+"<|endoftext|>",
+"Chelsea Walls is a case of too many chefs fussing over too weak a recipe.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Overall, it's a wacky and inspired little film that works effortlessly at delivering genuine, acerbic laughs.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 163
+},
+{
+"base": [
+"<|endoftext|>",
+"` What's the Russian word for Wow!?'",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"He seems to want both, but succeeds in making neither.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 164
+},
+{
+"base": [
+"<|endoftext|>",
+"He seems to want both, but succeeds in making neither.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"` What's the Russian word for Wow!?'",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 164
+},
+{
+"base": [
+"<|endoftext|>",
+"A wild, endearing, masterful documentary.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Run for your lives!",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 165
+},
+{
+"base": [
+"<|endoftext|>",
+"Run for your lives!",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A wild, endearing, masterful documentary.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 165
+},
+{
+"base": [
+"<|endoftext|>",
+"An emotionally strong and politically potent piece of cinema.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Piccoli's performance is amazing, yes, but the symbols of loss and denial and life-at-arm's - length in the film seem irritatingly transparent.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 166
+},
+{
+"base": [
+"<|endoftext|>",
+"Piccoli's performance is amazing, yes, but the symbols of loss and denial and life-at-arm's - length in the film seem irritatingly transparent.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"An emotionally strong and politically potent piece of cinema.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 166
+},
+{
+"base": [
+"<|endoftext|>",
+"About Schmidt belongs to Nicholson.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Largely, this is a movie that also does it by the numbers.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 167
+},
+{
+"base": [
+"<|endoftext|>",
+"Largely, this is a movie that also does it by the numbers.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"About Schmidt belongs to Nicholson.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 167
+},
+{
+"base": [
+"<|endoftext|>",
+"That's why Sex and Lucia is so alluring.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A depressingly retrograde, ` post-feminist' romantic comedy that takes an astonishingly condescending attitude toward women.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 168
+},
+{
+"base": [
+"<|endoftext|>",
+"A depressingly retrograde, ` post-feminist' romantic comedy that takes an astonishingly condescending attitude toward women.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"That's why Sex and Lucia is so alluring.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 168
+},
+{
+"base": [
+"<|endoftext|>",
+"Certainly the performances are worthwhile.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Feeble comedy.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 169
+},
+{
+"base": [
+"<|endoftext|>",
+"Feeble comedy.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Certainly the performances are worthwhile.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 169
+},
+{
+"base": [
+"<|endoftext|>",
+"A stirring, funny and finally transporting re-imagining of Beauty and the Beast and 1930s horror films",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Or that the battery on your watch has died.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 170
+},
+{
+"base": [
+"<|endoftext|>",
+"Or that the battery on your watch has died.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A stirring, funny and finally transporting re-imagining of Beauty and the Beast and 1930s horror films",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 170
+},
+{
+"base": [
+"<|endoftext|>",
+"Ong chooses to present Ah Na's life as a slight, weightless fairy tale, whose most unpleasant details seem to melt away in the face of the character's blank-faced optimism.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Sinks into the usual cafeteria goulash of fart jokes, masturbation jokes, and racist Japanese jokes.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 171
+},
+{
+"base": [
+"<|endoftext|>",
+"Sinks into the usual cafeteria goulash of fart jokes, masturbation jokes, and racist Japanese jokes.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Ong chooses to present Ah Na's life as a slight, weightless fairy tale, whose most unpleasant details seem to melt away in the face of the character's blank-faced optimism.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 171
+},
+{
+"base": [
+"<|endoftext|>",
+"A raunchy and frequently hilarious follow-up to the gifted Korean American stand-up's I'm the One That I Want.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"` Punch-Drunk Love is so convinced of its own brilliance that, if it were a person, you'd want to smash its face in.'",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 172
+},
+{
+"base": [
+"<|endoftext|>",
+"` Punch-Drunk Love is so convinced of its own brilliance that, if it were a person, you'd want to smash its face in.'",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A raunchy and frequently hilarious follow-up to the gifted Korean American stand-up's I'm the One That I Want.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 172
+},
+{
+"base": [
+"<|endoftext|>",
+"A classy, sprightly spin on film.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"... no charm, no laughs, no fun, no reason to watch.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 173
+},
+{
+"base": [
+"<|endoftext|>",
+"... no charm, no laughs, no fun, no reason to watch.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A classy, sprightly spin on film.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 173
+},
+{
+"base": [
+"<|endoftext|>",
+"Remember it.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The video work is so grainy and rough, so dependent on being ` naturalistic' rather than carefully lit and set up, that it's exhausting to watch.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 174
+},
+{
+"base": [
+"<|endoftext|>",
+"The video work is so grainy and rough, so dependent on being ` naturalistic' rather than carefully lit and set up, that it's exhausting to watch.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Remember it.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 174
+},
+{
+"base": [
+"<|endoftext|>",
+"It certainly won't win any awards in the plot department but it sets out with no pretensions and delivers big time.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"... pays tribute to heroes the way Julia Roberts hands out awards--with phony humility barely camouflaging grotesque narcissism.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 175
+},
+{
+"base": [
+"<|endoftext|>",
+"... pays tribute to heroes the way Julia Roberts hands out awards--with phony humility barely camouflaging grotesque narcissism.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It certainly won't win any awards in the plot department but it sets out with no pretensions and delivers big time.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 175
+},
+{
+"base": [
+"<|endoftext|>",
+"Were it not for a sentimental resolution that explains way more about Cal than does the movie or the character any good, Freundlich's World Traveler might have been one of the more daring and surprising American movies of the year.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Violent, vulgar and forgettably entertaining.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 176
+},
+{
+"base": [
+"<|endoftext|>",
+"Violent, vulgar and forgettably entertaining.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Were it not for a sentimental resolution that explains way more about Cal than does the movie or the character any good, Freundlich's World Traveler might have been one of the more daring and surprising American movies of the year.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 176
+},
+{
+"base": [
+"<|endoftext|>",
+"This is a dark, gritty, sometimes funny little gem.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Like being invited to a classy dinner soiree and not knowing anyone.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 177
+},
+{
+"base": [
+"<|endoftext|>",
+"Like being invited to a classy dinner soiree and not knowing anyone.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"This is a dark, gritty, sometimes funny little gem.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 177
+},
+{
+"base": [
+"<|endoftext|>",
+"A creaky staircase gothic.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's Splash without the jokes.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 178
+},
+{
+"base": [
+"<|endoftext|>",
+"It's Splash without the jokes.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A creaky staircase gothic.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 178
+},
+{
+"base": [
+"<|endoftext|>",
+"This one is not nearly as dreadful as expected.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"And if you appreciate the one-sided theme to Lawrence's over-indulgent tirade, then knock yourself out and enjoy the big screen postcard that is a self-glorified Martin Lawrence lovefest.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 179
+},
+{
+"base": [
+"<|endoftext|>",
+"And if you appreciate the one-sided theme to Lawrence's over-indulgent tirade, then knock yourself out and enjoy the big screen postcard that is a self-glorified Martin Lawrence lovefest.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"This one is not nearly as dreadful as expected.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 179
+},
+{
+"base": [
+"<|endoftext|>",
+"If horses could fly, this is surely what they'd look like.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The setting is so cool that it chills the characters, reducing our emotional stake in the outcome of ''Intacto's'' dangerous and seductively stylish game.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 180
+},
+{
+"base": [
+"<|endoftext|>",
+"The setting is so cool that it chills the characters, reducing our emotional stake in the outcome of ''Intacto's'' dangerous and seductively stylish game.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If horses could fly, this is surely what they'd look like.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 180
+},
+{
+"base": [
+"<|endoftext|>",
+"Vividly conveys the shadow side of the 30-year friendship between two English women.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The satire is just too easy to be genuinely satisfying.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 181
+},
+{
+"base": [
+"<|endoftext|>",
+"The satire is just too easy to be genuinely satisfying.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Vividly conveys the shadow side of the 30-year friendship between two English women.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 181
+},
+{
+"base": [
+"<|endoftext|>",
+"Lux, now in her eighties, does a great combination act as narrator, Jewish grandmother and subject--taking us through a film that is part biography, part entertainment and part history.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Romanek keeps adding flourishes--artsy fantasy sequences--that simply feel wrong.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 182
+},
+{
+"base": [
+"<|endoftext|>",
+"Romanek keeps adding flourishes--artsy fantasy sequences--that simply feel wrong.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Lux, now in her eighties, does a great combination act as narrator, Jewish grandmother and subject--taking us through a film that is part biography, part entertainment and part history.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 182
+},
+{
+"base": [
+"<|endoftext|>",
+"Moore provides an invaluable service by sparking debate and encouraging thought.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Exploitative and largely devoid of the depth or sophistication that would make watching such a graphic treatment of the crimes bearable.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 183
+},
+{
+"base": [
+"<|endoftext|>",
+"Exploitative and largely devoid of the depth or sophistication that would make watching such a graphic treatment of the crimes bearable.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Moore provides an invaluable service by sparking debate and encouraging thought.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 183
+},
+{
+"base": [
+"<|endoftext|>",
+"From the opening strains of the Average White Band's ''Pick up the Pieces'', you can feel the love.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"... a hokey piece of nonsense that tries too hard to be emotional.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 184
+},
+{
+"base": [
+"<|endoftext|>",
+"... a hokey piece of nonsense that tries too hard to be emotional.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"From the opening strains of the Average White Band's ''Pick up the Pieces'', you can feel the love.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 184
+},
+{
+"base": [
+"<|endoftext|>",
+"As a girl-meets-girl romantic comedy, Kissing Jessica Steinis quirky, charming and often hilarious.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"More of the same old garbage Hollywood has been trying to pass off as acceptable teen entertainment for some time now.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 185
+},
+{
+"base": [
+"<|endoftext|>",
+"More of the same old garbage Hollywood has been trying to pass off as acceptable teen entertainment for some time now.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"As a girl-meets-girl romantic comedy, Kissing Jessica Steinis quirky, charming and often hilarious.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 185
+},
+{
+"base": [
+"<|endoftext|>",
+"A funny and touching film that is gorgeously acted by a British cast to rival Gosford Park's.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The catch is that they're stuck with a script that prevents them from firing on all cylinders.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 186
+},
+{
+"base": [
+"<|endoftext|>",
+"The catch is that they're stuck with a script that prevents them from firing on all cylinders.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A funny and touching film that is gorgeously acted by a British cast to rival Gosford Park's.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 186
+},
+{
+"base": [
+"<|endoftext|>",
+"Exceptionally well acted by Diane Lane and Richard Gere.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A soulless jumble of ineptly assembled cliches and pabulum that plays like a 95-minute commercial for NBA properties.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 187
+},
+{
+"base": [
+"<|endoftext|>",
+"A soulless jumble of ineptly assembled cliches and pabulum that plays like a 95-minute commercial for NBA properties.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Exceptionally well acted by Diane Lane and Richard Gere.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 187
+},
+{
+"base": [
+"<|endoftext|>",
+"More of the same from Taiwanese auteur Tsai Ming-liang, which is good news to anyone who's fallen under the sweet, melancholy spell of this unique director's previous films.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"When it comes out on video, then it's the perfect cure for insomnia.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 188
+},
+{
+"base": [
+"<|endoftext|>",
+"When it comes out on video, then it's the perfect cure for insomnia.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"More of the same from Taiwanese auteur Tsai Ming-liang, which is good news to anyone who's fallen under the sweet, melancholy spell of this unique director's previous films.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 188
+},
+{
+"base": [
+"<|endoftext|>",
+"It's hard to imagine anybody ever being ''in the mood'' to view a movie as harrowing and painful as The Grey Zone, but it's equally hard to imagine anybody being able to tear their eyes away from the screen once it's started.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A Rumor of Angels doesn't just slip--it avalanches into forced fuzziness.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 189
+},
+{
+"base": [
+"<|endoftext|>",
+"A Rumor of Angels doesn't just slip--it avalanches into forced fuzziness.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's hard to imagine anybody ever being ''in the mood'' to view a movie as harrowing and painful as The Grey Zone, but it's equally hard to imagine anybody being able to tear their eyes away from the screen once it's started.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 189
+},
+{
+"base": [
+"<|endoftext|>",
+"Just the labour involved in creating the layered richness of the imagery in this chiaroscuro of madness and light is astonishing.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Thriller directorial debut for Traffic scribe Gaghan has all the right parts, but the pieces don't quite fit together.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 190
+},
+{
+"base": [
+"<|endoftext|>",
+"Thriller directorial debut for Traffic scribe Gaghan has all the right parts, but the pieces don't quite fit together.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Just the labour involved in creating the layered richness of the imagery in this chiaroscuro of madness and light is astonishing.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 190
+},
+{
+"base": [
+"<|endoftext|>",
+"The film just might turn on many people to opera, in general, an art form at once visceral and spiritual, wonderfully vulgar and sublimely lofty--and as emotionally grand as life.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If any of them list this ` credit' on their resumes in the future, that'll be much funnier than anything in the film...",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 191
+},
+{
+"base": [
+"<|endoftext|>",
+"If any of them list this ` credit' on their resumes in the future, that'll be much funnier than anything in the film...",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The film just might turn on many people to opera, in general, an art form at once visceral and spiritual, wonderfully vulgar and sublimely lofty--and as emotionally grand as life.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 191
+},
+{
+"base": [
+"<|endoftext|>",
+"The performances are an absolute joy.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"I have two words to say about Reign of Fire.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 192
+},
+{
+"base": [
+"<|endoftext|>",
+"I have two words to say about Reign of Fire.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The performances are an absolute joy.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 192
+},
+{
+"base": [
+"<|endoftext|>",
+"Ensemble movies, like soap operas, depend on empathy.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Further sad evidence that Tom Tykwer, director of the resonant and sense-spinning Run Lola Run, has turned out to be a one-trick pony--a maker of softheaded metaphysical claptrap.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 193
+},
+{
+"base": [
+"<|endoftext|>",
+"Further sad evidence that Tom Tykwer, director of the resonant and sense-spinning Run Lola Run, has turned out to be a one-trick pony--a maker of softheaded metaphysical claptrap.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Ensemble movies, like soap operas, depend on empathy.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 193
+},
+{
+"base": [
+"<|endoftext|>",
+"An exhausting family drama about a porcelain empire and just as hard a flick as its subject matter.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"The very definition of what critics have come to term an ''ambitious failure.''",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 194
+},
+{
+"base": [
+"<|endoftext|>",
+"The very definition of what critics have come to term an ''ambitious failure.''",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"An exhausting family drama about a porcelain empire and just as hard a flick as its subject matter.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 194
+},
+{
+"base": [
+"<|endoftext|>",
+"A funny, triumphant, and moving documentary.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Scooby-Doo doesn't know if it wants to be a retro-refitting exercise in campy recall for older fans or a silly, Nickelodeon-esque kiddie flick.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 195
+},
+{
+"base": [
+"<|endoftext|>",
+"Scooby-Doo doesn't know if it wants to be a retro-refitting exercise in campy recall for older fans or a silly, Nickelodeon-esque kiddie flick.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"A funny, triumphant, and moving documentary.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 195
+},
+{
+"base": [
+"<|endoftext|>",
+"It's full of cheesy dialogue, but great trashy fun that finally returns De Palma to his pulpy thrillers of the early'80s.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's just not very smart.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 196
+},
+{
+"base": [
+"<|endoftext|>",
+"It's just not very smart.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's full of cheesy dialogue, but great trashy fun that finally returns De Palma to his pulpy thrillers of the early'80s.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 196
+},
+{
+"base": [
+"<|endoftext|>",
+"If you grew up on Scooby--you'll love this movie.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"the film doesn't sustain its initial promise with a jarring, new-agey tone creeping into the second half",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 197
+},
+{
+"base": [
+"<|endoftext|>",
+"the film doesn't sustain its initial promise with a jarring, new-agey tone creeping into the second half",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"If you grew up on Scooby--you'll love this movie.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 197
+},
+{
+"base": [
+"<|endoftext|>",
+"Kids will love its fantasy and adventure, and grownups should appreciate its whimsical humor.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Thanks largely to Williams, all the interesting developments are processed in 60 minutes--the rest is just an overexposed waste of film.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 198
+},
+{
+"base": [
+"<|endoftext|>",
+"Thanks largely to Williams, all the interesting developments are processed in 60 minutes--the rest is just an overexposed waste of film.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Kids will love its fantasy and adventure, and grownups should appreciate its whimsical humor.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 198
+},
+{
+"base": [
+"<|endoftext|>",
+"It's fairly solid--not to mention well edited so that it certainly doesn't feel like a film that strays past the two and a half mark.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"Supposedly based upon real, or at least soberly reported incidents, the film ends with a large human tragedy.",
+" Overall the movie was just very"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " good",
+"src_label": " bad",
+"task": "sst_continuation",
+"pair": 199
+},
+{
+"base": [
+"<|endoftext|>",
+"Supposedly based upon real, or at least soberly reported incidents, the film ends with a large human tragedy.",
+" Overall the movie was just very"
+],
+"src": [
+"<|endoftext|>",
+"It's fairly solid--not to mention well edited so that it certainly doesn't feel like a film that strays past the two and a half mark.",
+" Overall the movie was just very"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " bad",
+"src_label": " good",
+"task": "sst_continuation",
+"pair": 199
+}
+]

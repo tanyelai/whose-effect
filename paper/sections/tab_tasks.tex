@@ -1,0 +1,29 @@
+\begin{table}[tbp]
+  \caption{\textbf{One test pair from each data source.} Each row shows the first pair of one task's test file, split into
+  its regions. Regions are separated by dots, a region where base and source differ is written base/source, as in the map
+  figures, and the start-of-text token is left out. Labels: the next token of the base input, then that of the source
+  input. Label pairs: the distinct pairs among the task's test pairs. Train/test: the pairs in the task's files; the readout
+  keeps those whose labels are single tokens. Kumon \& Yanaka's, Tigges et al.'s and RAVEL's tasks are built per model and
+  shown as built for GPT-2. \Cref{tab:readout} counts the tasks of each source. The maps of \cref{sec:offroute} cover
+  \inTasks{} tasks of these sources in the six small models (\cref{app:fullgrid}), and in the four large models they cover the
+  first task shown and two more of CausalGym's tasks.}
+  \label{tab:tasks}
+  \centering
+  \footnotesize
+  \setlength{\tabcolsep}{4pt}
+  \hyphenpenalty=10000 \exhyphenpenalty=10000
+  \begin{tabular}{@{}>{\raggedright\arraybackslash}p{0.25\textwidth}>{\raggedright\arraybackslash}p{0.4\textwidth}>{\raggedright\arraybackslash}p{0.12\textwidth}cc@{}}
+    \toprule
+    source: task & pair & labels & \shortstack{label\\pairs} & \shortstack{train/\\test} \\
+    \midrule
+    CausalGym: negative polarity\newline \texttt{npi\_\allowbreak{}any\_\allowbreak{}subj-\allowbreak{}relc} & \textbf{No/The} \textperiodcentered\ farmer \textperiodcentered\ that \textperiodcentered\ contacted \textperiodcentered\ no \textperiodcentered\ guard \textperiodcentered\ has \textperiodcentered\ caught & any / some & 1 & 400/100 \\
+    CausalGym, number only: agreement\newline \texttt{agr\_\allowbreak{}sv\_\allowbreak{}num\_\allowbreak{}subj-\allowbreak{}relc\_\allowbreak{}\_\allowbreak{}num} & The \textperiodcentered\ \textbf{senators/senator} \textperiodcentered\ that \textperiodcentered\ hurt \textperiodcentered\ the \textperiodcentered\ athletes & have / was & 9 & 400/100 \\
+    Kumon \& Yanaka: negative polarity\newline \texttt{NPIConditionals} & The actors \textperiodcentered\ riding \textperiodcentered\ a mountain \textperiodcentered\ \textbf{if/while} \textperiodcentered\ the cousins \textperiodcentered\ are & ever / still & 5 & 200/50 \\
+    Tigges et al.: movie template\newline \texttt{sentiment\_\allowbreak{}movie} & I thought this movie was \textperiodcentered\ \textbf{sweet/vile} \textperiodcentered\ , I \textperiodcentered\ \textbf{cherished/hated} \textperiodcentered\ it. Conclusion: This movie is & great / terrible & 1 & 240/100 \\
+    SST: continuation\newline \texttt{sst\_\allowbreak{}continuation} & \textbf{I like Frank the Pug, though./The charms of willful eccentricity, at least as evidenced by this latest cinematic essay, are beginning to wear a bit thin.} \textperiodcentered\ Overall the movie was just very & good / bad & 1 & 400/100 \\
+    RAVEL: city to continent\newline \texttt{ravel\_\allowbreak{}city\_\allowbreak{}continent} & Rome is a city in the continent of Europe. \textperiodcentered\ \textbf{Yishui/Marbella} \textperiodcentered\ is a city in the continent of & Asia / Europe & 1 & 400/100 \\
+    IOI, Wang et al.: twenty names\newline \texttt{ioi\_\allowbreak{}wang\_\allowbreak{}20} & While \textperiodcentered\ Jessica \textperiodcentered\ and \textperiodcentered\ Andrew \textperiodcentered\ were working at the store, \textperiodcentered\ \textbf{Andrew/Jessica} \textperiodcentered\ gave a ring to & Jessica / Andrew & 43 & 400/100 \\
+    IOI, ours: one name pair\newline \texttt{ioi\_\allowbreak{}fixed} & Then, when \textperiodcentered\ Mary \textperiodcentered\ and \textperiodcentered\ John \textperiodcentered\ went to the school, \textperiodcentered\ \textbf{John/Mary} \textperiodcentered\ gave a phone to & Mary / John & 1 & 400/100 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

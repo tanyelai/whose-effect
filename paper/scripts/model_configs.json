@@ -1,0 +1,146 @@
+{
+ "gpt2": {
+  "revision": "607a30d783dfa663caf39e06633721c8d4cfcd7e",
+  "layers": 12,
+  "width": 768,
+  "heads": 12,
+  "kv_heads": null,
+  "licence": "mit"
+ },
+ "EleutherAI/pythia-160m": {
+  "revision": "50f5173d932e8e61f858120bcb800b97af589f46",
+  "layers": 12,
+  "width": 768,
+  "heads": 12,
+  "kv_heads": null,
+  "licence": "apache-2.0"
+ },
+ "EleutherAI/pythia-410m": {
+  "revision": "9879c9b5f8bea9051dcb0e68dff21493d67e9d4f",
+  "layers": 24,
+  "width": 1024,
+  "heads": 16,
+  "kv_heads": null,
+  "licence": "apache-2.0"
+ },
+ "HuggingFaceTB/SmolLM2-360M": {
+  "revision": "f8027fd0eaeea54caa13c31d31b9fdc459c38b49",
+  "layers": 32,
+  "width": 960,
+  "heads": 15,
+  "kv_heads": 5,
+  "licence": "apache-2.0"
+ },
+ "Qwen/Qwen2.5-0.5B": {
+  "revision": "060db6499f32faf8b98477b0a26969ef7d8b9987",
+  "layers": 24,
+  "width": 896,
+  "heads": 14,
+  "kv_heads": 2,
+  "licence": "apache-2.0"
+ },
+ "EleutherAI/pythia-1b": {
+  "revision": "f73d7dcc545c8bd326d8559c8ef84ffe92fea6b2",
+  "layers": 16,
+  "width": 2048,
+  "heads": 8,
+  "kv_heads": null,
+  "licence": "apache-2.0"
+ },
+ "meta-llama/Llama-3.1-8B": {
+  "revision": "d04e592bb4f6aa9cfee91e2e20afa771667e1d4b",
+  "layers": 32,
+  "width": 4096,
+  "heads": 32,
+  "kv_heads": 8,
+  "licence": "llama3.1"
+ },
+ "google/gemma-2-9b": {
+  "revision": "33c193028431c2fde6c6e51f29e6f17b60cbfac6",
+  "layers": 42,
+  "width": 3584,
+  "heads": 16,
+  "kv_heads": 8,
+  "licence": "gemma"
+ },
+ "Qwen/Qwen2.5-7B": {
+  "revision": "d149729398750b98c0af14eb82c78cfe92750796",
+  "layers": 28,
+  "width": 3584,
+  "heads": 28,
+  "kv_heads": 4,
+  "licence": "apache-2.0"
+ },
+ "EleutherAI/pythia-6.9b": {
+  "revision": "c0e3eee36dc47af0c49f361c74cfe459c09f7f23",
+  "layers": 32,
+  "width": 4096,
+  "heads": 32,
+  "kv_heads": null,
+  "licence": "apache-2.0"
+ },
+ "Qwen/Qwen2.5-1.5B": {
+  "revision": "8faed761d45a263340a0528343f099c05c9a4323",
+  "layers": 28,
+  "width": 1536,
+  "heads": 12,
+  "kv_heads": 2,
+  "licence": "apache-2.0"
+ },
+ "meta-llama/Llama-3.2-1B": {
+  "revision": "4e20de362430cd3b72f300e6b0f18e50e7166e08",
+  "layers": 16,
+  "width": 2048,
+  "heads": 32,
+  "kv_heads": 8,
+  "licence": "llama3.2"
+ },
+ "meta-llama/Llama-3.2-3B": {
+  "revision": "13afe5124825b4f3751f836b40dafda64c1ed062",
+  "layers": 28,
+  "width": 3072,
+  "heads": 24,
+  "kv_heads": 8,
+  "licence": "llama3.2"
+ },
+ "Qwen/Qwen2.5-32B": {
+  "revision": "1818d35814b8319459f4bd55ed1ac8709630f003",
+  "layers": 64,
+  "width": 5120,
+  "heads": 40,
+  "kv_heads": 8,
+  "licence": "apache-2.0"
+ },
+ "EleutherAI/pythia-14m": {
+  "revision": "main",
+  "layers": 6,
+  "width": 128,
+  "heads": 4,
+  "kv_heads": null,
+  "licence": "apache-2.0"
+ },
+ "EleutherAI/pythia-31m": {
+  "revision": "main",
+  "layers": 6,
+  "width": 256,
+  "heads": 8,
+  "kv_heads": null,
+  "licence": "apache-2.0"
+ },
+ "EleutherAI/pythia-70m": {
+  "revision": "main",
+  "layers": 6,
+  "width": 512,
+  "heads": 8,
+  "kv_heads": null,
+  "licence": "apache-2.0"
+ },
+ "EleutherAI/pythia-1.4b": {
+  "revision": "main",
+  "layers": 24,
+  "width": 2048,
+  "heads": 16,
+  "kv_heads": null,
+  "licence": "apache-2.0"
+ }
+}

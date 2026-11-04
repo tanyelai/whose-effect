@@ -1,0 +1,2502 @@
+[
+{
+"base": [
+"<|endoftext|>While",
+" Jessica",
+" and",
+" Andrew",
+" were working at the store,",
+" Andrew",
+" gave a ring to"
+],
+"src": [
+"<|endoftext|>While",
+" Jessica",
+" and",
+" Andrew",
+" were working at the store,",
+" Jessica",
+" gave a ring to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jessica",
+"src_label": " Andrew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Jessica",
+" and",
+" Andrew",
+" were working at the store,",
+" Jessica",
+" gave a ring to"
+],
+"src": [
+"<|endoftext|>While",
+" Jessica",
+" and",
+" Andrew",
+" were working at the store,",
+" Andrew",
+" gave a ring to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Andrew",
+"src_label": " Jessica",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" William",
+" and",
+" Christopher",
+" were working at the garden.",
+" William",
+" decided to give a drink to"
+],
+"src": [
+"<|endoftext|>Then,",
+" William",
+" and",
+" Christopher",
+" were working at the garden.",
+" Christopher",
+" decided to give a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Christopher",
+"src_label": " William",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" William",
+" and",
+" Christopher",
+" were working at the garden.",
+" Christopher",
+" decided to give a drink to"
+],
+"src": [
+"<|endoftext|>Then,",
+" William",
+" and",
+" Christopher",
+" were working at the garden.",
+" William",
+" decided to give a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " William",
+"src_label": " Christopher",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" Justin",
+" and",
+" John",
+" went to the station.",
+" Justin",
+" gave a kiss to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" Justin",
+" and",
+" John",
+" went to the station.",
+" John",
+" gave a kiss to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Justin",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" Justin",
+" and",
+" John",
+" went to the station.",
+" John",
+" gave a kiss to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" Justin",
+" and",
+" John",
+" went to the station.",
+" Justin",
+" gave a kiss to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Justin",
+"src_label": " John",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Sarah",
+" and",
+" Matthew",
+" got a computer at the station,",
+" Matthew",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" Sarah",
+" and",
+" Matthew",
+" got a computer at the station,",
+" Sarah",
+" decided to give it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Matthew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Sarah",
+" and",
+" Matthew",
+" got a computer at the station,",
+" Sarah",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" Sarah",
+" and",
+" Matthew",
+" got a computer at the station,",
+" Matthew",
+" decided to give it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Matthew",
+"src_label": " Sarah",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" James",
+" and",
+" Andrew",
+" went to the house.",
+" James",
+" gave a ring to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" James",
+" and",
+" Andrew",
+" went to the house.",
+" Andrew",
+" gave a ring to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Andrew",
+"src_label": " James",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" James",
+" and",
+" Andrew",
+" went to the house.",
+" Andrew",
+" gave a ring to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" James",
+" and",
+" Andrew",
+" went to the house.",
+" James",
+" gave a ring to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " James",
+"src_label": " Andrew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Christopher",
+" and",
+" Sarah",
+" were thinking about going to the hospital.",
+" Christopher",
+" wanted to give a computer to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Christopher",
+" and",
+" Sarah",
+" were thinking about going to the hospital.",
+" Sarah",
+" wanted to give a computer to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Christopher",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Christopher",
+" and",
+" Sarah",
+" were thinking about going to the hospital.",
+" Sarah",
+" wanted to give a computer to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Christopher",
+" and",
+" Sarah",
+" were thinking about going to the hospital.",
+" Christopher",
+" wanted to give a computer to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Christopher",
+"src_label": " Sarah",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Friends",
+" Jason",
+" and",
+" Jennifer",
+" found a basketball at the office.",
+" Jason",
+" gave it to"
+],
+"src": [
+"<|endoftext|>Friends",
+" Jason",
+" and",
+" Jennifer",
+" found a basketball at the office.",
+" Jennifer",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jennifer",
+"src_label": " Jason",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Friends",
+" Jason",
+" and",
+" Jennifer",
+" found a basketball at the office.",
+" Jennifer",
+" gave it to"
+],
+"src": [
+"<|endoftext|>Friends",
+" Jason",
+" and",
+" Jennifer",
+" found a basketball at the office.",
+" Jason",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jason",
+"src_label": " Jennifer",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Jennifer",
+" and",
+" Michael",
+" had a lot of fun at the garden.",
+" Jennifer",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Jennifer",
+" and",
+" Michael",
+" had a lot of fun at the garden.",
+" Michael",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Michael",
+"src_label": " Jennifer",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Jennifer",
+" and",
+" Michael",
+" had a lot of fun at the garden.",
+" Michael",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Jennifer",
+" and",
+" Michael",
+" had a lot of fun at the garden.",
+" Jennifer",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jennifer",
+"src_label": " Michael",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" William",
+" and",
+" Sarah",
+" went to the station.",
+" William",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" William",
+" and",
+" Sarah",
+" went to the station.",
+" Sarah",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " William",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" William",
+" and",
+" Sarah",
+" went to the station.",
+" Sarah",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" William",
+" and",
+" Sarah",
+" went to the station.",
+" William",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " William",
+"src_label": " Sarah",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Andrew",
+" and",
+" Ryan",
+" got a computer at the station,",
+" Andrew",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" Andrew",
+" and",
+" Ryan",
+" got a computer at the station,",
+" Ryan",
+" decided to give it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ryan",
+"src_label": " Andrew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Andrew",
+" and",
+" Ryan",
+" got a computer at the station,",
+" Ryan",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" Andrew",
+" and",
+" Ryan",
+" got a computer at the station,",
+" Andrew",
+" decided to give it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Andrew",
+"src_label": " Ryan",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" Jessica",
+" and",
+" Jason",
+" went to the school.",
+" Jessica",
+" gave a necklace to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" Jessica",
+" and",
+" Jason",
+" went to the school.",
+" Jason",
+" gave a necklace to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jason",
+"src_label": " Jessica",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" Jessica",
+" and",
+" Jason",
+" went to the school.",
+" Jason",
+" gave a necklace to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" Jessica",
+" and",
+" Jason",
+" went to the school.",
+" Jessica",
+" gave a necklace to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jessica",
+"src_label": " Jason",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Matthew",
+" and",
+" Joseph",
+" were working at the garden.",
+" Matthew",
+" decided to give a bone to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Matthew",
+" and",
+" Joseph",
+" were working at the garden.",
+" Joseph",
+" decided to give a bone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Joseph",
+"src_label": " Matthew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Matthew",
+" and",
+" Joseph",
+" were working at the garden.",
+" Joseph",
+" decided to give a bone to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Matthew",
+" and",
+" Joseph",
+" were working at the garden.",
+" Matthew",
+" decided to give a bone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Matthew",
+"src_label": " Joseph",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Jason",
+" and",
+" Andrew",
+" got a bone at the hospital,",
+" Andrew",
+" decided to give the bone to"
+],
+"src": [
+"<|endoftext|>When",
+" Jason",
+" and",
+" Andrew",
+" got a bone at the hospital,",
+" Jason",
+" decided to give the bone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jason",
+"src_label": " Andrew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Jason",
+" and",
+" Andrew",
+" got a bone at the hospital,",
+" Jason",
+" decided to give the bone to"
+],
+"src": [
+"<|endoftext|>When",
+" Jason",
+" and",
+" Andrew",
+" got a bone at the hospital,",
+" Andrew",
+" decided to give the bone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Andrew",
+"src_label": " Jason",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Amanda",
+" and",
+" Michael",
+" had a lot of fun at the house.",
+" Amanda",
+" gave a bone to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Amanda",
+" and",
+" Michael",
+" had a lot of fun at the house.",
+" Michael",
+" gave a bone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Michael",
+"src_label": " Amanda",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Amanda",
+" and",
+" Michael",
+" had a lot of fun at the house.",
+" Michael",
+" gave a bone to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Amanda",
+" and",
+" Michael",
+" had a lot of fun at the house.",
+" Amanda",
+" gave a bone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amanda",
+"src_label": " Michael",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Daniel",
+" and",
+" John",
+" got a bone at the house,",
+" John",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" Daniel",
+" and",
+" John",
+" got a bone at the house,",
+" Daniel",
+" decided to give it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Daniel",
+"src_label": " John",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Daniel",
+" and",
+" John",
+" got a bone at the house,",
+" Daniel",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" Daniel",
+" and",
+" John",
+" got a bone at the house,",
+" John",
+" decided to give it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Daniel",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Jessica",
+" got a snack at the hospital,",
+" John",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Jessica",
+" got a snack at the hospital,",
+" Jessica",
+" decided to give it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jessica",
+"src_label": " John",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Jessica",
+" got a snack at the hospital,",
+" Jessica",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Jessica",
+" got a snack at the hospital,",
+" John",
+" decided to give it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Jessica",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Michael",
+" and",
+" Daniel",
+" went to the school.",
+" Daniel",
+" gave a basketball to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Michael",
+" and",
+" Daniel",
+" went to the school.",
+" Michael",
+" gave a basketball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Michael",
+"src_label": " Daniel",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Michael",
+" and",
+" Daniel",
+" went to the school.",
+" Michael",
+" gave a basketball to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Michael",
+" and",
+" Daniel",
+" went to the school.",
+" Daniel",
+" gave a basketball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Daniel",
+"src_label": " Michael",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Joshua",
+" and",
+" Amanda",
+" were working at the office.",
+" Amanda",
+" decided to give a bone to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Joshua",
+" and",
+" Amanda",
+" were working at the office.",
+" Joshua",
+" decided to give a bone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Joshua",
+"src_label": " Amanda",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Joshua",
+" and",
+" Amanda",
+" were working at the office.",
+" Joshua",
+" decided to give a bone to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Joshua",
+" and",
+" Amanda",
+" were working at the office.",
+" Amanda",
+" decided to give a bone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amanda",
+"src_label": " Joshua",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" Daniel",
+" and",
+" Justin",
+" went to the garden.",
+" Daniel",
+" gave a ring to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" Daniel",
+" and",
+" Justin",
+" went to the garden.",
+" Justin",
+" gave a ring to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Justin",
+"src_label": " Daniel",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" Daniel",
+" and",
+" Justin",
+" went to the garden.",
+" Justin",
+" gave a ring to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" Daniel",
+" and",
+" Justin",
+" went to the garden.",
+" Daniel",
+" gave a ring to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Daniel",
+"src_label": " Justin",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>The restaurant",
+" Joshua",
+" and",
+" Andrew",
+" went to had a snack.",
+" Joshua",
+" gave it to"
+],
+"src": [
+"<|endoftext|>The restaurant",
+" Joshua",
+" and",
+" Andrew",
+" went to had a snack.",
+" Andrew",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Andrew",
+"src_label": " Joshua",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>The restaurant",
+" Joshua",
+" and",
+" Andrew",
+" went to had a snack.",
+" Andrew",
+" gave it to"
+],
+"src": [
+"<|endoftext|>The restaurant",
+" Joshua",
+" and",
+" Andrew",
+" went to had a snack.",
+" Joshua",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Joshua",
+"src_label": " Andrew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Ashley",
+" and",
+" David",
+" got a kiss at the garden,",
+" David",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" Ashley",
+" and",
+" David",
+" got a kiss at the garden,",
+" Ashley",
+" decided to give it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ashley",
+"src_label": " David",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Ashley",
+" and",
+" David",
+" got a kiss at the garden,",
+" Ashley",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" Ashley",
+" and",
+" David",
+" got a kiss at the garden,",
+" David",
+" decided to give it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Ashley",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Andrew",
+" and",
+" Robert",
+" went to the house.",
+" Andrew",
+" gave a computer to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Andrew",
+" and",
+" Robert",
+" went to the house.",
+" Robert",
+" gave a computer to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Robert",
+"src_label": " Andrew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Andrew",
+" and",
+" Robert",
+" went to the house.",
+" Robert",
+" gave a computer to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Andrew",
+" and",
+" Robert",
+" went to the house.",
+" Andrew",
+" gave a computer to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Andrew",
+"src_label": " Robert",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Michael",
+" and",
+" Andrew",
+" had a lot of fun at the school.",
+" Andrew",
+" gave a kiss to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Michael",
+" and",
+" Andrew",
+" had a lot of fun at the school.",
+" Michael",
+" gave a kiss to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Michael",
+"src_label": " Andrew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Michael",
+" and",
+" Andrew",
+" had a lot of fun at the school.",
+" Michael",
+" gave a kiss to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Michael",
+" and",
+" Andrew",
+" had a lot of fun at the school.",
+" Andrew",
+" gave a kiss to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Andrew",
+"src_label": " Michael",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Afterwards,",
+" Matthew",
+" and",
+" Ryan",
+" went to the station.",
+" Matthew",
+" gave a necklace to"
+],
+"src": [
+"<|endoftext|>Afterwards,",
+" Matthew",
+" and",
+" Ryan",
+" went to the station.",
+" Ryan",
+" gave a necklace to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ryan",
+"src_label": " Matthew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Afterwards,",
+" Matthew",
+" and",
+" Ryan",
+" went to the station.",
+" Ryan",
+" gave a necklace to"
+],
+"src": [
+"<|endoftext|>Afterwards,",
+" Matthew",
+" and",
+" Ryan",
+" went to the station.",
+" Matthew",
+" gave a necklace to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Matthew",
+"src_label": " Ryan",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" Matthew",
+" and",
+" David",
+" went to the office.",
+" Matthew",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" Matthew",
+" and",
+" David",
+" went to the office.",
+" David",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " Matthew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" Matthew",
+" and",
+" David",
+" went to the office.",
+" David",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" Matthew",
+" and",
+" David",
+" went to the office.",
+" Matthew",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Matthew",
+"src_label": " David",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Matthew",
+" and",
+" Joseph",
+" got a basketball at the restaurant,",
+" Joseph",
+" decided to give the basketball to"
+],
+"src": [
+"<|endoftext|>When",
+" Matthew",
+" and",
+" Joseph",
+" got a basketball at the restaurant,",
+" Matthew",
+" decided to give the basketball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Matthew",
+"src_label": " Joseph",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Matthew",
+" and",
+" Joseph",
+" got a basketball at the restaurant,",
+" Matthew",
+" decided to give the basketball to"
+],
+"src": [
+"<|endoftext|>When",
+" Matthew",
+" and",
+" Joseph",
+" got a basketball at the restaurant,",
+" Joseph",
+" decided to give the basketball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Joseph",
+"src_label": " Matthew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Afterwards,",
+" Matthew",
+" and",
+" John",
+" went to the station.",
+" Matthew",
+" gave a bone to"
+],
+"src": [
+"<|endoftext|>Afterwards,",
+" Matthew",
+" and",
+" John",
+" went to the station.",
+" John",
+" gave a bone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Matthew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Afterwards,",
+" Matthew",
+" and",
+" John",
+" went to the station.",
+" John",
+" gave a bone to"
+],
+"src": [
+"<|endoftext|>Afterwards,",
+" Matthew",
+" and",
+" John",
+" went to the station.",
+" Matthew",
+" gave a bone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Matthew",
+"src_label": " John",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Jason",
+" and",
+" Joshua",
+" were working at the hospital,",
+" Joshua",
+" gave a computer to"
+],
+"src": [
+"<|endoftext|>While",
+" Jason",
+" and",
+" Joshua",
+" were working at the hospital,",
+" Jason",
+" gave a computer to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jason",
+"src_label": " Joshua",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Jason",
+" and",
+" Joshua",
+" were working at the hospital,",
+" Jason",
+" gave a computer to"
+],
+"src": [
+"<|endoftext|>While",
+" Jason",
+" and",
+" Joshua",
+" were working at the hospital,",
+" Joshua",
+" gave a computer to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Joshua",
+"src_label": " Jason",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Ryan",
+" and",
+" Amanda",
+" got a snack at the house,",
+" Amanda",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" Ryan",
+" and",
+" Amanda",
+" got a snack at the house,",
+" Ryan",
+" decided to give it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ryan",
+"src_label": " Amanda",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Ryan",
+" and",
+" Amanda",
+" got a snack at the house,",
+" Ryan",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" Ryan",
+" and",
+" Amanda",
+" got a snack at the house,",
+" Amanda",
+" decided to give it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Amanda",
+"src_label": " Ryan",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Jason",
+" and",
+" Robert",
+" got a bone at the garden,",
+" Robert",
+" decided to give the bone to"
+],
+"src": [
+"<|endoftext|>When",
+" Jason",
+" and",
+" Robert",
+" got a bone at the garden,",
+" Jason",
+" decided to give the bone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jason",
+"src_label": " Robert",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Jason",
+" and",
+" Robert",
+" got a bone at the garden,",
+" Jason",
+" decided to give the bone to"
+],
+"src": [
+"<|endoftext|>When",
+" Jason",
+" and",
+" Robert",
+" got a bone at the garden,",
+" Robert",
+" decided to give the bone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Robert",
+"src_label": " Jason",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Afterwards,",
+" Christopher",
+" and",
+" Ashley",
+" went to the restaurant.",
+" Ashley",
+" gave a necklace to"
+],
+"src": [
+"<|endoftext|>Afterwards,",
+" Christopher",
+" and",
+" Ashley",
+" went to the restaurant.",
+" Christopher",
+" gave a necklace to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Christopher",
+"src_label": " Ashley",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Afterwards,",
+" Christopher",
+" and",
+" Ashley",
+" went to the restaurant.",
+" Christopher",
+" gave a necklace to"
+],
+"src": [
+"<|endoftext|>Afterwards,",
+" Christopher",
+" and",
+" Ashley",
+" went to the restaurant.",
+" Ashley",
+" gave a necklace to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ashley",
+"src_label": " Christopher",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Daniel",
+" and",
+" William",
+" had a lot of fun at the garden.",
+" William",
+" gave a bone to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Daniel",
+" and",
+" William",
+" had a lot of fun at the garden.",
+" Daniel",
+" gave a bone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Daniel",
+"src_label": " William",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Daniel",
+" and",
+" William",
+" had a lot of fun at the garden.",
+" Daniel",
+" gave a bone to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Daniel",
+" and",
+" William",
+" had a lot of fun at the garden.",
+" William",
+" gave a bone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " William",
+"src_label": " Daniel",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" William",
+" and",
+" David",
+" were working at the house.",
+" William",
+" decided to give a bone to"
+],
+"src": [
+"<|endoftext|>Then,",
+" William",
+" and",
+" David",
+" were working at the house.",
+" David",
+" decided to give a bone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " David",
+"src_label": " William",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" William",
+" and",
+" David",
+" were working at the house.",
+" David",
+" decided to give a bone to"
+],
+"src": [
+"<|endoftext|>Then,",
+" William",
+" and",
+" David",
+" were working at the house.",
+" William",
+" decided to give a bone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " William",
+"src_label": " David",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" Daniel",
+" and",
+" William",
+" went to the hospital.",
+" William",
+" gave a kiss to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" Daniel",
+" and",
+" William",
+" went to the hospital.",
+" Daniel",
+" gave a kiss to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Daniel",
+"src_label": " William",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After the lunch,",
+" Daniel",
+" and",
+" William",
+" went to the hospital.",
+" Daniel",
+" gave a kiss to"
+],
+"src": [
+"<|endoftext|>After the lunch,",
+" Daniel",
+" and",
+" William",
+" went to the hospital.",
+" William",
+" gave a kiss to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " William",
+"src_label": " Daniel",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Friends",
+" David",
+" and",
+" William",
+" found a bone at the store.",
+" David",
+" gave it to"
+],
+"src": [
+"<|endoftext|>Friends",
+" David",
+" and",
+" William",
+" found a bone at the store.",
+" William",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " William",
+"src_label": " David",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Friends",
+" David",
+" and",
+" William",
+" found a bone at the store.",
+" William",
+" gave it to"
+],
+"src": [
+"<|endoftext|>Friends",
+" David",
+" and",
+" William",
+" found a bone at the store.",
+" David",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " William",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>The house",
+" Jason",
+" and",
+" Ashley",
+" went to had a ring.",
+" Ashley",
+" gave it to"
+],
+"src": [
+"<|endoftext|>The house",
+" Jason",
+" and",
+" Ashley",
+" went to had a ring.",
+" Jason",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jason",
+"src_label": " Ashley",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>The house",
+" Jason",
+" and",
+" Ashley",
+" went to had a ring.",
+" Jason",
+" gave it to"
+],
+"src": [
+"<|endoftext|>The house",
+" Jason",
+" and",
+" Ashley",
+" went to had a ring.",
+" Ashley",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ashley",
+"src_label": " Jason",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>While",
+" James",
+" and",
+" William",
+" were working at the store,",
+" William",
+" gave a kiss to"
+],
+"src": [
+"<|endoftext|>While",
+" James",
+" and",
+" William",
+" were working at the store,",
+" James",
+" gave a kiss to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " James",
+"src_label": " William",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>While",
+" James",
+" and",
+" William",
+" were working at the store,",
+" James",
+" gave a kiss to"
+],
+"src": [
+"<|endoftext|>While",
+" James",
+" and",
+" William",
+" were working at the store,",
+" William",
+" gave a kiss to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " William",
+"src_label": " James",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Christopher",
+" and",
+" Ashley",
+" got a kiss at the store,",
+" Ashley",
+" decided to give the kiss to"
+],
+"src": [
+"<|endoftext|>When",
+" Christopher",
+" and",
+" Ashley",
+" got a kiss at the store,",
+" Christopher",
+" decided to give the kiss to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Christopher",
+"src_label": " Ashley",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Christopher",
+" and",
+" Ashley",
+" got a kiss at the store,",
+" Christopher",
+" decided to give the kiss to"
+],
+"src": [
+"<|endoftext|>When",
+" Christopher",
+" and",
+" Ashley",
+" got a kiss at the store,",
+" Ashley",
+" decided to give the kiss to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ashley",
+"src_label": " Christopher",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" William",
+" and",
+" Ryan",
+" got a ring at the restaurant,",
+" Ryan",
+" decided to give the ring to"
+],
+"src": [
+"<|endoftext|>When",
+" William",
+" and",
+" Ryan",
+" got a ring at the restaurant,",
+" William",
+" decided to give the ring to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " William",
+"src_label": " Ryan",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" William",
+" and",
+" Ryan",
+" got a ring at the restaurant,",
+" William",
+" decided to give the ring to"
+],
+"src": [
+"<|endoftext|>When",
+" William",
+" and",
+" Ryan",
+" got a ring at the restaurant,",
+" Ryan",
+" decided to give the ring to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ryan",
+"src_label": " William",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Joshua",
+" and",
+" Joseph",
+" went to the restaurant.",
+" Joseph",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Joshua",
+" and",
+" Joseph",
+" went to the restaurant.",
+" Joshua",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Joshua",
+"src_label": " Joseph",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Joshua",
+" and",
+" Joseph",
+" went to the restaurant.",
+" Joshua",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Joshua",
+" and",
+" Joseph",
+" went to the restaurant.",
+" Joseph",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Joseph",
+"src_label": " Joshua",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Andrew",
+" and",
+" Michael",
+" got a basketball at the hospital,",
+" Michael",
+" decided to give the basketball to"
+],
+"src": [
+"<|endoftext|>When",
+" Andrew",
+" and",
+" Michael",
+" got a basketball at the hospital,",
+" Andrew",
+" decided to give the basketball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Andrew",
+"src_label": " Michael",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Andrew",
+" and",
+" Michael",
+" got a basketball at the hospital,",
+" Andrew",
+" decided to give the basketball to"
+],
+"src": [
+"<|endoftext|>When",
+" Andrew",
+" and",
+" Michael",
+" got a basketball at the hospital,",
+" Michael",
+" decided to give the basketball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Michael",
+"src_label": " Andrew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Jessica",
+" and",
+" Robert",
+" had a lot of fun at the school.",
+" Jessica",
+" gave a bone to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Jessica",
+" and",
+" Robert",
+" had a lot of fun at the school.",
+" Robert",
+" gave a bone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Robert",
+"src_label": " Jessica",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Jessica",
+" and",
+" Robert",
+" had a lot of fun at the school.",
+" Robert",
+" gave a bone to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Jessica",
+" and",
+" Robert",
+" had a lot of fun at the school.",
+" Jessica",
+" gave a bone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jessica",
+"src_label": " Robert",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Joseph",
+" and",
+" John",
+" were working at the school.",
+" John",
+" decided to give a snack to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Joseph",
+" and",
+" John",
+" were working at the school.",
+" Joseph",
+" decided to give a snack to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Joseph",
+"src_label": " John",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Joseph",
+" and",
+" John",
+" were working at the school.",
+" Joseph",
+" decided to give a snack to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Joseph",
+" and",
+" John",
+" were working at the school.",
+" John",
+" decided to give a snack to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Joseph",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>The store",
+" David",
+" and",
+" Ryan",
+" went to had a computer.",
+" David",
+" gave it to"
+],
+"src": [
+"<|endoftext|>The store",
+" David",
+" and",
+" Ryan",
+" went to had a computer.",
+" Ryan",
+" gave it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ryan",
+"src_label": " David",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>The store",
+" David",
+" and",
+" Ryan",
+" went to had a computer.",
+" Ryan",
+" gave it to"
+],
+"src": [
+"<|endoftext|>The store",
+" David",
+" and",
+" Ryan",
+" went to had a computer.",
+" David",
+" gave it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Ryan",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Jessica",
+" and",
+" Ryan",
+" went to the restaurant,",
+" Ryan",
+" gave a kiss to"
+],
+"src": [
+"<|endoftext|>After",
+" Jessica",
+" and",
+" Ryan",
+" went to the restaurant,",
+" Jessica",
+" gave a kiss to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jessica",
+"src_label": " Ryan",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Jessica",
+" and",
+" Ryan",
+" went to the restaurant,",
+" Jessica",
+" gave a kiss to"
+],
+"src": [
+"<|endoftext|>After",
+" Jessica",
+" and",
+" Ryan",
+" went to the restaurant,",
+" Ryan",
+" gave a kiss to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ryan",
+"src_label": " Jessica",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Michael",
+" and",
+" Joseph",
+" were commuting to the house,",
+" Michael",
+" gave a necklace to"
+],
+"src": [
+"<|endoftext|>While",
+" Michael",
+" and",
+" Joseph",
+" were commuting to the house,",
+" Joseph",
+" gave a necklace to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Joseph",
+"src_label": " Michael",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Michael",
+" and",
+" Joseph",
+" were commuting to the house,",
+" Joseph",
+" gave a necklace to"
+],
+"src": [
+"<|endoftext|>While",
+" Michael",
+" and",
+" Joseph",
+" were commuting to the house,",
+" Michael",
+" gave a necklace to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Michael",
+"src_label": " Joseph",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After",
+" David",
+" and",
+" Ryan",
+" went to the garden,",
+" David",
+" gave a kiss to"
+],
+"src": [
+"<|endoftext|>After",
+" David",
+" and",
+" Ryan",
+" went to the garden,",
+" Ryan",
+" gave a kiss to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ryan",
+"src_label": " David",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>After",
+" David",
+" and",
+" Ryan",
+" went to the garden,",
+" Ryan",
+" gave a kiss to"
+],
+"src": [
+"<|endoftext|>After",
+" David",
+" and",
+" Ryan",
+" went to the garden,",
+" David",
+" gave a kiss to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " David",
+"src_label": " Ryan",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Andrew",
+" and",
+" Sarah",
+" got a snack at the garden,",
+" Andrew",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" Andrew",
+" and",
+" Sarah",
+" got a snack at the garden,",
+" Sarah",
+" decided to give it to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Sarah",
+"src_label": " Andrew",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Andrew",
+" and",
+" Sarah",
+" got a snack at the garden,",
+" Sarah",
+" decided to give it to"
+],
+"src": [
+"<|endoftext|>When",
+" Andrew",
+" and",
+" Sarah",
+" got a snack at the garden,",
+" Andrew",
+" decided to give it to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Andrew",
+"src_label": " Sarah",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Jessica",
+" and",
+" Ryan",
+" were working at the store.",
+" Ryan",
+" decided to give a drink to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Jessica",
+" and",
+" Ryan",
+" were working at the store.",
+" Jessica",
+" decided to give a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Jessica",
+"src_label": " Ryan",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Jessica",
+" and",
+" Ryan",
+" were working at the store.",
+" Jessica",
+" decided to give a drink to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Jessica",
+" and",
+" Ryan",
+" were working at the store.",
+" Ryan",
+" decided to give a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Ryan",
+"src_label": " Jessica",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Ashley",
+" and",
+" Jennifer",
+" were working at the store.",
+" Jennifer",
+" decided to give a kiss to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Ashley",
+" and",
+" Jennifer",
+" were working at the store.",
+" Ashley",
+" decided to give a kiss to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Ashley",
+"src_label": " Jennifer",
+"task": "ioi_wang_20_sot"
+},
+{
+"base": [
+"<|endoftext|>Then,",
+" Ashley",
+" and",
+" Jennifer",
+" were working at the store.",
+" Ashley",
+" decided to give a kiss to"
+],
+"src": [
+"<|endoftext|>Then,",
+" Ashley",
+" and",
+" Jennifer",
+" were working at the store.",
+" Jennifer",
+" decided to give a kiss to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Jennifer",
+"src_label": " Ashley",
+"task": "ioi_wang_20_sot"
+}
+]

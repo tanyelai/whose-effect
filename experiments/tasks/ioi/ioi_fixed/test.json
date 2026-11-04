@@ -1,0 +1,2502 @@
+[
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the school,",
+" John",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the school,",
+" Mary",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the school,",
+" Mary",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the school,",
+" John",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the beach,",
+" John",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the beach,",
+" Mary",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the beach,",
+" Mary",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the beach,",
+" John",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the park,",
+" John",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the park,",
+" Mary",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the park,",
+" Mary",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the park,",
+" John",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the library,",
+" Mary",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the library,",
+" John",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the library,",
+" John",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the library,",
+" Mary",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the park,",
+" Mary",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the park,",
+" John",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the park,",
+" John",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the park,",
+" Mary",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the library,",
+" John",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the library,",
+" Mary",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the library,",
+" Mary",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the library,",
+" John",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the store,",
+" Mary",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the store,",
+" John",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the store,",
+" John",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the store,",
+" Mary",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the park,",
+" John",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the park,",
+" Mary",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the park,",
+" Mary",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the park,",
+" John",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the store,",
+" John",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the store,",
+" Mary",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the store,",
+" Mary",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the store,",
+" John",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the store,",
+" John",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the store,",
+" Mary",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the store,",
+" Mary",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the store,",
+" John",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" John",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" Mary",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" Mary",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" John",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the store,",
+" Mary",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the store,",
+" John",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the store,",
+" John",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the store,",
+" Mary",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the museum,",
+" John",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the museum,",
+" Mary",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the museum,",
+" Mary",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the museum,",
+" John",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the school,",
+" John",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the school,",
+" Mary",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the school,",
+" Mary",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the school,",
+" John",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the beach,",
+" John",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the beach,",
+" Mary",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the beach,",
+" Mary",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the beach,",
+" John",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" John",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" Mary",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" Mary",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" John",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" Mary",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>After",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" John",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" John",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>After",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" Mary",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" John",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" Mary",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" Mary",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" John",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the office,",
+" Mary",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the office,",
+" John",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the office,",
+" John",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the office,",
+" Mary",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the museum,",
+" John",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the museum,",
+" Mary",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the museum,",
+" Mary",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the museum,",
+" John",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the office,",
+" Mary",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the office,",
+" John",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the office,",
+" John",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the office,",
+" Mary",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" John",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" Mary",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" Mary",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" John",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the library,",
+" Mary",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the library,",
+" John",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the library,",
+" John",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the library,",
+" Mary",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the park,",
+" John",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the park,",
+" Mary",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the park,",
+" Mary",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the park,",
+" John",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the library,",
+" Mary",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the library,",
+" John",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the library,",
+" John",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the library,",
+" Mary",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the store,",
+" Mary",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the store,",
+" John",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the store,",
+" John",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the store,",
+" Mary",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the market,",
+" John",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the market,",
+" Mary",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the market,",
+" Mary",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the market,",
+" John",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" John",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" Mary",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" Mary",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" John",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the library,",
+" John",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the library,",
+" Mary",
+" gave a key to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the library,",
+" Mary",
+" gave a key to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the library,",
+" John",
+" gave a key to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" Mary",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" John",
+" gave a phone to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" John",
+" gave a phone to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" Mary",
+" gave a phone to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" Mary",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>After",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" John",
+" gave a book to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" John",
+" gave a book to"
+],
+"src": [
+"<|endoftext|>After",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" Mary",
+" gave a book to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the garden,",
+" John",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the garden,",
+" Mary",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the garden,",
+" Mary",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the garden,",
+" John",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the beach,",
+" Mary",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the beach,",
+" John",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the beach,",
+" John",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the beach,",
+" Mary",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the garden,",
+" John",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the garden,",
+" Mary",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the garden,",
+" Mary",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the garden,",
+" John",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" Mary",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" John",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" John",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>After",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" Mary",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the garden,",
+" John",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the garden,",
+" Mary",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the garden,",
+" Mary",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the garden,",
+" John",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" Mary",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" John",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" John",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" Mary",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the school,",
+" Mary",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the school,",
+" John",
+" gave a pen to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the school,",
+" John",
+" gave a pen to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the school,",
+" Mary",
+" gave a pen to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the park,",
+" Mary",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the park,",
+" John",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the park,",
+" John",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the park,",
+" Mary",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the store,",
+" John",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the store,",
+" Mary",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the store,",
+" Mary",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" Mary",
+" and",
+" John",
+" went to the store,",
+" John",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the beach,",
+" John",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the beach,",
+" Mary",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the beach,",
+" Mary",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the beach,",
+" John",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the beach,",
+" Mary",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the beach,",
+" John",
+" gave a gift to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the beach,",
+" John",
+" gave a gift to"
+],
+"src": [
+"<|endoftext|>When",
+" John",
+" and",
+" Mary",
+" went to the beach,",
+" Mary",
+" gave a gift to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the market,",
+" John",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the market,",
+" Mary",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the market,",
+" Mary",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the market,",
+" John",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the school,",
+" Mary",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the school,",
+" John",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the school,",
+" John",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the school,",
+" Mary",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the market,",
+" Mary",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the market,",
+" John",
+" gave a bag to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the market,",
+" John",
+" gave a bag to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the market,",
+" Mary",
+" gave a bag to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the garden,",
+" Mary",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the garden,",
+" John",
+" gave a drink to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the garden,",
+" John",
+" gave a drink to"
+],
+"src": [
+"<|endoftext|>While",
+" John",
+" and",
+" Mary",
+" went to the garden,",
+" Mary",
+" gave a drink to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" Mary",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" John",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" John",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>Then, when",
+" John",
+" and",
+" Mary",
+" went to the cafe,",
+" Mary",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the museum,",
+" John",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the museum,",
+" Mary",
+" gave a ticket to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the museum,",
+" Mary",
+" gave a ticket to"
+],
+"src": [
+"<|endoftext|>After",
+" Mary",
+" and",
+" John",
+" went to the museum,",
+" John",
+" gave a ticket to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" John",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" Mary",
+" gave a ball to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" Mary",
+" gave a ball to"
+],
+"src": [
+"<|endoftext|>While",
+" Mary",
+" and",
+" John",
+" went to the cafe,",
+" John",
+" gave a ball to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" John",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" Mary",
+" gave a cup to"
+],
+"base_type": "ABB",
+"src_type": "ABA",
+"base_label": " Mary",
+"src_label": " John",
+"task": "ioi_fixed"
+},
+{
+"base": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" Mary",
+" gave a cup to"
+],
+"src": [
+"<|endoftext|>When",
+" Mary",
+" and",
+" John",
+" went to the office,",
+" John",
+" gave a cup to"
+],
+"base_type": "ABA",
+"src_type": "ABB",
+"base_label": " John",
+"src_label": " Mary",
+"task": "ioi_fixed"
+}
+]

@@ -1,0 +1,2402 @@
+[
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" that",
+" hurt",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" hurt",
+" the",
+" athletes"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customers",
+" that",
+" liked",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" that",
+" liked",
+" the",
+" manager"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" that",
+" hurt",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" that",
+" hurt",
+" the",
+" athletes"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" that",
+" liked",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" customer",
+" that",
+" liked",
+" the",
+" manager"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" that",
+" admired",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" that",
+" admired",
+" the",
+" senator"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" that",
+" hated",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" that",
+" hated",
+" the",
+" clerks"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" that",
+" admired",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" that",
+" admired",
+" the",
+" senator"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" that",
+" hated",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" that",
+" hated",
+" the",
+" clerks"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" that",
+" ignored",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" that",
+" ignored",
+" the",
+" executives"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" that",
+" injured",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" injured",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" ignored",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" that",
+" ignored",
+" the",
+" executives"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" injured",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" that",
+" injured",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" that",
+" hurt",
+" the",
+" architects"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" hurt",
+" the",
+" architects"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" that",
+" injured",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" taxi driver",
+" that",
+" injured",
+" the",
+" author"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" hurt",
+" the",
+" architects"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" that",
+" hurt",
+" the",
+" architects"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi drivers",
+" that",
+" injured",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" that",
+" injured",
+" the",
+" author"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" that",
+" embarrassed",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" that",
+" embarrassed",
+" the",
+" guards"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi drivers",
+" that",
+" admired",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" that",
+" admired",
+" the",
+" executives"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" that",
+" embarrassed",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" embarrassed",
+" the",
+" guards"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" that",
+" admired",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" taxi driver",
+" that",
+" admired",
+" the",
+" executives"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi drivers",
+" that",
+" ignored",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" that",
+" ignored",
+" the",
+" pilots"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" that",
+" hurt",
+" the",
+" authors"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" that",
+" hurt",
+" the",
+" authors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" that",
+" ignored",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" taxi driver",
+" that",
+" ignored",
+" the",
+" pilots"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" that",
+" hurt",
+" the",
+" authors"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" that",
+" hurt",
+" the",
+" authors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" that",
+" ignored",
+" the",
+" officer"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" that",
+" ignored",
+" the",
+" officer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" that",
+" injured",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" injured",
+" the",
+" senator"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" that",
+" ignored",
+" the",
+" officer"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" that",
+" ignored",
+" the",
+" officer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" injured",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" that",
+" injured",
+" the",
+" senator"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" that",
+" disguised",
+" the",
+" authors"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" that",
+" disguised",
+" the",
+" authors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi drivers",
+" that",
+" embarrassed",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" that",
+" embarrassed",
+" the",
+" teachers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" that",
+" disguised",
+" the",
+" authors"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" that",
+" disguised",
+" the",
+" authors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" that",
+" embarrassed",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" taxi driver",
+" that",
+" embarrassed",
+" the",
+" teachers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" that",
+" liked",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" liked",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" that",
+" ignored",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" taxi driver",
+" that",
+" ignored",
+" the",
+" pilots"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" liked",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" that",
+" liked",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi drivers",
+" that",
+" ignored",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" that",
+" ignored",
+" the",
+" pilots"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" that",
+" disguised",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" that",
+" disguised",
+" the",
+" actors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" that",
+" ignored",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" that",
+" ignored",
+" the",
+" clerks"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" that",
+" disguised",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" that",
+" disguised",
+" the",
+" actors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" that",
+" ignored",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" that",
+" ignored",
+" the",
+" clerks"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" that",
+" ignored",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" that",
+" ignored",
+" the",
+" teacher"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" liked",
+" the",
+" athlete"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" that",
+" liked",
+" the",
+" athlete"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" that",
+" ignored",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" that",
+" ignored",
+" the",
+" teacher"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" that",
+" liked",
+" the",
+" athlete"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" liked",
+" the",
+" athlete"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" that",
+" hated",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" that",
+" hated",
+" the",
+" doctors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" that",
+" hurt",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" that",
+" hurt",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" that",
+" hated",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" that",
+" hated",
+" the",
+" doctors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" that",
+" hurt",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" that",
+" hurt",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" that",
+" embarrassed",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" that",
+" embarrassed",
+" the",
+" senator"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" that",
+" ignored",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" that",
+" ignored",
+" the",
+" officers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" that",
+" embarrassed",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" that",
+" embarrassed",
+" the",
+" senator"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" that",
+" ignored",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" that",
+" ignored",
+" the",
+" officers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" injured",
+" the",
+" farmer"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" that",
+" injured",
+" the",
+" farmer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" that",
+" embarrassed",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" that",
+" embarrassed",
+" the",
+" managers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" that",
+" injured",
+" the",
+" farmer"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" injured",
+" the",
+" farmer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" that",
+" embarrassed",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" that",
+" embarrassed",
+" the",
+" managers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" that",
+" disguised",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" that",
+" disguised",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" that",
+" ignored",
+" the",
+" customer"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" that",
+" ignored",
+" the",
+" customer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" that",
+" disguised",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" that",
+" disguised",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" that",
+" ignored",
+" the",
+" customer"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" that",
+" ignored",
+" the",
+" customer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" that",
+" injured",
+" the",
+" actor"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" that",
+" injured",
+" the",
+" actor"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" that",
+" ignored",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" that",
+" ignored",
+" the",
+" clerk"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" that",
+" injured",
+" the",
+" actor"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" that",
+" injured",
+" the",
+" actor"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" that",
+" ignored",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" that",
+" ignored",
+" the",
+" clerk"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" that",
+" disguised",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" that",
+" disguised",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" that",
+" hated",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" that",
+" hated",
+" the",
+" senator"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" that",
+" disguised",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" that",
+" disguised",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" that",
+" hated",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" that",
+" hated",
+" the",
+" senator"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" hurt",
+" the",
+" pilot"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" that",
+" hurt",
+" the",
+" pilot"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" that",
+" embarrassed",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" that",
+" embarrassed",
+" the",
+" architect"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" that",
+" hurt",
+" the",
+" pilot"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" hurt",
+" the",
+" pilot"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" that",
+" embarrassed",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" that",
+" embarrassed",
+" the",
+" architect"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" that",
+" injured",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" that",
+" injured",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" that",
+" admired",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" that",
+" admired",
+" the",
+" ministers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" that",
+" injured",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" that",
+" injured",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" that",
+" admired",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" that",
+" admired",
+" the",
+" ministers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" that",
+" injured",
+" the",
+" doctor"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" that",
+" injured",
+" the",
+" doctor"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" that",
+" hurt",
+" the",
+" guard"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" hurt",
+" the",
+" guard"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" that",
+" injured",
+" the",
+" doctor"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" that",
+" injured",
+" the",
+" doctor"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" that",
+" hurt",
+" the",
+" guard"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" that",
+" hurt",
+" the",
+" guard"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" that",
+" disguised",
+" the",
+" guard"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" that",
+" disguised",
+" the",
+" guard"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" that",
+" disguised",
+" the",
+" secretary"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" disguised",
+" the",
+" secretary"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" that",
+" disguised",
+" the",
+" guard"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" that",
+" disguised",
+" the",
+" guard"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" disguised",
+" the",
+" secretary"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" that",
+" disguised",
+" the",
+" secretary"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" that",
+" disguised",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" that",
+" disguised",
+" the",
+" ministers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" that",
+" liked",
+" the",
+" athlete"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" that",
+" liked",
+" the",
+" athlete"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" that",
+" disguised",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" that",
+" disguised",
+" the",
+" ministers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" that",
+" liked",
+" the",
+" athlete"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" that",
+" liked",
+" the",
+" athlete"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" that",
+" disguised",
+" the",
+" athlete"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" that",
+" disguised",
+" the",
+" athlete"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" that",
+" disguised",
+" the",
+" farmer"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" that",
+" disguised",
+" the",
+" farmer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" that",
+" disguised",
+" the",
+" athlete"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" that",
+" disguised",
+" the",
+" athlete"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" that",
+" disguised",
+" the",
+" farmer"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" that",
+" disguised",
+" the",
+" farmer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" that",
+" hurt",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" that",
+" hurt",
+" the",
+" manager"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" that",
+" hurt",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" that",
+" hurt",
+" the",
+" athletes"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" that",
+" hurt",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" that",
+" hurt",
+" the",
+" manager"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" that",
+" hurt",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" that",
+" hurt",
+" the",
+" athletes"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" that",
+" admired",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" that",
+" admired",
+" the",
+" author"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" that",
+" injured",
+" the",
+" architects"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" that",
+" injured",
+" the",
+" architects"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" that",
+" admired",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" that",
+" admired",
+" the",
+" author"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" that",
+" injured",
+" the",
+" architects"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" that",
+" injured",
+" the",
+" architects"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_subj-relc__lex",
+"pair_kind": "lex"
+}
+]

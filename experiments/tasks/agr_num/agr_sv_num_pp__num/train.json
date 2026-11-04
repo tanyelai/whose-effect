@@ -1,0 +1,8802 @@
+[
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" near",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" near",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" in front of",
+" the",
+" secretary"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" in front of",
+" the",
+" secretary"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" near",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" near",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" in front of",
+" the",
+" secretary"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" in front of",
+" the",
+" secretary"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" across from",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" across from",
+" the",
+" officers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" in front of",
+" the",
+" customer"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" in front of",
+" the",
+" customer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" across from",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" across from",
+" the",
+" officers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" in front of",
+" the",
+" customer"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" in front of",
+" the",
+" customer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" in front of",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" in front of",
+" the",
+" doctors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" behind",
+" the",
+" minister"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" behind",
+" the",
+" minister"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" in front of",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" in front of",
+" the",
+" doctors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" behind",
+" the",
+" minister"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" behind",
+" the",
+" minister"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" behind",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" behind",
+" the",
+" managers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" across from",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" across from",
+" the",
+" author"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" behind",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" behind",
+" the",
+" managers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" across from",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" across from",
+" the",
+" author"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" behind",
+" the",
+" minister"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" behind",
+" the",
+" minister"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" in front of",
+" the",
+" secretary"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" in front of",
+" the",
+" secretary"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" behind",
+" the",
+" minister"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" behind",
+" the",
+" minister"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" in front of",
+" the",
+" secretary"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" in front of",
+" the",
+" secretary"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" behind",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" behind",
+" the",
+" executives"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" across from",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" across from",
+" the",
+" guards"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" behind",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" behind",
+" the",
+" executives"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" across from",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" across from",
+" the",
+" guards"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" in front of",
+" the",
+" guard"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" in front of",
+" the",
+" guard"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" across from",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" across from",
+" the",
+" executives"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" in front of",
+" the",
+" guard"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" in front of",
+" the",
+" guard"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" across from",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" across from",
+" the",
+" executives"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" to the side of",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" to the side of",
+" the",
+" pilots"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi drivers",
+" across from",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" taxi driver",
+" across from",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" to the side of",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" to the side of",
+" the",
+" pilots"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" across from",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" across from",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" across from",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" across from",
+" the",
+" manager"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" to the side of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" to the side of",
+" the",
+" clerk"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" across from",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" across from",
+" the",
+" manager"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" to the side of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" to the side of",
+" the",
+" clerk"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" near",
+" the",
+" farmer"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" near",
+" the",
+" farmer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi drivers",
+" near",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" taxi driver",
+" near",
+" the",
+" architect"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" near",
+" the",
+" farmer"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" near",
+" the",
+" farmer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" near",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" near",
+" the",
+" architect"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" in front of",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" in front of",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" near",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" near",
+" the",
+" officers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" in front of",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" in front of",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" near",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" near",
+" the",
+" officers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" next to",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" next to",
+" the",
+" architect"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" next to",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" next to",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" next to",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" next to",
+" the",
+" architect"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" next to",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" next to",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" near",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" near",
+" the",
+" officers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" in front of",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" in front of",
+" the",
+" manager"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" near",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" near",
+" the",
+" officers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" in front of",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" in front of",
+" the",
+" manager"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" near",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" near",
+" the",
+" guards"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" next to",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" next to",
+" the",
+" teachers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" near",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" near",
+" the",
+" guards"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" next to",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" next to",
+" the",
+" teachers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" near",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" near",
+" the",
+" teacher"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" across from",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" across from",
+" the",
+" athletes"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" near",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" near",
+" the",
+" teacher"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" across from",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" across from",
+" the",
+" athletes"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" near",
+" the",
+" actor"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" near",
+" the",
+" actor"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" to the side of",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" to the side of",
+" the",
+" guards"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" near",
+" the",
+" actor"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" near",
+" the",
+" actor"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" to the side of",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" to the side of",
+" the",
+" guards"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" across from",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" across from",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" in front of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" in front of",
+" the",
+" clerk"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" across from",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" across from",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" in front of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" in front of",
+" the",
+" clerk"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" across from",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" across from",
+" the",
+" clerks"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" in front of",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" in front of",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" across from",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" across from",
+" the",
+" clerks"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" in front of",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" in front of",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" behind",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" behind",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" to the side of",
+" the",
+" actor"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" to the side of",
+" the",
+" actor"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" behind",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" behind",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" to the side of",
+" the",
+" actor"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" to the side of",
+" the",
+" actor"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" across from",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" across from",
+" the",
+" pilots"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" near",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" near",
+" the",
+" pilots"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" across from",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" across from",
+" the",
+" pilots"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" near",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" near",
+" the",
+" pilots"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" behind",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" behind",
+" the",
+" clerk"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" near",
+" the",
+" farmers"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" near",
+" the",
+" farmers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" behind",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" behind",
+" the",
+" clerk"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" near",
+" the",
+" farmers"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" near",
+" the",
+" farmers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" behind",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" behind",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" to the side of",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" to the side of",
+" the",
+" ministers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" behind",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" behind",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" to the side of",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" to the side of",
+" the",
+" ministers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" in front of",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" in front of",
+" the",
+" officers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" near",
+" the",
+" athlete"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" near",
+" the",
+" athlete"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" in front of",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" in front of",
+" the",
+" officers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" near",
+" the",
+" athlete"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" near",
+" the",
+" athlete"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" near",
+" the",
+" athlete"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" near",
+" the",
+" athlete"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" behind",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" behind",
+" the",
+" architect"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" near",
+" the",
+" athlete"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" near",
+" the",
+" athlete"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" behind",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" behind",
+" the",
+" architect"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" behind",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" behind",
+" the",
+" ministers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" behind",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" behind",
+" the",
+" doctors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" behind",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" behind",
+" the",
+" ministers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" behind",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" behind",
+" the",
+" doctors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" in front of",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" in front of",
+" the",
+" ministers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" behind",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" behind",
+" the",
+" author"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" in front of",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" in front of",
+" the",
+" ministers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" behind",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" behind",
+" the",
+" author"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" near",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" near",
+" the",
+" architect"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" next to",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" next to",
+" the",
+" architect"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" near",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" near",
+" the",
+" architect"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" next to",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" next to",
+" the",
+" architect"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" in front of",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" in front of",
+" the",
+" pilots"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" in front of",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" in front of",
+" the",
+" executives"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customers",
+" in front of",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" customer",
+" in front of",
+" the",
+" pilots"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" in front of",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" in front of",
+" the",
+" executives"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" to the side of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" to the side of",
+" the",
+" clerk"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" in front of",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" in front of",
+" the",
+" teachers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" to the side of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" to the side of",
+" the",
+" clerk"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" in front of",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" in front of",
+" the",
+" teachers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" near",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" near",
+" the",
+" doctors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" across from",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" across from",
+" the",
+" executives"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" near",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" near",
+" the",
+" doctors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" across from",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" across from",
+" the",
+" executives"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" behind",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" behind",
+" the",
+" senator"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" next to",
+" the",
+" farmers"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" next to",
+" the",
+" farmers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" behind",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" behind",
+" the",
+" senator"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" next to",
+" the",
+" farmers"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" next to",
+" the",
+" farmers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" next to",
+" the",
+" secretaries"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" next to",
+" the",
+" secretaries"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" across from",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" across from",
+" the",
+" senator"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" next to",
+" the",
+" secretaries"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" next to",
+" the",
+" secretaries"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" across from",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" across from",
+" the",
+" senator"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" near",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" near",
+" the",
+" teacher"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" to the side of",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" to the side of",
+" the",
+" doctors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" near",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" near",
+" the",
+" teacher"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" to the side of",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" to the side of",
+" the",
+" doctors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" behind",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" behind",
+" the",
+" teacher"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" near",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" near",
+" the",
+" executives"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customers",
+" behind",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" customer",
+" behind",
+" the",
+" teacher"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" near",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" near",
+" the",
+" executives"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" to the side of",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" to the side of",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" behind",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" behind",
+" the",
+" clerk"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" to the side of",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" to the side of",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" behind",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" behind",
+" the",
+" clerk"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" to the side of",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" to the side of",
+" the",
+" pilots"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customers",
+" next to",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" customer",
+" next to",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" to the side of",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" to the side of",
+" the",
+" pilots"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" next to",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" next to",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" behind",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" behind",
+" the",
+" clerks"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" next to",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" next to",
+" the",
+" clerk"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" behind",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" behind",
+" the",
+" clerks"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" next to",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" next to",
+" the",
+" clerk"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" near",
+" the",
+" secretaries"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" near",
+" the",
+" secretaries"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" in front of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" in front of",
+" the",
+" clerk"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" near",
+" the",
+" secretaries"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" near",
+" the",
+" secretaries"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" in front of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" in front of",
+" the",
+" clerk"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" next to",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" next to",
+" the",
+" senator"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" behind",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" behind",
+" the",
+" managers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" next to",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" next to",
+" the",
+" senator"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" behind",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" behind",
+" the",
+" managers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" to the side of",
+" the",
+" pilot"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" to the side of",
+" the",
+" pilot"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" across from",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" across from",
+" the",
+" teachers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" to the side of",
+" the",
+" pilot"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" to the side of",
+" the",
+" pilot"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" across from",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" across from",
+" the",
+" teachers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" to the side of",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" to the side of",
+" the",
+" manager"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" across from",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" across from",
+" the",
+" teachers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" to the side of",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" to the side of",
+" the",
+" manager"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" across from",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" across from",
+" the",
+" teachers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" to the side of",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" to the side of",
+" the",
+" athletes"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" next to",
+" the",
+" pilot"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" next to",
+" the",
+" pilot"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" to the side of",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" to the side of",
+" the",
+" athletes"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" next to",
+" the",
+" pilot"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" next to",
+" the",
+" pilot"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" near",
+" the",
+" guard"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" near",
+" the",
+" guard"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" next to",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" next to",
+" the",
+" actors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" near",
+" the",
+" guard"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" near",
+" the",
+" guard"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" next to",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" next to",
+" the",
+" actors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" behind",
+" the",
+" secretary"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" behind",
+" the",
+" secretary"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" to the side of",
+" the",
+" actor"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" to the side of",
+" the",
+" actor"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" behind",
+" the",
+" secretary"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" behind",
+" the",
+" secretary"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" to the side of",
+" the",
+" actor"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" to the side of",
+" the",
+" actor"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" behind",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" behind",
+" the",
+" architect"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" in front of",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" in front of",
+" the",
+" author"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" behind",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" behind",
+" the",
+" architect"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" in front of",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" in front of",
+" the",
+" author"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" behind",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" behind",
+" the",
+" guards"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" behind",
+" the",
+" customers"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" behind",
+" the",
+" customers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" behind",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" behind",
+" the",
+" guards"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" behind",
+" the",
+" customers"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" behind",
+" the",
+" customers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" near",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" near",
+" the",
+" athletes"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" behind",
+" the",
+" secretaries"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" behind",
+" the",
+" secretaries"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" near",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" near",
+" the",
+" athletes"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" behind",
+" the",
+" secretaries"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" behind",
+" the",
+" secretaries"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" next to",
+" the",
+" secretaries"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" next to",
+" the",
+" secretaries"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" to the side of",
+" the",
+" athlete"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" to the side of",
+" the",
+" athlete"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" next to",
+" the",
+" secretaries"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" next to",
+" the",
+" secretaries"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" to the side of",
+" the",
+" athlete"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" to the side of",
+" the",
+" athlete"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" next to",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" next to",
+" the",
+" teacher"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" across from",
+" the",
+" farmer"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" across from",
+" the",
+" farmer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" next to",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" next to",
+" the",
+" teacher"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" across from",
+" the",
+" farmer"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" across from",
+" the",
+" farmer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" behind",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" behind",
+" the",
+" author"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" in front of",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" in front of",
+" the",
+" executives"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" behind",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" behind",
+" the",
+" author"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" in front of",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" in front of",
+" the",
+" executives"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" behind",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" behind",
+" the",
+" officers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" near",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" near",
+" the",
+" doctors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" behind",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" behind",
+" the",
+" officers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" near",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" near",
+" the",
+" doctors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" across from",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" across from",
+" the",
+" officers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" next to",
+" the",
+" authors"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" next to",
+" the",
+" authors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" across from",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" across from",
+" the",
+" officers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" next to",
+" the",
+" authors"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" next to",
+" the",
+" authors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" next to",
+" the",
+" minister"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" next to",
+" the",
+" minister"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" near",
+" the",
+" architects"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" near",
+" the",
+" architects"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" next to",
+" the",
+" minister"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" next to",
+" the",
+" minister"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" near",
+" the",
+" architects"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" near",
+" the",
+" architects"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" next to",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" next to",
+" the",
+" manager"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" to the side of",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" to the side of",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" next to",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" next to",
+" the",
+" manager"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" to the side of",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" to the side of",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" next to",
+" the",
+" customers"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" next to",
+" the",
+" customers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" behind",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" behind",
+" the",
+" teachers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" next to",
+" the",
+" customers"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" next to",
+" the",
+" customers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" behind",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" behind",
+" the",
+" teachers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" next to",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" next to",
+" the",
+" author"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" to the side of",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" to the side of",
+" the",
+" managers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" next to",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" next to",
+" the",
+" author"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" to the side of",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" to the side of",
+" the",
+" managers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" near",
+" the",
+" officer"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" near",
+" the",
+" officer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" near",
+" the",
+" minister"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" near",
+" the",
+" minister"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" near",
+" the",
+" officer"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" near",
+" the",
+" officer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" near",
+" the",
+" minister"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" near",
+" the",
+" minister"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" behind",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" behind",
+" the",
+" author"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" in front of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" in front of",
+" the",
+" clerk"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" behind",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" behind",
+" the",
+" author"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" in front of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" in front of",
+" the",
+" clerk"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" in front of",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" in front of",
+" the",
+" teacher"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" behind",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" behind",
+" the",
+" architect"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" in front of",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" in front of",
+" the",
+" teacher"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" behind",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" behind",
+" the",
+" architect"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" across from",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" across from",
+" the",
+" managers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" near",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" near",
+" the",
+" architect"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" across from",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" across from",
+" the",
+" managers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" near",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" near",
+" the",
+" architect"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" to the side of",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" to the side of",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" in front of",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" in front of",
+" the",
+" guards"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" to the side of",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" to the side of",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" in front of",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" in front of",
+" the",
+" guards"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" across from",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" across from",
+" the",
+" doctors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customers",
+" to the side of",
+" the",
+" minister"
+],
+"src": [
+"<|endoftext|>The",
+" customer",
+" to the side of",
+" the",
+" minister"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" across from",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" across from",
+" the",
+" doctors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" to the side of",
+" the",
+" minister"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" to the side of",
+" the",
+" minister"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" in front of",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" in front of",
+" the",
+" ministers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" behind",
+" the",
+" farmers"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" behind",
+" the",
+" farmers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" in front of",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" in front of",
+" the",
+" ministers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" behind",
+" the",
+" farmers"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" behind",
+" the",
+" farmers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" across from",
+" the",
+" farmers"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" across from",
+" the",
+" farmers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" near",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" near",
+" the",
+" managers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" across from",
+" the",
+" farmers"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" across from",
+" the",
+" farmers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" near",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" near",
+" the",
+" managers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" near",
+" the",
+" pilot"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" near",
+" the",
+" pilot"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" across from",
+" the",
+" secretary"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" across from",
+" the",
+" secretary"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" near",
+" the",
+" pilot"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" near",
+" the",
+" pilot"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" across from",
+" the",
+" secretary"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" across from",
+" the",
+" secretary"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" to the side of",
+" the",
+" guard"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" to the side of",
+" the",
+" guard"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" near",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" near",
+" the",
+" manager"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" to the side of",
+" the",
+" guard"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" to the side of",
+" the",
+" guard"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customers",
+" near",
+" the",
+" manager"
+],
+"src": [
+"<|endoftext|>The",
+" customer",
+" near",
+" the",
+" manager"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" in front of",
+" the",
+" farmer"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" in front of",
+" the",
+" farmer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" across from",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" across from",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" in front of",
+" the",
+" farmer"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" in front of",
+" the",
+" farmer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" across from",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" across from",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" in front of",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" in front of",
+" the",
+" athletes"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" in front of",
+" the",
+" customers"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" in front of",
+" the",
+" customers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" in front of",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" in front of",
+" the",
+" athletes"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" in front of",
+" the",
+" customers"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" in front of",
+" the",
+" customers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" behind",
+" the",
+" customers"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" behind",
+" the",
+" customers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" behind",
+" the",
+" secretary"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" behind",
+" the",
+" secretary"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" behind",
+" the",
+" customers"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" behind",
+" the",
+" customers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" behind",
+" the",
+" secretary"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" behind",
+" the",
+" secretary"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" next to",
+" the",
+" farmers"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" next to",
+" the",
+" farmers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" in front of",
+" the",
+" customer"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" in front of",
+" the",
+" customer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" next to",
+" the",
+" farmers"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" next to",
+" the",
+" farmers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" in front of",
+" the",
+" customer"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" in front of",
+" the",
+" customer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" in front of",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" in front of",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" to the side of",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" to the side of",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" in front of",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" in front of",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" to the side of",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" to the side of",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" to the side of",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" to the side of",
+" the",
+" managers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" in front of",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" in front of",
+" the",
+" officers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" to the side of",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" to the side of",
+" the",
+" managers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" in front of",
+" the",
+" officers"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" in front of",
+" the",
+" officers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretary",
+" across from",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" secretaries",
+" across from",
+" the",
+" guards"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" to the side of",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" to the side of",
+" the",
+" author"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" across from",
+" the",
+" guards"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" across from",
+" the",
+" guards"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" to the side of",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" to the side of",
+" the",
+" author"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" near",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" near",
+" the",
+" teacher"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" to the side of",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" to the side of",
+" the",
+" pilots"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" near",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" near",
+" the",
+" teacher"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" to the side of",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" to the side of",
+" the",
+" pilots"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athlete",
+" across from",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" athletes",
+" across from",
+" the",
+" teacher"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" to the side of",
+" the",
+" customers"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" to the side of",
+" the",
+" customers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" across from",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" across from",
+" the",
+" teacher"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" to the side of",
+" the",
+" customers"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" to the side of",
+" the",
+" customers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" across from",
+" the",
+" minister"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" across from",
+" the",
+" minister"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" next to",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" next to",
+" the",
+" senator"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" secretaries",
+" across from",
+" the",
+" minister"
+],
+"src": [
+"<|endoftext|>The",
+" secretary",
+" across from",
+" the",
+" minister"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" next to",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" next to",
+" the",
+" senator"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" to the side of",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" to the side of",
+" the",
+" author"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" near",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" near",
+" the",
+" pilots"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customers",
+" to the side of",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" customer",
+" to the side of",
+" the",
+" author"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" near",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" near",
+" the",
+" pilots"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" near",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" near",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" near",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" near",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" near",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" near",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" near",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" near",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" across from",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" across from",
+" the",
+" actors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" next to",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" next to",
+" the",
+" actors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" across from",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" across from",
+" the",
+" actors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" next to",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" next to",
+" the",
+" actors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" in front of",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" in front of",
+" the",
+" ministers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" behind",
+" the",
+" customer"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" behind",
+" the",
+" customer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi drivers",
+" in front of",
+" the",
+" ministers"
+],
+"src": [
+"<|endoftext|>The",
+" taxi driver",
+" in front of",
+" the",
+" ministers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" behind",
+" the",
+" customer"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" behind",
+" the",
+" customer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executive",
+" behind",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" executives",
+" behind",
+" the",
+" architect"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" in front of",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" in front of",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerks",
+" behind",
+" the",
+" architect"
+],
+"src": [
+"<|endoftext|>The",
+" clerk",
+" behind",
+" the",
+" architect"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" in front of",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" in front of",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctors",
+" across from",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" doctor",
+" across from",
+" the",
+" author"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" to the side of",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" to the side of",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" across from",
+" the",
+" author"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" across from",
+" the",
+" author"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" to the side of",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" to the side of",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" across from",
+" the",
+" guard"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" across from",
+" the",
+" guard"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" across from",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" across from",
+" the",
+" doctors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" across from",
+" the",
+" guard"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" across from",
+" the",
+" guard"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" across from",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" across from",
+" the",
+" doctors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi drivers",
+" in front of",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" taxi driver",
+" in front of",
+" the",
+" managers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" near",
+" the",
+" farmer"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" near",
+" the",
+" farmer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" in front of",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" in front of",
+" the",
+" managers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" near",
+" the",
+" farmer"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" near",
+" the",
+" farmer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" behind",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" behind",
+" the",
+" clerks"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" near",
+" the",
+" officer"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" near",
+" the",
+" officer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" executives",
+" behind",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" executive",
+" behind",
+" the",
+" clerks"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" near",
+" the",
+" officer"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" near",
+" the",
+" officer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" authors",
+" to the side of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" author",
+" to the side of",
+" the",
+" clerk"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architect",
+" to the side of",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" architects",
+" to the side of",
+" the",
+" athletes"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" to the side of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" to the side of",
+" the",
+" clerk"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" ministers",
+" to the side of",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" minister",
+" to the side of",
+" the",
+" athletes"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi driver",
+" to the side of",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" taxi drivers",
+" to the side of",
+" the",
+" teacher"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" to the side of",
+" the",
+" customer"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" to the side of",
+" the",
+" customer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" to the side of",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" to the side of",
+" the",
+" teacher"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" to the side of",
+" the",
+" customer"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" to the side of",
+" the",
+" customer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" near",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" near",
+" the",
+" actors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" to the side of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" to the side of",
+" the",
+" clerk"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" near",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" near",
+" the",
+" actors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi drivers",
+" to the side of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" taxi driver",
+" to the side of",
+" the",
+" clerk"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" in front of",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" in front of",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" behind",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" behind",
+" the",
+" athletes"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guards",
+" in front of",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" guard",
+" in front of",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" behind",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" behind",
+" the",
+" athletes"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teachers",
+" across from",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" teacher",
+" across from",
+" the",
+" clerks"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" in front of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" in front of",
+" the",
+" clerk"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" across from",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" across from",
+" the",
+" clerks"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senators",
+" in front of",
+" the",
+" clerk"
+],
+"src": [
+"<|endoftext|>The",
+" senator",
+" in front of",
+" the",
+" clerk"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" across from",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" across from",
+" the",
+" senator"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" across from",
+" the",
+" authors"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" across from",
+" the",
+" authors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" across from",
+" the",
+" senator"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" across from",
+" the",
+" senator"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" across from",
+" the",
+" authors"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" across from",
+" the",
+" authors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmer",
+" to the side of",
+" the",
+" doctor"
+],
+"src": [
+"<|endoftext|>The",
+" farmers",
+" to the side of",
+" the",
+" doctor"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" behind",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" behind",
+" the",
+" doctors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" taxi drivers",
+" to the side of",
+" the",
+" doctor"
+],
+"src": [
+"<|endoftext|>The",
+" taxi driver",
+" to the side of",
+" the",
+" doctor"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" behind",
+" the",
+" doctors"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" behind",
+" the",
+" doctors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" near",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" near",
+" the",
+" executive"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" across from",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" across from",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" near",
+" the",
+" executive"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" near",
+" the",
+" executive"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" across from",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" across from",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officer",
+" behind",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" officers",
+" behind",
+" the",
+" executives"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" next to",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" next to",
+" the",
+" athletes"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actors",
+" behind",
+" the",
+" executives"
+],
+"src": [
+"<|endoftext|>The",
+" actor",
+" behind",
+" the",
+" executives"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" actor",
+" next to",
+" the",
+" athletes"
+],
+"src": [
+"<|endoftext|>The",
+" actors",
+" next to",
+" the",
+" athletes"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" behind",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" behind",
+" the",
+" senators"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" minister",
+" to the side of",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" ministers",
+" to the side of",
+" the",
+" clerks"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" doctor",
+" behind",
+" the",
+" senators"
+],
+"src": [
+"<|endoftext|>The",
+" doctors",
+" behind",
+" the",
+" senators"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultants",
+" to the side of",
+" the",
+" clerks"
+],
+"src": [
+"<|endoftext|>The",
+" consultant",
+" to the side of",
+" the",
+" clerks"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilot",
+" across from",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" pilots",
+" across from",
+" the",
+" teachers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" farmers",
+" next to",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" farmer",
+" next to",
+" the",
+" pilots"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" officers",
+" across from",
+" the",
+" teachers"
+],
+"src": [
+"<|endoftext|>The",
+" officer",
+" across from",
+" the",
+" teachers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" senator",
+" next to",
+" the",
+" pilots"
+],
+"src": [
+"<|endoftext|>The",
+" senators",
+" next to",
+" the",
+" pilots"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" teacher",
+" to the side of",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" teachers",
+" to the side of",
+" the",
+" teacher"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" guard",
+" across from",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" guards",
+" across from",
+" the",
+" actors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " are",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" architects",
+" to the side of",
+" the",
+" teacher"
+],
+"src": [
+"<|endoftext|>The",
+" architect",
+" to the side of",
+" the",
+" teacher"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" across from",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" across from",
+" the",
+" actors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " are",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" across from",
+" the",
+" actor"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" across from",
+" the",
+" actor"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" clerk",
+" across from",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" clerks",
+" across from",
+" the",
+" managers"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " were",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customer",
+" across from",
+" the",
+" actor"
+],
+"src": [
+"<|endoftext|>The",
+" customers",
+" across from",
+" the",
+" actor"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" across from",
+" the",
+" managers"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" across from",
+" the",
+" managers"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " were",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" behind",
+" the",
+" officer"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" behind",
+" the",
+" officer"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " was",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" manager",
+" behind",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" managers",
+" behind",
+" the",
+" actors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" customers",
+" behind",
+" the",
+" officer"
+],
+"src": [
+"<|endoftext|>The",
+" customer",
+" behind",
+" the",
+" officer"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " was",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" managers",
+" behind",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" manager",
+" behind",
+" the",
+" actors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" author",
+" in front of",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" authors",
+" in front of",
+" the",
+" actors"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " is",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" consultant",
+" behind",
+" the",
+" doctor"
+],
+"src": [
+"<|endoftext|>The",
+" consultants",
+" behind",
+" the",
+" doctor"
+],
+"base_type": "singular",
+"src_type": "plural",
+"base_label": " has",
+"src_label": " have",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" athletes",
+" in front of",
+" the",
+" actors"
+],
+"src": [
+"<|endoftext|>The",
+" athlete",
+" in front of",
+" the",
+" actors"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " is",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+},
+{
+"base": [
+"<|endoftext|>The",
+" pilots",
+" behind",
+" the",
+" doctor"
+],
+"src": [
+"<|endoftext|>The",
+" pilot",
+" behind",
+" the",
+" doctor"
+],
+"base_type": "plural",
+"src_type": "singular",
+"base_label": " have",
+"src_label": " has",
+"task": "agr_sv_num_pp__num",
+"pair_kind": "num"
+}
+]

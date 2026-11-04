@@ -1,0 +1,1802 @@
+[
+{
+"base": [
+"<|endoftext|>Review Text:",
+" I like Frank the Pug, though.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" The charms of willful eccentricity, at least as evidenced by this latest cinematic essay, are beginning to wear a bit thin.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 0
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" The charms of willful eccentricity, at least as evidenced by this latest cinematic essay, are beginning to wear a bit thin.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" I like Frank the Pug, though.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 0
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" A smart, sweet and playful romantic comedy.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Ethan Hawke has always fancied himself the bastard child of the Beatnik generation and it's all over his Chelsea Walls.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 1
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Ethan Hawke has always fancied himself the bastard child of the Beatnik generation and it's all over his Chelsea Walls.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" A smart, sweet and playful romantic comedy.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 1
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" An enthralling, playful film that constantly frustrates our desire to know the ` truth' about this man, while deconstructing the very format of the biography in a manner that Derrida would doubtless give his blessing to.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" A well acted and well intentioned snoozer.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 2
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" A well acted and well intentioned snoozer.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" An enthralling, playful film that constantly frustrates our desire to know the ` truth' about this man, while deconstructing the very format of the biography in a manner that Derrida would doubtless give his blessing to.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 2
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" This concoction, so bizarre to the adult mind, is actually a charming triumph where its intended under-12 audience is concerned.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Begins as a promising meditation on one of America's most durable obsessions but winds up as a slender cinematic stunt.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 3
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Begins as a promising meditation on one of America's most durable obsessions but winds up as a slender cinematic stunt.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" This concoction, so bizarre to the adult mind, is actually a charming triumph where its intended under-12 audience is concerned.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 3
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" This film is full of rabbits.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" ... surprisingly inert for a movie in which the main character travels back and forth between epochs.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 4
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" ... surprisingly inert for a movie in which the main character travels back and forth between epochs.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" This film is full of rabbits.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 4
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" There are a few stabs at absurdist comedy... but mostly the humor is of the sweet, gentle and occasionally cloying kind that has become an Iranian specialty.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" There's no way to sort out the mess in our heads and deconstruct where it all went wrong.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 5
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" There's no way to sort out the mess in our heads and deconstruct where it all went wrong.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" There are a few stabs at absurdist comedy... but mostly the humor is of the sweet, gentle and occasionally cloying kind that has become an Iranian specialty.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 5
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" It's as close as we'll ever come to looking through a photographer's viewfinder as he works.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Creepy but ultimately unsatisfying thriller.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 6
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Creepy but ultimately unsatisfying thriller.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" It's as close as we'll ever come to looking through a photographer's viewfinder as he works.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 6
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" But some unexpected zigs and zags help.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" So stupid, so ill-conceived, so badly drawn, it created whole new levels of ugly.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 7
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" So stupid, so ill-conceived, so badly drawn, it created whole new levels of ugly.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" But some unexpected zigs and zags help.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 7
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" It helps that Lil Bow Wow... tones down his pint-sized gangsta act to play someone who resembles a real kid.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" An often-deadly boring, strange reading of a classic whose witty dialogue is treated with a baffling casual approach",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 8
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" An often-deadly boring, strange reading of a classic whose witty dialogue is treated with a baffling casual approach",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" It helps that Lil Bow Wow... tones down his pint-sized gangsta act to play someone who resembles a real kid.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 8
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" A ponderous meditation on love that feels significantly longer than its relatively scant 97 minutes.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" The stories here suffer from the chosen format.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 9
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" The stories here suffer from the chosen format.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" A ponderous meditation on love that feels significantly longer than its relatively scant 97 minutes.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 9
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" It's both a necessary political work and a fascinating documentary...",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Instead of kicking off the intrigue and suspense and mystery of the whole thing, Hart's War, like the St. Louis Rams in the Super Bowl, waits until after halftime to get started.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 10
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Instead of kicking off the intrigue and suspense and mystery of the whole thing, Hart's War, like the St. Louis Rams in the Super Bowl, waits until after halftime to get started.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" It's both a necessary political work and a fascinating documentary...",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 10
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Few films this year have been as resolute in their emotional nakedness.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" A 93-minute condensation of a 26-episode TV series, with all of the pitfalls of such you'd expect.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 11
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" A 93-minute condensation of a 26-episode TV series, with all of the pitfalls of such you'd expect.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Few films this year have been as resolute in their emotional nakedness.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 11
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Mixes likeable personalities, inventive photography and cutting, and wall-to-wall toe-tapping music to paint a picture of a subculture that is at once exhilarating, silly, perverse, hopeful and always fun.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Elicits more groans from the audience than Jar Jar Binks, Scrappy Doo and Scooby Dumb, all wrapped up into one.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 12
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Elicits more groans from the audience than Jar Jar Binks, Scrappy Doo and Scooby Dumb, all wrapped up into one.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Mixes likeable personalities, inventive photography and cutting, and wall-to-wall toe-tapping music to paint a picture of a subculture that is at once exhilarating, silly, perverse, hopeful and always fun.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 12
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" ... there are enough moments of heartbreaking honesty to keep one glued to the screen.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" The plot is very clever, but Boyd weighs it down with too many characters and events, all intertwined and far too complicated to keep track of.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 13
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" The plot is very clever, but Boyd weighs it down with too many characters and events, all intertwined and far too complicated to keep track of.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" ... there are enough moments of heartbreaking honesty to keep one glued to the screen.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 13
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" The whole cast looks to be having so much fun with the slapstick antics and silly street patois, tossing around obscure expressions like Bellini and Mullinski, that the compact 86 minutes breezes by.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Topkapi this is not.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 14
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Topkapi this is not.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" The whole cast looks to be having so much fun with the slapstick antics and silly street patois, tossing around obscure expressions like Bellini and Mullinski, that the compact 86 minutes breezes by.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 14
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Provides an intriguing window into the imagination and hermetic analysis of Todd Solondz.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Soul is what's lacking in every character in this movie and, subsequently, the movie itself.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 15
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Soul is what's lacking in every character in this movie and, subsequently, the movie itself.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Provides an intriguing window into the imagination and hermetic analysis of Todd Solondz.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 15
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" A marvellous journey from childhood idealism to adolescent self-absorption.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Sometimes smart but more often sophomoric.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 16
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Sometimes smart but more often sophomoric.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" A marvellous journey from childhood idealism to adolescent self-absorption.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 16
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Much monkeyfun for all.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Plays as hollow catharsis, with lots of tears but very little in the way of insights.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 17
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Plays as hollow catharsis, with lots of tears but very little in the way of insights.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Much monkeyfun for all.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 17
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Interacting eyeball-to-eyeball and toe-to-toe, Hopkins and Norton are a winning combination--but Fiennes steals ` Red Dragon' right from under their noses.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" This time Kaufman's imagination has failed him.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 18
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" This time Kaufman's imagination has failed him.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Interacting eyeball-to-eyeball and toe-to-toe, Hopkins and Norton are a winning combination--but Fiennes steals ` Red Dragon' right from under their noses.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 18
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" A great comedy filmmaker knows great comedy needn't always make us laugh.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" This series should have died long ago, but they keep bringing it back another day as punishment for paying money to see the last James Bond movie.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 19
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" This series should have died long ago, but they keep bringing it back another day as punishment for paying money to see the last James Bond movie.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" A great comedy filmmaker knows great comedy needn't always make us laugh.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 19
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" The result is mesmerizing--filled with menace and squalor.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" High on melodrama.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 20
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" High on melodrama.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" The result is mesmerizing--filled with menace and squalor.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 20
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Human Resources was a good, straightforward tale, but Time Out is better.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Too close to Phantom Menace for comfort.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 21
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Too close to Phantom Menace for comfort.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Human Resources was a good, straightforward tale, but Time Out is better.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 21
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Thoughtful, provocative and entertaining.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" IHOPs don't pile on this much syrup.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 22
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" IHOPs don't pile on this much syrup.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Thoughtful, provocative and entertaining.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 22
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Oh, it's extreme, all right.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Or Tom Green as Han Solo?",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 23
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Or Tom Green as Han Solo?",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Oh, it's extreme, all right.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 23
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" The comic performances are all spot on, especially Lee Ross's turn as Ken.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" It's push-the-limits teen comedy, the type written by people who can't come up with legitimate funny, and it's used so extensively that good bits are hopelessly overshadowed.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 24
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" It's push-the-limits teen comedy, the type written by people who can't come up with legitimate funny, and it's used so extensively that good bits are hopelessly overshadowed.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" The comic performances are all spot on, especially Lee Ross's turn as Ken.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 24
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" He simply presents his point of view that Ayurveda works.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" A hideous, confusing spectacle, one that may well put the nail in the coffin of any future Rice adaptations.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 25
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" A hideous, confusing spectacle, one that may well put the nail in the coffin of any future Rice adaptations.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" He simply presents his point of view that Ayurveda works.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 25
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" But fans should have fun meeting a brand-new Pokemon called Celebi.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Plays less like a coming-of-age romance than an infomercial.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 26
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Plays less like a coming-of-age romance than an infomercial.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" But fans should have fun meeting a brand-new Pokemon called Celebi.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 26
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" It is ridiculous, of course... but it is also refreshing, disarming, and just outright enjoyable despite its ridiculousness.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" There's nothing provocative about this film save for the ways in which it studiously avoids provoking thought.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 27
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" There's nothing provocative about this film save for the ways in which it studiously avoids provoking thought.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" It is ridiculous, of course... but it is also refreshing, disarming, and just outright enjoyable despite its ridiculousness.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 27
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Occasionally amateurishly made but a winsome cast and nice dialogue keeps it going.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Maybe it's asking too much, but if a movie is truly going to inspire me, I want a little more than this.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 28
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Maybe it's asking too much, but if a movie is truly going to inspire me, I want a little more than this.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Occasionally amateurishly made but a winsome cast and nice dialogue keeps it going.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 28
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" This examination of aquatic life off the shores of the Baja California peninsula of Mexico offers an engrossing way to demonstrate the virtues of the IMAX format.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Undercover Brother doesn't go far enough.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 29
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Undercover Brother doesn't go far enough.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" This examination of aquatic life off the shores of the Baja California peninsula of Mexico offers an engrossing way to demonstrate the virtues of the IMAX format.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 29
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" At about 95 minutes, Treasure Planet maintains a brisk pace as it races through the familiar story.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Any one episode of The Sopranos would send this ill-conceived folly to sleep with the fishes.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 30
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Any one episode of The Sopranos would send this ill-conceived folly to sleep with the fishes.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" At about 95 minutes, Treasure Planet maintains a brisk pace as it races through the familiar story.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 30
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Awkward but sincere and, ultimately, it wins you over.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Leave these Flowers unpicked--they're dead on the vine.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 31
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Leave these Flowers unpicked--they're dead on the vine.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Awkward but sincere and, ultimately, it wins you over.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 31
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" ''The Emperor's New Clothes'' begins with a simple plan... Well, at least that's the plan.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" has a plot full of twists upon knots... and a nonstop parade of mock-Tarantino scuzbag types that starts out clever but veers into overkill.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 32
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" has a plot full of twists upon knots... and a nonstop parade of mock-Tarantino scuzbag types that starts out clever but veers into overkill.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" ''The Emperor's New Clothes'' begins with a simple plan... Well, at least that's the plan.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 32
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" It's endearing to hear Madame D. refer to her husband as ` Jackie'--and he does make for excellent company, not least as a self-conscious performer.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" A trite psychological thriller designed to keep the audience guessing and guessing--which is not to be confused with suspecting--until it comes time to wrap things up and send the viewers home.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 33
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" A trite psychological thriller designed to keep the audience guessing and guessing--which is not to be confused with suspecting--until it comes time to wrap things up and send the viewers home.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" It's endearing to hear Madame D. refer to her husband as ` Jackie'--and he does make for excellent company, not least as a self-conscious performer.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 33
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Behan himself knew how to spin a tale and one can't help but think he'd appreciate this attempt to turn his life into art.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" All's well that ends well, and rest assured, the consciousness-raising lessons are cloaked in gross-out gags.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 34
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" All's well that ends well, and rest assured, the consciousness-raising lessons are cloaked in gross-out gags.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Behan himself knew how to spin a tale and one can't help but think he'd appreciate this attempt to turn his life into art.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 34
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Asia authors herself as Anna Battista, an Italian superstar and aspiring directress who just happens to be her own worst enemy.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" I watched the brainless insanity of No Such Thing with mounting disbelief.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 35
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" I watched the brainless insanity of No Such Thing with mounting disbelief.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Asia authors herself as Anna Battista, an Italian superstar and aspiring directress who just happens to be her own worst enemy.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 35
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" I admired this work a lot.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Demands too much of most viewers.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 36
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Demands too much of most viewers.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" I admired this work a lot.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 36
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Succeeds in providing a disquiet world the long-dreaded completion of the Police Academy series.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Falters when it takes itself too seriously and when it depends too heavily on its otherwise talented cast to clown in situations that aren't funny.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 37
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Falters when it takes itself too seriously and when it depends too heavily on its otherwise talented cast to clown in situations that aren't funny.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Succeeds in providing a disquiet world the long-dreaded completion of the Police Academy series.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 37
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" One of the best examples of how to treat a subject, you're not fully aware is being examined, much like a photo of yourself you didn't know was being taken.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Fairly successful at faking some pretty cool stunts but a complete failure at trying to create some pretty cool characters.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 38
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Fairly successful at faking some pretty cool stunts but a complete failure at trying to create some pretty cool characters.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" One of the best examples of how to treat a subject, you're not fully aware is being examined, much like a photo of yourself you didn't know was being taken.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 38
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Morton is, as usual, brilliant.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Suggests puns about ingredients and soup and somebody being off their noodle, but let's just say the ingredients don't quite add up to a meal.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 39
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Suggests puns about ingredients and soup and somebody being off their noodle, but let's just say the ingredients don't quite add up to a meal.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Morton is, as usual, brilliant.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 39
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" We can see the wheels turning, and we might resent it sometimes, but this is still a nice little picture, made by bright and friendly souls with a lot of good cheer.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" When it comes to entertainment, children deserve better than Pokemon 4Ever.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 40
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" When it comes to entertainment, children deserve better than Pokemon 4Ever.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" We can see the wheels turning, and we might resent it sometimes, but this is still a nice little picture, made by bright and friendly souls with a lot of good cheer.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 40
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Karmen moves like rhythm itself, her lips chanting to the beat, her long, braided hair doing little to wipe away the jeweled beads of sweat.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" At nearly three hours, the whole of Safe Conduct is less than the sum of its parts.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 41
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" At nearly three hours, the whole of Safe Conduct is less than the sum of its parts.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Karmen moves like rhythm itself, her lips chanting to the beat, her long, braided hair doing little to wipe away the jeweled beads of sweat.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 41
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" An impressive debut for first-time writer-director Mark Romanek, especially considering his background is in music video.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" But what saves lives on the freeway does not necessarily make for persuasive viewing.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 42
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" But what saves lives on the freeway does not necessarily make for persuasive viewing.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" An impressive debut for first-time writer-director Mark Romanek, especially considering his background is in music video.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 42
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" As teen movies go, ''Orange County'' is a refreshing change",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Guided more by intellect than heart, his story flattens instead of sharpens.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 43
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Guided more by intellect than heart, his story flattens instead of sharpens.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" As teen movies go, ''Orange County'' is a refreshing change",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 43
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" -LRB- Drumline -RRB- is entertaining for what it does, and admirable for what it doesn't do.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" ''its successes are also tempered with elements which prove the direct antithesis of what it gets right.''",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 44
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" ''its successes are also tempered with elements which prove the direct antithesis of what it gets right.''",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" -LRB- Drumline -RRB- is entertaining for what it does, and admirable for what it doesn't do.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 44
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" On its own cinematic terms, it successfully showcases the passions of both the director and novelist Byatt.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Has something to say... but it is a statement and issue worthy of a much more thoughtfulness and insight than a melodramatic and wholly predictable thriller.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 45
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Has something to say... but it is a statement and issue worthy of a much more thoughtfulness and insight than a melodramatic and wholly predictable thriller.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" On its own cinematic terms, it successfully showcases the passions of both the director and novelist Byatt.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 45
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" When it really counts... Bloody Sunday connects on a visceral level that transcends language.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" The Irwins emerge unscathed, but the fictional footage is unconvincing and criminally badly acted.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 46
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" The Irwins emerge unscathed, but the fictional footage is unconvincing and criminally badly acted.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" When it really counts... Bloody Sunday connects on a visceral level that transcends language.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 46
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Tender yet lacerating and darkly funny fable.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Just like every other Seagal movie, only louder and without that silly ponytail.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 47
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Just like every other Seagal movie, only louder and without that silly ponytail.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Tender yet lacerating and darkly funny fable.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 47
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" On the surface, it's a lovers-on-the-run crime flick, but it has a lot in common with Piesiewicz's and Kieslowski's earlier work, films like The Double Life of Veronique.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Sunshine State lacks the kind of dynamic that Limbo offers, and in some ways is a rather indulgent piece.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 48
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Sunshine State lacks the kind of dynamic that Limbo offers, and in some ways is a rather indulgent piece.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" On the surface, it's a lovers-on-the-run crime flick, but it has a lot in common with Piesiewicz's and Kieslowski's earlier work, films like The Double Life of Veronique.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 48
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" George Clooney proves he's quite a talented director and Sam Rockwell shows us he's a world-class actor with Confessions of a Dangerous Mind.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" Flashy, pretentious and as impenetrable as Morvern's thick, working-class Scottish accent.",
+" Review Sentiment:"
+],
+"base_type": "positive",
+"src_type": "negative",
+"base_label": " Positive",
+"src_label": " Negative",
+"task": "sst_classification",
+"pair": 49
+},
+{
+"base": [
+"<|endoftext|>Review Text:",
+" Flashy, pretentious and as impenetrable as Morvern's thick, working-class Scottish accent.",
+" Review Sentiment:"
+],
+"src": [
+"<|endoftext|>Review Text:",
+" George Clooney proves he's quite a talented director and Sam Rockwell shows us he's a world-class actor with Confessions of a Dangerous Mind.",
+" Review Sentiment:"
+],
+"base_type": "negative",
+"src_type": "positive",
+"base_label": " Negative",
+"src_label": " Positive",
+"task": "sst_classification",
+"pair": 49
+}
+]

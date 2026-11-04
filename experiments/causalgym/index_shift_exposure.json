@@ -1,0 +1,1063 @@
+{
+ "agr_gender": {
+  "spans": [
+   "<|endoftext|>",
+   "{name}",
+   "{completion}",
+   "_because"
+  ],
+  "first_var_pos": 1,
+  "length": 4,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{name}": 0.625,
+    "{completion}": 0.625,
+    "_because": 0.625
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{name}": 0.66,
+    "{completion}": 0.66,
+    "_because": 0.66
+   }
+  },
+  "exposure": 0.625
+ },
+ "agr_sv_num_subj-relc": {
+  "spans": [
+   "<|endoftext|>The",
+   "{subject}",
+   "_that",
+   "{verbed}",
+   "_the",
+   "{object}"
+  ],
+  "first_var_pos": 1,
+  "length": 6,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{subject}": 0.16,
+    "_that": 0.16,
+    "{verbed}": 0.16,
+    "_the": 0.16,
+    "{object}": 0.16
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{subject}": 0.16,
+    "_that": 0.16,
+    "{verbed}": 0.16,
+    "_the": 0.16,
+    "{object}": 0.16
+   }
+  },
+  "exposure": 0.16
+ },
+ "agr_sv_num_obj-relc": {
+  "spans": [
+   "<|endoftext|>The",
+   "{subject}",
+   "{that}",
+   "{the}",
+   "{object}",
+   "{verbed}"
+  ],
+  "first_var_pos": 1,
+  "length": 6,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{subject}": 0.165,
+    "{that}": 0.165,
+    "{the}": 0.165,
+    "{object}": 0.165,
+    "{verbed}": 0.165
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{subject}": 0.18,
+    "{that}": 0.18,
+    "{the}": 0.18,
+    "{object}": 0.18,
+    "{verbed}": 0.18
+   }
+  },
+  "exposure": 0.165
+ },
+ "agr_sv_num_pp": {
+  "spans": [
+   "<|endoftext|>The",
+   "{subject}",
+   "{prep}",
+   "_the",
+   "{object}"
+  ],
+  "first_var_pos": 1,
+  "length": 5,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{subject}": 0.165,
+    "{prep}": 0.165,
+    "_the": 0.165,
+    "{object}": 0.165
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{subject}": 0.16,
+    "{prep}": 0.16,
+    "_the": 0.16,
+    "{object}": 0.16
+   }
+  },
+  "exposure": 0.165
+ },
+ "agr_refl_num_subj-relc": {
+  "spans": [
+   "<|endoftext|>The",
+   "{subject}",
+   "_that",
+   "{embed_vp}",
+   "_the",
+   "{embed_np}",
+   "{matrix_v}"
+  ],
+  "first_var_pos": 1,
+  "length": 7,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{subject}": 0.205,
+    "_that": 0.205,
+    "{embed_vp}": 0.205,
+    "_the": 0.205,
+    "{embed_np}": 0.205,
+    "{matrix_v}": 0.205
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{subject}": 0.18,
+    "_that": 0.18,
+    "{embed_vp}": 0.18,
+    "_the": 0.18,
+    "{embed_np}": 0.18,
+    "{matrix_v}": 0.18
+   }
+  },
+  "exposure": 0.205
+ },
+ "agr_refl_num_obj-relc": {
+  "spans": [
+   "<|endoftext|>The",
+   "{subject}",
+   "{that}",
+   "{the}",
+   "{embed_np}",
+   "{embed_vp}",
+   "{matrix_v}"
+  ],
+  "first_var_pos": 1,
+  "length": 7,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{subject}": 0.2,
+    "{that}": 0.2,
+    "{the}": 0.2,
+    "{embed_np}": 0.2,
+    "{embed_vp}": 0.2,
+    "{matrix_v}": 0.2
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{subject}": 0.28,
+    "{that}": 0.28,
+    "{the}": 0.28,
+    "{embed_np}": 0.28,
+    "{embed_vp}": 0.28,
+    "{matrix_v}": 0.28
+   }
+  },
+  "exposure": 0.2
+ },
+ "agr_refl_num_pp": {
+  "spans": [
+   "<|endoftext|>The",
+   "{subject}",
+   "{prep}",
+   "_the",
+   "{object}",
+   "{matrix_v}"
+  ],
+  "first_var_pos": 1,
+  "length": 6,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{subject}": 0.24,
+    "{prep}": 0.24,
+    "_the": 0.24,
+    "{object}": 0.24,
+    "{matrix_v}": 0.24
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{subject}": 0.16,
+    "{prep}": 0.16,
+    "_the": 0.16,
+    "{object}": 0.16,
+    "{matrix_v}": 0.16
+   }
+  },
+  "exposure": 0.24
+ },
+ "npi_any_subj-relc": {
+  "spans": [
+   "<|endoftext|>",
+   "{det1}",
+   "{np}",
+   "_that",
+   "{rc_verb}",
+   "{det2}",
+   "{rc_obj}",
+   "_has",
+   "{matrix_v}"
+  ],
+  "first_var_pos": 1,
+  "length": 9,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{det1}": 0.0,
+    "{np}": 0.0,
+    "_that": 0.0,
+    "{rc_verb}": 0.0,
+    "{det2}": 0.0,
+    "{rc_obj}": 0.0,
+    "_has": 0.0,
+    "{matrix_v}": 0.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{det1}": 0.0,
+    "{np}": 0.0,
+    "_that": 0.0,
+    "{rc_verb}": 0.0,
+    "{det2}": 0.0,
+    "{rc_obj}": 0.0,
+    "_has": 0.0,
+    "{matrix_v}": 0.0
+   }
+  },
+  "exposure": 0.0
+ },
+ "npi_any_obj-relc": {
+  "spans": [
+   "<|endoftext|>",
+   "{det1}",
+   "{np}",
+   "_that",
+   "{det2}",
+   "{rc_subj}",
+   "{rc_verb}",
+   "_has",
+   "{matrix_v}"
+  ],
+  "first_var_pos": 1,
+  "length": 9,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{det1}": 0.0,
+    "{np}": 0.0,
+    "_that": 0.0,
+    "{det2}": 0.0,
+    "{rc_subj}": 0.0,
+    "{rc_verb}": 0.0,
+    "_has": 0.0,
+    "{matrix_v}": 0.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{det1}": 0.0,
+    "{np}": 0.0,
+    "_that": 0.0,
+    "{det2}": 0.0,
+    "{rc_subj}": 0.0,
+    "{rc_verb}": 0.0,
+    "_has": 0.0,
+    "{matrix_v}": 0.0
+   }
+  },
+  "exposure": 0.0
+ },
+ "npi_ever_subj-relc": {
+  "spans": [
+   "<|endoftext|>",
+   "{det1}",
+   "{np}",
+   "_that",
+   "{rc_verb}",
+   "{det2}",
+   "{rc_obj}",
+   "_has"
+  ],
+  "first_var_pos": 1,
+  "length": 8,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{det1}": 0.0,
+    "{np}": 0.0,
+    "_that": 0.0,
+    "{rc_verb}": 0.0,
+    "{det2}": 0.0,
+    "{rc_obj}": 0.0,
+    "_has": 0.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{det1}": 0.0,
+    "{np}": 0.0,
+    "_that": 0.0,
+    "{rc_verb}": 0.0,
+    "{det2}": 0.0,
+    "{rc_obj}": 0.0,
+    "_has": 0.0
+   }
+  },
+  "exposure": 0.0
+ },
+ "npi_ever_obj-relc": {
+  "spans": [
+   "<|endoftext|>",
+   "{det1}",
+   "{np}",
+   "_that",
+   "{det2}",
+   "{rc_obj}",
+   "{rc_verb}",
+   "_has"
+  ],
+  "first_var_pos": 1,
+  "length": 8,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{det1}": 0.0,
+    "{np}": 0.0,
+    "_that": 0.0,
+    "{det2}": 0.0,
+    "{rc_obj}": 0.0,
+    "{rc_verb}": 0.0,
+    "_has": 0.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{det1}": 0.0,
+    "{np}": 0.0,
+    "_that": 0.0,
+    "{det2}": 0.0,
+    "{rc_obj}": 0.0,
+    "{rc_verb}": 0.0,
+    "_has": 0.0
+   }
+  },
+  "exposure": 0.0
+ },
+ "garden_mvrr": {
+  "spans": [
+   "<|endoftext|>The",
+   "{noun}",
+   "{insert}",
+   "{vp.verb}",
+   "{vp.cont}"
+  ],
+  "first_var_pos": 2,
+  "length": 5,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{insert}": 0.0,
+    "{vp.verb}": 1.0,
+    "{vp.cont}": 1.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{insert}": 0.0,
+    "{vp.verb}": 1.0,
+    "{vp.cont}": 1.0
+   }
+  },
+  "exposure": 1.0
+ },
+ "garden_mvrr_mod": {
+  "spans": [
+   "<|endoftext|>The",
+   "{noun}",
+   "{insert}",
+   "{vp.verb}",
+   "{vp.intervener}",
+   "{vp.cont}"
+  ],
+  "first_var_pos": 2,
+  "length": 6,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{insert}": 0.0,
+    "{vp.verb}": 1.0,
+    "{vp.intervener}": 1.0,
+    "{vp.cont}": 1.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{insert}": 0.0,
+    "{vp.verb}": 1.0,
+    "{vp.intervener}": 1.0,
+    "{vp.cont}": 1.0
+   }
+  },
+  "exposure": 1.0
+ },
+ "garden_npz_obj": {
+  "spans": [
+   "<|endoftext|>",
+   "{subordinator}",
+   "_the",
+   "{noun}",
+   "{verb}",
+   "{comma}",
+   "_the",
+   "{npz}"
+  ],
+  "first_var_pos": 5,
+  "length": 8,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{comma}": 0.0,
+    "_the": 1.0,
+    "{npz}": 1.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{comma}": 0.0,
+    "_the": 1.0,
+    "{npz}": 1.0
+   }
+  },
+  "exposure": 1.0
+ },
+ "garden_npz_obj_mod": {
+  "spans": [
+   "<|endoftext|>",
+   "{subordinator}",
+   "_the",
+   "{noun}",
+   "{verb}",
+   "{comma}",
+   "_the",
+   "{npz}",
+   "{mod}"
+  ],
+  "first_var_pos": 5,
+  "length": 9,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{comma}": 0.0,
+    "_the": 1.0,
+    "{npz}": 1.0,
+    "{mod}": 1.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{comma}": 0.0,
+    "_the": 1.0,
+    "{npz}": 1.0,
+    "{mod}": 1.0
+   }
+  },
+  "exposure": 1.0
+ },
+ "garden_npz_v-trans": {
+  "spans": [
+   "<|endoftext|>",
+   "{subordinator}",
+   "_the",
+   "{noun}",
+   "{verb}",
+   "_the",
+   "{npz}"
+  ],
+  "first_var_pos": 4,
+  "length": 7,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{verb}": 0.2,
+    "_the": 0.2,
+    "{npz}": 0.2
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{verb}": 0.24,
+    "_the": 0.24,
+    "{npz}": 0.24
+   }
+  },
+  "exposure": 0.2
+ },
+ "garden_npz_v-trans_mod": {
+  "spans": [
+   "<|endoftext|>",
+   "{subordinator}",
+   "_the",
+   "{noun}",
+   "{verb}",
+   "_the",
+   "{npz}",
+   "{mod}"
+  ],
+  "first_var_pos": 4,
+  "length": 8,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{verb}": 0.245,
+    "_the": 0.245,
+    "{npz}": 0.245,
+    "{mod}": 0.245
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{verb}": 0.14,
+    "_the": 0.14,
+    "{npz}": 0.14,
+    "{mod}": 0.14
+   }
+  },
+  "exposure": 0.245
+ },
+ "gss_subord": {
+  "spans": [
+   "<|endoftext|>",
+   "{subordinator}",
+   "{the}",
+   "{np1}",
+   "{clause}"
+  ],
+  "first_var_pos": 1,
+  "length": 5,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{subordinator}": 0.0,
+    "{the}": 1.0,
+    "{np1}": 1.0,
+    "{clause}": 1.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{subordinator}": 0.0,
+    "{the}": 1.0,
+    "{np1}": 1.0,
+    "{clause}": 1.0
+   }
+  },
+  "exposure": 1.0
+ },
+ "gss_subord_subj-relc": {
+  "spans": [
+   "<|endoftext|>",
+   "{subordinator}",
+   "{the}",
+   "{np1}",
+   "_who",
+   "{subj.verb}",
+   "{subj.rel}",
+   "{clause.verb}",
+   "_the",
+   "{clause.np2}",
+   "_that",
+   "{clause.subj_relc}"
+  ],
+  "first_var_pos": 1,
+  "length": 12,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{subordinator}": 0.0,
+    "{the}": 1.0,
+    "{np1}": 1.0,
+    "_who": 1.0,
+    "{subj.verb}": 1.0,
+    "{subj.rel}": 1.0,
+    "{clause.verb}": 1.0,
+    "_the": 1.0,
+    "{clause.np2}": 1.0,
+    "_that": 1.0,
+    "{clause.subj_relc}": 1.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{subordinator}": 0.0,
+    "{the}": 1.0,
+    "{np1}": 1.0,
+    "_who": 1.0,
+    "{subj.verb}": 1.0,
+    "{subj.rel}": 1.0,
+    "{clause.verb}": 1.0,
+    "_the": 1.0,
+    "{clause.np2}": 1.0,
+    "_that": 1.0,
+    "{clause.subj_relc}": 1.0
+   }
+  },
+  "exposure": 1.0
+ },
+ "gss_subord_obj-relc": {
+  "spans": [
+   "<|endoftext|>",
+   "{subordinator}",
+   "{the}",
+   "{np1}",
+   "{who}",
+   "{the2}",
+   "{subj_mod_np}",
+   "{subj_mod_v}",
+   "{clause.verb}",
+   "_the",
+   "{clause.np2}",
+   "{that}",
+   "{the3}",
+   "{clause.relc-np}",
+   "{clause.obj_relc}"
+  ],
+  "first_var_pos": 1,
+  "length": 15,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{subordinator}": 0.0,
+    "{the}": 1.0,
+    "{np1}": 1.0,
+    "{who}": 1.0,
+    "{the2}": 1.0,
+    "{subj_mod_np}": 1.0,
+    "{subj_mod_v}": 1.0,
+    "{clause.verb}": 1.0,
+    "_the": 1.0,
+    "{clause.np2}": 1.0,
+    "{that}": 1.0,
+    "{the3}": 1.0,
+    "{clause.relc-np}": 1.0,
+    "{clause.obj_relc}": 1.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{subordinator}": 0.0,
+    "{the}": 1.0,
+    "{np1}": 1.0,
+    "{who}": 1.0,
+    "{the2}": 1.0,
+    "{subj_mod_np}": 1.0,
+    "{subj_mod_v}": 1.0,
+    "{clause.verb}": 1.0,
+    "_the": 1.0,
+    "{clause.np2}": 1.0,
+    "{that}": 1.0,
+    "{the3}": 1.0,
+    "{clause.relc-np}": 1.0,
+    "{clause.obj_relc}": 1.0
+   }
+  },
+  "exposure": 1.0
+ },
+ "gss_subord_pp": {
+  "spans": [
+   "<|endoftext|>",
+   "{subordinator}",
+   "{the}",
+   "{np1}",
+   "{pp1}",
+   "{clause.verb}",
+   "_the",
+   "{clause.np2}",
+   "{clause.pp}"
+  ],
+  "first_var_pos": 1,
+  "length": 9,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{subordinator}": 0.0,
+    "{the}": 1.0,
+    "{np1}": 1.0,
+    "{pp1}": 1.0,
+    "{clause.verb}": 1.0,
+    "_the": 1.0,
+    "{clause.np2}": 1.0,
+    "{clause.pp}": 1.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{subordinator}": 0.0,
+    "{the}": 1.0,
+    "{np1}": 1.0,
+    "{pp1}": 1.0,
+    "{clause.verb}": 1.0,
+    "_the": 1.0,
+    "{clause.np2}": 1.0,
+    "{clause.pp}": 1.0
+   }
+  },
+  "exposure": 1.0
+ },
+ "cleft": {
+  "spans": [
+   "<|endoftext|>What_the",
+   "{subj}",
+   "{verb}",
+   "_was"
+  ],
+  "first_var_pos": 2,
+  "length": 4,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{verb}": 0.12,
+    "_was": 0.12
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{verb}": 0.08,
+    "_was": 0.08
+   }
+  },
+  "exposure": 0.12
+ },
+ "cleft_mod": {
+  "spans": [
+   "<|endoftext|>What_the",
+   "{subj}",
+   "{verb}",
+   "{mod}",
+   "_was"
+  ],
+  "first_var_pos": 2,
+  "length": 5,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{verb}": 0.125,
+    "{mod}": 0.125,
+    "_was": 0.125
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{verb}": 0.12,
+    "{mod}": 0.12,
+    "_was": 0.12
+   }
+  },
+  "exposure": 0.125
+ },
+ "filler_gap_embed_3": {
+  "spans": [
+   "<|endoftext|>",
+   "{prefix}",
+   "{gap}",
+   "_the",
+   "{np1}",
+   "{v1}",
+   "_the",
+   "{np2}",
+   "{v2}",
+   "_the",
+   "{np3}",
+   "{v3}",
+   "{subj}",
+   "{verb}"
+  ],
+  "first_var_pos": 2,
+  "length": 14,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{gap}": 0.0,
+    "_the": 0.0,
+    "{np1}": 0.0,
+    "{v1}": 0.0,
+    "{np2}": 0.0,
+    "{v2}": 0.0,
+    "{np3}": 0.0,
+    "{v3}": 0.0,
+    "{subj}": 0.0,
+    "{verb}": 0.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{gap}": 0.0,
+    "_the": 0.0,
+    "{np1}": 0.0,
+    "{v1}": 0.0,
+    "{np2}": 0.0,
+    "{v2}": 0.0,
+    "{np3}": 0.0,
+    "{v3}": 0.0,
+    "{subj}": 0.0,
+    "{verb}": 0.0
+   }
+  },
+  "exposure": 0.0
+ },
+ "filler_gap_embed_4": {
+  "spans": [
+   "<|endoftext|>",
+   "{prefix}",
+   "{gap}",
+   "_the",
+   "{np1}",
+   "{v1}",
+   "_the",
+   "{np2}",
+   "{v2}",
+   "_the",
+   "{np3}",
+   "{v3}",
+   "_the",
+   "{np4}",
+   "{v4}",
+   "{subj}",
+   "{verb}"
+  ],
+  "first_var_pos": 2,
+  "length": 17,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{gap}": 0.0,
+    "_the": 0.0,
+    "{np1}": 0.0,
+    "{v1}": 0.0,
+    "{np2}": 0.0,
+    "{v2}": 0.0,
+    "{np3}": 0.0,
+    "{v3}": 0.0,
+    "{np4}": 0.0,
+    "{v4}": 0.0,
+    "{subj}": 0.0,
+    "{verb}": 0.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{gap}": 0.0,
+    "_the": 0.0,
+    "{np1}": 0.0,
+    "{v1}": 0.0,
+    "{np2}": 0.0,
+    "{v2}": 0.0,
+    "{np3}": 0.0,
+    "{v3}": 0.0,
+    "{np4}": 0.0,
+    "{v4}": 0.0,
+    "{subj}": 0.0,
+    "{verb}": 0.0
+   }
+  },
+  "exposure": 0.0
+ },
+ "filler_gap_hierarchy": {
+  "spans": [
+   "<|endoftext|>The_fact_that_the",
+   "{subj}",
+   "{verb}",
+   "{gap}",
+   "_the",
+   "{subj_embed}",
+   "{verb_embed}"
+  ],
+  "first_var_pos": 3,
+  "length": 7,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{gap}": 0.0,
+    "_the": 0.0,
+    "{subj_embed}": 0.0,
+    "{verb_embed}": 0.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{gap}": 0.0,
+    "_the": 0.0,
+    "{subj_embed}": 0.0,
+    "{verb_embed}": 0.0
+   }
+  },
+  "exposure": 0.0
+ },
+ "filler_gap_obj": {
+  "spans": [
+   "<|endoftext|>",
+   "{prefix}",
+   "{gap}",
+   "_the",
+   "{np1}",
+   "{verb}"
+  ],
+  "first_var_pos": 2,
+  "length": 6,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{gap}": 0.0,
+    "_the": 0.0,
+    "{np1}": 0.0,
+    "{verb}": 0.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{gap}": 0.0,
+    "_the": 0.0,
+    "{np1}": 0.0,
+    "{verb}": 0.0
+   }
+  },
+  "exposure": 0.0
+ },
+ "filler_gap_pp": {
+  "spans": [
+   "<|endoftext|>",
+   "{prefix}",
+   "{gap}",
+   "_the",
+   "{np1}",
+   "{clause.verb}",
+   "_the",
+   "{clause.obj}",
+   "{clause.pp}"
+  ],
+  "first_var_pos": 2,
+  "length": 9,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{gap}": 0.0,
+    "_the": 0.0,
+    "{np1}": 0.0,
+    "{clause.verb}": 0.0,
+    "{clause.obj}": 0.0,
+    "{clause.pp}": 0.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{gap}": 0.0,
+    "_the": 0.0,
+    "{np1}": 0.0,
+    "{clause.verb}": 0.0,
+    "{clause.obj}": 0.0,
+    "{clause.pp}": 0.0
+   }
+  },
+  "exposure": 0.0
+ },
+ "filler_gap_subj": {
+  "spans": [
+   "<|endoftext|>",
+   "{prefix}",
+   "{gap}",
+   "_the",
+   "{np1}",
+   "{clause.verb}",
+   "_the",
+   "{clause.obj}",
+   "{clause.pp}"
+  ],
+  "first_var_pos": 2,
+  "length": 9,
+  "train": {
+   "pairs": 400,
+   "shifted": {
+    "{gap}": 0.0,
+    "_the": 0.0,
+    "{np1}": 0.0,
+    "{clause.verb}": 0.0,
+    "{clause.obj}": 0.0,
+    "{clause.pp}": 0.0
+   }
+  },
+  "eval": {
+   "pairs": 100,
+   "shifted": {
+    "{gap}": 0.0,
+    "_the": 0.0,
+    "{np1}": 0.0,
+    "{clause.verb}": 0.0,
+    "{clause.obj}": 0.0,
+    "{clause.pp}": 0.0
+   }
+  },
+  "exposure": 0.0
+ }
+}

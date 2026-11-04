@@ -1,0 +1,39 @@
+\begin{table}[tbp]
+  \caption{\textbf{Models.} Width is the width of the residual stream, and heads counts the query heads, with the key--value
+  heads in parentheses where there are fewer. The last three columns show where each model is used. Readout refers to
+  \cref{sec:inflation} and \cref{app:readout} (every readout analysis), and maps refers to \cref{sec:offroute}. Benchmarks
+  refers to \cref{sec:published}, where c marks CausalGym's released code, s the code of the sentiment authors, and p our
+  maps under CausalGym's protocol. All models are base checkpoints (not instruction-tuned) under the Hugging Face
+  organisations of their authors (EleutherAI, \texttt{gpt2}, HuggingFaceTB, Qwen, meta-llama, google). Our runs read them at
+  pinned revisions, and CausalGym's code reads them at their current address. Pythia is the non-deduplicated suite; at 14m
+  and 31m, the weights at that address were replaced in February 2026 (\cref{app:indexswap}). Licences are as released by
+  their authors. Sources: Pythia \citep{biderman2023}; GPT-2 \citep{radford2019}; SmolLM2 \citep{allal2025}; Qwen2.5 \citep{qwen2024}; Llama \citep{dubey2025}; Gemma-2 \citep{team2024}.}
+  \label{tab:models}
+  \centering
+  \footnotesize
+  \setlength{\tabcolsep}{4pt}
+  \begin{tabular}{@{}lrrrlccl@{}}
+    \toprule
+    model & layers & width & heads & licence & readout & maps & benchmarks \\
+    \midrule
+    Pythia-14m & 6 & 128 & 4 & Apache-2.0 &  &  & c \\
+    Pythia-31m & 6 & 256 & 8 & Apache-2.0 &  &  & c \\
+    Pythia-70m & 6 & 512 & 8 & Apache-2.0 &  &  & c \\
+    Pythia-160m & 12 & 768 & 12 & Apache-2.0 & $\checkmark$ & $\checkmark$ & c, s, p \\
+    Pythia-410m & 24 & 1024 & 16 & Apache-2.0 & $\checkmark$ & $\checkmark$ & c, s, p \\
+    Pythia-1b & 16 & 2048 & 8 & Apache-2.0 & $\checkmark$ & $\checkmark$ & s, p \\
+    Pythia-1.4b & 24 & 2048 & 16 & Apache-2.0 &  &  & s \\
+    Pythia-6.9b & 32 & 4096 & 32 & Apache-2.0 & $\checkmark$ & $\checkmark$ &  \\
+    GPT-2 small & 12 & 768 & 12 & MIT & $\checkmark$ & $\checkmark$ & s, p \\
+    SmolLM2-360M & 32 & 960 & 15 (5) & Apache-2.0 & $\checkmark$ & $\checkmark$ & s, p \\
+    Qwen2.5-0.5B & 24 & 896 & 14 (2) & Apache-2.0 & $\checkmark$ & $\checkmark$ & s, p \\
+    Qwen2.5-1.5B & 28 & 1536 & 12 (2) & Apache-2.0 & $\checkmark$ &  &  \\
+    Qwen2.5-7B & 28 & 3584 & 28 (4) & Apache-2.0 & $\checkmark$ & $\checkmark$ &  \\
+    Qwen2.5-32B & 64 & 5120 & 40 (8) & Apache-2.0 & $\checkmark$ &  &  \\
+    Llama-3.2-1B & 16 & 2048 & 32 (8) & Llama 3.2 Community & $\checkmark$ &  &  \\
+    Llama-3.2-3B & 28 & 3072 & 24 (8) & Llama 3.2 Community & $\checkmark$ &  &  \\
+    Llama-3.1-8B & 32 & 4096 & 32 (8) & Llama 3.1 Community & $\checkmark$ & $\checkmark$ &  \\
+    Gemma-2-9B & 42 & 3584 & 16 (8) & Gemma Terms of Use & $\checkmark$ & $\checkmark$ &  \\
+    \bottomrule
+  \end{tabular}
+\end{table}
